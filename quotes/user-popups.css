@@ -1,0 +1,112 @@
+.collapse:hover {
+    text-decoration: underline;
+    text-decoration-color: currentColor;
+}
+
+.collapse {
+    width: fit-content;
+    cursor: pointer;
+}
+
+.collapse:focus {
+    outline: none;
+}
+
+.collapse>.popup {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.collapse:focus>.popup {
+    transition: 0.2s;
+    opacity: 1;
+    pointer-events: unset;
+    left: 8vw;
+}
+
+.popup {
+    cursor: initial;
+    text-align: initial;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    z-index: 1;
+    position: absolute;
+    background-color: #202225;
+    color: #d3c8c8;
+    font-family: Whitney, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.375rem;
+    font-size: 1rem;
+    left: 6vw;
+    top: 30vh;
+    width: 250px;
+    padding-top: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .2), 0 0 0 1px rgba(32, 34, 37, .6);
+    max-height: calc(100vh - 20px);
+}
+
+.popup_head {
+    text-align: center;
+    color: #b9bbbe;
+}
+
+.popup_avatar {
+    border-radius: 100%;
+    width: 80px;
+    margin-bottom: 8px;
+}
+
+.popup_bold {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.popup_body {
+    margin-top: 12px;
+    padding: 12px;
+    background-color: #2f3136;
+    font-size: 12px;
+}
+
+.popup_body_header {
+    color: #b9bbbe;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+
+.popup_body>[class*="role_"]::before {
+    content: " ";
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    margin-right: 1px;
+    background-color: currentColor;
+    display: inline-block;
+    vertical-align: -2px;
+}
+
+.popup_body>[class*="role_"] {
+    font-weight: 500;
+    padding: 0 4px;
+    height: 22px;
+    border-radius: 12px;
+    border: 1px solid;
+    border-color: currentColor;
+    margin: 0 4px 4px 0;
+    display: inline-block
+}
+
+.popup_body>[class*="role_"]>p {
+    color: #d3c8c8;
+    margin: 0;
+    display: inline-block;
+    margin-right: 4px;
+}
+
+.popup_smaller {
+    font-size: 0.9rem;
+}

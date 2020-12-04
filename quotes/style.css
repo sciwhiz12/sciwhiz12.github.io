@@ -1,0 +1,110 @@
+body {
+    background-color: #36393F;
+    color: #d3c8c8;
+    font-family: Whitney, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.375rem;
+    font-size: 1rem;
+    break-inside: avoid-page;
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+}
+
+.server_icon {
+    width: 2rem;
+    vertical-align: middle;
+    border-radius: 100%;
+}
+
+.server_title {
+    font-style: normal;
+}
+
+.table {
+    text-align: center;
+    margin: auto;
+    border-top: #2F3136 solid 2px;
+    border-bottom: #2F3136 solid 2px;
+    border-spacing: 0;
+}
+
+.table_header>th {
+    border-bottom: #2F3136 solid 1px;
+}
+
+tr:nth-child(even) {
+    background-color: #2F3136;
+}
+
+.non_user {
+    color: #aaaaaa;
+    font-style: italic;
+}
+
+.role_forgegod {
+    color: #E91E63;
+}
+
+.role_forge {
+    color: #3498DB;
+}
+
+.role_collaborator {
+    color: #1F8B4C;
+}
+
+.role_moderator {
+    color: #F1C40F;
+}
+
+.role_lts {
+    color: #cfe934;
+}
+
+.role_triage {
+    color: #9B59B6;
+}
+
+.role_superhelper {
+    color: #c27c0e;
+}
+
+.role_bot {
+    color: #607D8B;
+}
+
+.role_tainted {
+    color: #07a23a;
+}
+
+.role_usd10 {
+    color: #ff5722;
+}
+
+.role_patreon {
+    color: #ff7043;
+}
+
+.role_problem {
+    color: #ad1457;
+}
+
+.role_default {
+    color: #b9bbbe;
+}
+
+footer {
+    float: right;
+    font-size: 0.7rem;
+    line-height: 0.8rem;
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    text-align: right;
+}
+
+.white {
+    color: white;
+}

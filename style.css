@@ -1,0 +1,23 @@
+body {
+    color: #eee;
+    background-color: #222;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: #55f;
+    text-decoration: none;
+}
+
+a::visited {
+    color: #55f;
+}
