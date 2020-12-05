@@ -24,32 +24,32 @@
     display: flex;
     margin: auto;
     overflow: auto;
-    width: 75vw;
+    width: 80vw;
     flex-flow: column nowrap;
 }
 
 .header {
     flex: 0 1 auto;
     background-color: var(--tertiary-background-color);
-    height: 1.7em;
-    font-size: 150%;
+    height: 6rem;
+    font-size: 1.5rem;
     text-align: center;
-    padding: 16px 0 12px 0;
+    padding: 0.3rem 0 0.1rem 0;
+    line-height: 2.2rem;
 }
 
 .footer {
     flex: 0 1 2em;
+    text-align: center;
     background-color: var(--tertiary-background-color);
 }
 
 .quote {
-    padding: 3px 6px;
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
-    /* border: 1px solid black; */
-    /* ^ For debugging only */
-    margin: 7px 0px;
+    margin: 8px 0px;
+    padding-right: 6px;
 }
 
 .quote:hover {
@@ -57,21 +57,23 @@
 }
 
 .quote .count {
-    font-weight: bold;
+    font-weight: 600;
     font-size: 1.35rem;
-    width: 2.8rem;
-    margin-right: 0.9rem;
+    margin-right: 1rem;
     text-align: center;
+    flex: 0 0 2.25em;
 }
 
 .quote .avatar {
+    flex: 0 0 40px;
     border-radius: 100%;
     width: 40px;
-    margin-right: 12px;
+    margin-right: 1rem;
     align-self: flex-start;
 }
 
 .quote .content {
+    flex: 1 1 auto;
     color: var(--content-color);
     font-weight: lighter;
 }
@@ -84,8 +86,9 @@
 
 .quote .side-text {
     color: var(--small-text-color);
-    font-size: 0.80rem;
+    font-size: 0.8rem;
     font-weight: lighter;
+    line-height: 1.1rem;
 }
 
 .quote .side-text a {
@@ -120,11 +123,14 @@ p {
     transition: 0.2s;
     opacity: 1;
     pointer-events: unset;
-    left: 72vw;
+    left: 50%
 }
 
 .popup {
-    left: 70vw;
+    position: fixed;
+    top: 50%;
+    left: 52%;
+    transform: translate(-50%, -50%);
 }
 
 .emote {
@@ -136,6 +142,4 @@ p {
 .meta-text {
     font-style: oblique;
     color: #ddd;
-    text-decoration-line: underline;
-    text-decoration-color: currentColor;
 }
