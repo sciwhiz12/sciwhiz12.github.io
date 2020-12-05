@@ -1,0 +1,141 @@
+:root {
+    --hover-color: #04040512;
+    --link-color: #7777ff;
+    --small-text-color: #72767d;
+    --content-color: #dcddde;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    height: 100%;
+    background-color: var(--secondary-background-color);
+    display: flex;
+    flex-flow: column nowrap;
+    font-size: 1rem;
+}
+
+.flex {
+    background-color: var(--primary-background-color);
+    flex: 1 1 auto;
+    display: flex;
+    margin: auto;
+    overflow: auto;
+    width: 75vw;
+    flex-flow: column nowrap;
+}
+
+.header {
+    flex: 0 1 auto;
+    background-color: var(--tertiary-background-color);
+    height: 1.7em;
+    font-size: 150%;
+    text-align: center;
+    padding: 16px 0 12px 0;
+}
+
+.footer {
+    flex: 0 1 2em;
+    background-color: var(--tertiary-background-color);
+}
+
+.quote {
+    padding: 3px 6px;
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    /* border: 1px solid black; */
+    /* ^ For debugging only */
+    margin: 7px 0px;
+}
+
+.quote:hover {
+    background-color: var(--hover-color);
+}
+
+.quote .count {
+    font-weight: bold;
+    font-size: 1.35rem;
+    width: 2.8rem;
+    margin-right: 0.9rem;
+    text-align: center;
+}
+
+.quote .avatar {
+    border-radius: 100%;
+    width: 40px;
+    margin-right: 12px;
+    align-self: flex-start;
+}
+
+.quote .content {
+    color: var(--content-color);
+    font-weight: lighter;
+}
+
+.quote .name {
+    font-size: 1rem;
+    font-weight: 500;
+    display: inline-block;
+}
+
+.quote .side-text {
+    color: var(--small-text-color);
+    font-size: 0.80rem;
+    font-weight: lighter;
+}
+
+.quote .side-text a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+p {
+    margin-bottom: 4px;
+}
+
+[class*="collapse-"]:hover>span:nth-child(1) {
+    text-decoration: underline currentColor;
+}
+
+[class*="collapse-"] {
+    width: fit-content;
+    cursor: pointer;
+}
+
+[class*="collapse-"]:focus {
+    outline: none;
+}
+
+[class*="collapse-"]~.content>.popup {
+    opacity: 0;
+    pointer-events: none;
+}
+
+.collapse-avatar:focus~.content>.popup,
+.collapse-name:focus~.popup {
+    transition: 0.2s;
+    opacity: 1;
+    pointer-events: unset;
+    left: 72vw;
+}
+
+.popup {
+    left: 70vw;
+}
+
+.emote {
+    width: 18px;
+    vertical-align: sub;
+    object-fit: contain;
+}
+
+.meta-text {
+    font-style: oblique;
+    color: #ddd;
+    text-decoration-line: underline;
+    text-decoration-color: currentColor;
+}

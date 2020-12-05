@@ -1,6 +1,5 @@
-.collapse:hover {
-    text-decoration: underline;
-    text-decoration-color: currentColor;
+.collapse:hover>span {
+    text-decoration: underline currentColor;
 }
 
 .collapse {
@@ -32,8 +31,8 @@
     padding: 0;
     z-index: 1;
     position: absolute;
-    background-color: #202225;
-    color: #d3c8c8;
+    background-color: var(--tertiary-background-color);
+    color: var(--text-color);
     font-family: Whitney, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     line-height: 1.375rem;
     font-size: 1rem;
@@ -66,7 +65,7 @@
 .popup_body {
     margin-top: 12px;
     padding: 12px;
-    background-color: #2f3136;
+    background-color: var(--secondary-background-color);
     font-size: 12px;
 }
 
@@ -101,7 +100,7 @@
 }
 
 .popup_body>[class*="role_"]>p {
-    color: #d3c8c8;
+    color: var(--text-color);
     margin: 0;
     display: inline-block;
     margin-right: 4px;
