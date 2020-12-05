@@ -85,7 +85,7 @@
     margin-right: 1px;
     background-color: currentColor;
     display: inline-block;
-    vertical-align: -2px;
+    vertical-align: -1px;
 }
 
 .popup_body>[class*="role_"] {
