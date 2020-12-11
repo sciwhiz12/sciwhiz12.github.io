@@ -1,0 +1,439 @@
+{
+    "users": {
+        "tterrag": {
+            "discriminator": "1098",
+            "avatar": "https://cdn.discordapp.com/avatars/140245257416736769/74037714fd3d48cfbe57aaef30ef99a4.png?size=128",
+            "roles": ["forge", "moderator", "lts", "triage"]
+        },
+        "McJty": {
+            "discriminator": "4219",
+            "avatar": "https://cdn.discordapp.com/avatars/115678922338729991/1402a5d647a30fda77c162ae624ab6b2.png?size=128",
+            "roles": []
+        },
+        "fry": {
+            "discriminator": "1522",
+            "avatar": "https://cdn.discordapp.com/avatars/104559614472765440/f13d4999012e583e1353aac80c2e7c17.png?size=128",
+            "roles": ["collaborator", "problem"]
+        }
+    },
+    "roles": {
+        "forge": {
+            "css_class": "role_forge",
+            "name": "Forge Team"
+        },
+        "collaborator": {
+            "css_class": "role_collaborator",
+            "name": "Collaborator"
+        },
+        "moderator": {
+            "css_class": "role_moderator",
+            "name": "Moderator"
+        },
+        "lts": {
+            "css_class": "role_lts",
+            "name": "LTS"
+        },
+        "triage": {
+            "css_class": "role_triage",
+            "name": "Triage Team"
+        },
+        "problem": {
+            "css_class": "role_problem",
+            "name": "Problem Causer"
+        }
+    },
+    "quotes": [{
+            "user": "tterrag",
+            "text": "it's not a rootkit, it only does [things rootkits do]"
+        },
+        {
+            "user": "McJty",
+            "text": "Ah killing myself helped"
+        },
+        {
+            "user": "fry",
+            "text": "now you can yeet on the go"
+        },
+        {
+            "user": "Anonymous",
+            "text": "Stonks"
+        },
+        {
+            "user": "illy",
+            "text": "Maybe the Ant and Maven guys were right.... "
+        },
+        {
+            "user": "illy",
+            "text": "the one thing I hate about the FAP channel is that I want to answer every single thing"
+        },
+        {
+            "user": "illy",
+            "text": "looks like it is written by masturbating monkeys"
+        },
+        {
+            "user": "illy",
+            "text": "Daddy is doing patches"
+        },
+        {
+            "user": "illy",
+            "text": "Cat! What is, the fuck? "
+        },
+        null,
+        {
+            "user": "Anonymous",
+            "text": "I can say get rekt if I want to "
+        },
+        {
+            "user": "diesieben07",
+            "text": "u wot mate "
+        },
+        {
+            "user": "LexManos",
+            "text": "No excuses, only results. "
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        },
+        {
+            "user": "",
+            "text": ""
+        }
+    ]
+}
