@@ -1,0 +1,588 @@
+{
+    "users": {
+        "tterrag": {
+            "discriminator": "1098",
+            "avatar": "https://cdn.discordapp.com/avatars/140245257416736769/74037714fd3d48cfbe57aaef30ef99a4.png?size=128",
+            "roles": ["forge", "moderator", "lts", "triage"]
+        },
+        "McJty": {
+            "discriminator": "4219",
+            "avatar": "https://cdn.discordapp.com/avatars/115678922338729991/1402a5d647a30fda77c162ae624ab6b2.png?size=128",
+            "roles": []
+        },
+        "fry": {
+            "discriminator": "1522",
+            "avatar": "https://cdn.discordapp.com/avatars/104559614472765440/f13d4999012e583e1353aac80c2e7c17.png?size=128",
+            "roles": ["collaborator", "problem"]
+        },
+        "illy": {
+            "discriminator": "8209",
+            "nickname": "/bin/illy",
+            "avatar": "https://cdn.discordapp.com/avatars/113392954206347264/72e3b261d94ab5fb3894de9a38a8f4b4.png?size=128",
+            "roles": ["collaborator", "moderator", "triage", "patreon"]
+        },
+        "diesieben07": {
+            "discriminator": "0714",
+            "avatar": "https://cdn.discordapp.com/avatars/328214370964340746/821d636828d45409ba8a509b2f41ab98.png?size=128",
+            "roles": ["triage"]
+        },
+        "LexManos": {
+            "discriminator": "1864",
+            "avatar": "https://cdn.discordapp.com/avatars/134030797756694528/55a560be42916b63b9bf9f0c3f95d7c3.png?size=128",
+            "roles": ["forgegod", "forge"]
+        },
+        "Curle": {
+            "discriminator": "6998",
+            "avatar": "https://cdn.discordapp.com/avatars/462617385157787648/6548d9da1c1cdd266c96f001ec2950a4.png?size=128",
+            "roles": ["triage", "superhelper", "nitro", "tainted"]
+        },
+        "cpw": {
+            "discriminator": "3509",
+            "avatar": "https://cdn.discordapp.com/avatars/104313475756466176/670b4f8950f3ed6457a3a114561fbaba.png?size=128",
+            "roles": ["forge"]
+        },
+        "gigaherz": {
+            "discriminator": "9173",
+            "avatar": "https://cdn.discordapp.com/avatars/220946008404656128/3f566d2b768e383fd1d7cefab7ce2490.png?size=128",
+            "roles": ["forge", "moderator", "lts", "triage"]
+        },
+        "AshersLab": {
+            "discriminator": "1864",
+            "nickname": "AshersLab™ [MineColonies]",
+            "avatar": "https://cdn.discordapp.com/avatars/315757273676906497/6715d601b7a3cb9552082990140c6147.png?size=128",
+            "roles": ["moderator", "triage", "usd10", "patreon"]
+        },
+        "chylex": {
+            "discriminator": "5000",
+            "avatar": "https://cdn.discordapp.com/avatars/141618845126230016/a_a4e19e6b7afedad1f927e571d45853d9.gif?size=128",
+            "roles": []
+        },
+        "forge-bot": {
+            "discriminator": "9014",
+            "avatar": "https://cdn.discordapp.com/avatars/437036817858953217/b249324816cec24d5c98939bcc45212e.png?size=128",
+            "tag": "BOT",
+            "roles": ["bot"]
+        },
+        "DaemonUmbra": {
+            "discriminator": "1864",
+            "avatar": "https://cdn.discordapp.com/avatars/107667673684377600/97299ad89c74982ad7197180524862d8.png?size=128",
+            "roles": ["moderator", "triage", "usd10", "patreon", "nitro"]
+        },
+        "sciwhiz12": {
+            "discriminator": "1286",
+            "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/07af42bab967111feac6a4346661df19.png?size=128",
+            "roles": []
+        },
+        "killjoy 💥🗡": {
+            "discriminator": "7628",
+            "avatar": "https://cdn.discordapp.com/avatars/171783421377511425/99718951a97bd18d0dd1511497a2ecb4.png?size=128",
+            "roles": []
+        },
+        "Noe": {
+            "discriminator": "2252",
+            "avatar": "https://cdn.discordapp.com/avatars/358822645225095170/d8135516040769a2346b31f9a9ee3a13.png?size=128",
+            "roles": []
+        },
+        "Silk": {
+            "discriminator": "6031",
+            "nickname": "Silk / Memento Mori",
+            "avatar": "https://cdn.discordapp.com/avatars/490226168335695873/28fd7381797d33aedbfcbbc1162f4267.webp?size=128",
+            "roles": []
+        },
+        "Unnoen": {
+            "discriminator": "0001",
+            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/d7360fd07ce11b2e48c9bcf5653e06ad.png?size=128",
+            "roles": ["triage"]
+        },
+        "ERROR": {
+            "discriminator": "4030",
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/5cd97b84506fa65727e32f8abb0f758d.png?size=128",
+            "roles": []
+        },
+        "FinnT730": {
+            "discriminator": "9064",
+            "nickname": "FinnT730[Dumbass Bumbass]",
+            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/9d667b7f6fa52ad45220f8a28cce8bb9.png?size=128",
+            "roles": []
+        },
+        "Sydney": {
+            "discriminator": "8008",
+            "nickname": "Shroom Agent",
+            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/e8e9d21cfe133f1c018fdea6eb7fbe90.png?size=128",
+            "roles": []
+        },
+        "OrionOnline": {
+            "discriminator": "1864",
+            "nickname": "OrionOnline [MineColonies]",
+            "avatar": "https://cdn.discordapp.com/avatars/304594425286361088/36efdb744c6c4a735b767c55f8269f40.png?size=128",
+            "roles": ["triage", "patreon"]
+        },
+        "wild tan()": {
+            "discriminator": "8651",
+            "avatar": "https://cdn.discordapp.com/avatars/510415959480336393/9bb5ae35f8f7707444d44ef1b23c0b27.png?size=128",
+            "roles": []
+        },
+        "ByteLaw": {
+            "discriminator": "2463",
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/2feaf0ac54b83c533c17774bdbec5b06.png?size=128",
+            "roles": []
+        }
+    },
+    "roles": {
+        "forgegod": {
+            "css_class": "role_forgegod",
+            "name": "forgegod"
+        },
+        "forge": {
+            "css_class": "role_forge",
+            "name": "Forge Team"
+        },
+        "collaborator": {
+            "css_class": "role_collaborator",
+            "name": "Collaborator"
+        },
+        "moderator": {
+            "css_class": "role_moderator",
+            "name": "Moderator"
+        },
+        "bot": {
+            "css_class": "role_bot",
+            "name": "Bot"
+        },
+        "lts": {
+            "css_class": "role_lts",
+            "name": "LTS"
+        },
+        "triage": {
+            "css_class": "role_triage",
+            "name": "Triage Team"
+        },
+        "superhelper": {
+            "css_class": "role_superhelper",
+            "name": "superhelper"
+        },
+        "patreon": {
+            "css_class": "role_patreon",
+            "name": "Patreon Donor"
+        },
+        "usd10": {
+            "css_class": "role_usd10",
+            "name": "$10"
+        },
+        "nitro": {
+            "css_class": "role_default",
+            "name": "Nitro Booster"
+        },
+        "problem": {
+            "css_class": "role_problem",
+            "name": "Problem Causer"
+        },
+        "tainted": {
+            "css_class": "role_tainted",
+            "name": "Tainted"
+        }
+    },
+    "quotes": [{
+            "user": "tterrag",
+            "text": "it's not a rootkit, it only does [things rootkits do]"
+        },
+        {
+            "user": "McJty",
+            "text": "Ah killing myself helped"
+        },
+        {
+            "user": "fry",
+            "text": "now you can yeet on the go"
+        },
+        {
+            "user": "Anonymous",
+            "text": "Stonks"
+        },
+        {
+            "user": "illy",
+            "text": "Maybe the Ant and Maven guys were right.... "
+        },
+        {
+            "user": "illy",
+            "text": "the one thing I hate about the FAP channel is that I want to answer every single thing"
+        },
+        {
+            "user": "illy",
+            "text": "looks like it is written by masturbating monkeys"
+        },
+        {
+            "user": "illy",
+            "text": "Daddy is doing patches"
+        },
+        {
+            "user": "illy",
+            "text": "Cat! What is, the fuck? "
+        },
+        null,
+        {
+            "user": "Anonymous",
+            "text": "I can say get rekt if I want to "
+        },
+        {
+            "user": "diesieben07",
+            "text": "u wot mate "
+        },
+        {
+            "user": "LexManos",
+            "text": "No excuses, only results. "
+        },
+        {
+            "user": "Curle",
+            "text": "if you have to ask, the answer is no. i'm almost never serious <img class=\"emote\" src=\"https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg\" alt=\":slight_smile:\">"
+        },
+        {
+            "user": "illy",
+            "text": "I angered my dear pa pa"
+        },
+        {
+            "user": "cpw",
+            "text": "Someone is having a lot of fun with alphas"
+        },
+        {
+            "user": "Anonymous",
+            "text": "If it's not Boeing, i'm not going "
+        },
+        {
+            "user": "gigaherz",
+            "text": "It's not about difficulty, it's about NOPE"
+        },
+        {
+            "user": "Curle",
+            "text": "thx bae"
+        },
+        {
+            "user": "AshersLab",
+            "text": "God you failure"
+        },
+        {
+            "user": "chylex",
+            "text": "I'm fully on the Lesbian Lanse train"
+        },
+        {
+            "user": "illy",
+            "text": "My SQL netbeans Solaris"
+        },
+        {
+            "user": "Curle",
+            "text": "if he doesn't cough up i may permaban "
+        },
+        {
+            "user": "AshersLab",
+            "text": "?note AsherSlab is lame "
+        },
+        {
+            "user": "forge-bot",
+            "text": "Amethyst slapped Finn the banhammer "
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "....you absolute fucking creep, Finn "
+        },
+        {
+            "user": "AshersLab",
+            "text": "it's only 5 commands to set up, after you do all the setting up"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": " hate that i keep writing <code>memebers</code> instead of <code>memebers</code>"
+        },
+        {
+            "user": "Curle",
+            "text": "hi @​FinnT730 [Village Idiot]"
+        },
+        {
+            "user": "Curle",
+            "text": "Aristotle is a peasant"
+        },
+        {
+            "user": "illy",
+            "text": "yeah im writing some h8 that doesn't look like a segfault..."
+        },
+        {
+            "user": "AshersLab",
+            "text": "Wtf do these hieroglyphs mean"
+        },
+        {
+            "user": "AshersLab",
+            "text": "slave boy, help windows man"
+        },
+        null,
+        {
+            "user": "killjoy 💥🗡",
+            "text": "Milk isn't food. It's a sauce"
+        },
+        {
+            "user": "AshersLab",
+            "text": "man maybe if finn did do drugs he'd make sense "
+        },
+        {
+            "user": "diesieben07",
+            "text": "i just chocked <em>dies</em>"
+        },
+        {
+            "user": "LexManos",
+            "text": "In true capitalistic fashion, don't fix it, replace!"
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "Uhhh I'm having a hard time reproducing"
+        },
+        {
+            "user": "Curle",
+            "text": "If anyone here gives you the solution i'll personally stab 'em"
+        },
+        {
+            "user": "Anonymous",
+            "text": "It's a telephone, not a megaphone. Stop shouting"
+        },
+        {
+            "user": "Curle",
+            "text": "i'm suprised Forge doesn't use more throbbers"
+        },
+        {
+            "user": "LexManos",
+            "text": "Yay Beware my taint!"
+        },
+        {
+            "user": "cpw",
+            "text": "Arguably, any game is a database with a pretty UI"
+        },
+        {
+            "user": "cpw",
+            "text": "THE MODPACK MAKER"
+        },
+        {
+            "user": "LexManos",
+            "text": "No flack on her.. but its been like 9 months, I expected a baby. "
+        },
+        {
+            "user": "LexManos",
+            "text": "Ah, Mob AI being shit? Say it isnt so! "
+        },
+        {
+            "user": "LexManos",
+            "side_text": "2016, on GitHub, <a href=\"https://github.com/MinecraftForge/MinecraftForge/issues/2899#issuecomment-222331289\">issue #2899</a> on <a href=\"https://github.com/MinecraftForge/MinecraftForge\">MinecraftForge/MinecraftForge</a>",
+            "text": "Screw this discussion start talking code."
+        },
+        {
+            "user": "Anonymous",
+            "text": "If at first you don’t succeed, force it harder than you were the first time."
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "I think the loader is only needed for the language your main mod class is in but don't quote me on that"
+        },
+        {
+            "user": "diesieben07",
+            "text": "We are not quoting that."
+        },
+        {
+            "user": "Noe",
+            "text": "Speaking of hand motions, November is so close"
+        },
+        null,
+        {
+            "user": "Curle",
+            "text": "If OpenGL were fucked civilisation would collapse"
+        },
+        {
+            "user": "Curle",
+            "text": "The big D <img class=\"emote\" src=\"https://discord.com/assets/4c5a77a89716352686f590a6f014770c.svg\" alt=\":eyes:\">"
+        },
+        {
+            "user": "Silk",
+            "text": "I want to see sex toys being used for cooking more"
+        },
+        {
+            "user": "AshersLab",
+            "text": "edgy teenagers appear out of nowhere"
+        },
+        {
+            "user": "Unnoen",
+            "text": "being knowledgeable in Minecraft/Modded MC is both a blessing and a curse"
+        },
+        {
+            "user": "Unnoen",
+            "text": "stainless steel vibrator to get air out of mixes; works like a charm"
+        },
+        {
+            "user": "diesieben07",
+            "text": "Look, Ma! I'm on TV!"
+        },
+        {
+            "user": "Curle",
+            "text": "you can put 'All Rights Reserved' or 'haha butts lol' "
+        },
+        {
+            "user": "LexManos",
+            "text": "you don't fucking have my desk"
+        },
+        {
+            "user": "ERROR",
+            "text": "this isnt desk support 115"
+        },
+        {
+            "user": "Curle",
+            "text": "Young assholes"
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "Lex gave it a good beating yesterday"
+        },
+        {
+            "user": "Curle",
+            "text": "If it's the same damn thing again monke, you're getting the stabby"
+        },
+        {
+            "user": "diesieben07",
+            "text": "I swear you're just taking the piss now "
+        },
+        {
+            "user": "FinnT730",
+            "text": "they can't do each other"
+        },
+        {
+            "user": "Curle",
+            "text": "i'll have 69 if it kills me "
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "you utter derp"
+        },
+        {
+            "user": "AshersLab",
+            "text": "ah yes, the great contributor to forge... <strong><em>cow</em></strong>"
+        },
+        {
+            "user": "AshersLab",
+            "text": "<em>waits for it</em>"
+        },
+        {
+            "user": "The enlightened ones",
+            "text": "Ask the Holy Oracle, He who knows All, Google"
+        },
+        {
+            "user": "Curle",
+            "text": "There are sometimes no options but to break shit in order to fix bigger shit"
+        },
+        {
+            "user": "Sydney",
+            "text": "I will blind you with my glory, Curle"
+        },
+        {
+            "user": "AshersLab",
+            "text": "Needs some viagra or something"
+        },
+        {
+            "user": "OrionOnline",
+            "text": "Yeah but mine is how much bigger?"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Duck you stomach"
+        },
+        {
+            "user": "Curle",
+            "text": "hey the sentient duct tape found his calling"
+        },
+        {
+            "user": "DaemonUmbra",
+            "side_text": "on <a href=\"https://twitter.com/DaemonUmbra/status/1331266386426023936\">Twitter</a>",
+            "text": "\"Don't blame the predator, blame the victim\""
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "Fuck me"
+        },
+        {
+            "user": "illy",
+            "text": "you sitting on my lap on stream?"
+        },
+        {
+            "user": "AshersLab",
+            "text": "when tf did curle turn into a edgelord memer"
+        },
+        {
+            "user": "illy",
+            "text": "and then get taken in by the suck"
+        },
+        {
+            "user": "Curle",
+            "text": "Not RFID, more like magnetic wibbly"
+        },
+        {
+            "user": "LexManos",
+            "text": "Daemon has good insane"
+        },
+        {
+            "user": "LexManos",
+            "text": "that movie.. scrolling through the IMDB for it is one the most violently 90's things i've seen in a while."
+        },
+        {
+            "user": "Curle",
+            "text": "Stir fried curle brains"
+        },
+        {
+            "user": "Anonymous",
+            "text": "I think I'm capped on speed so I'll see how I feel"
+        },
+        {
+            "user": "Curle",
+            "text": "i'll fucking stab you ashers"
+        },
+        {
+            "user": "Curle",
+            "text": "<p>whoops, that's not a meme</p>that's hentai"
+        },
+        {
+            "user": "Some MediaWiki looking shit on the internet",
+            "side_text": "from <a href=\"https://www.explainxkcd.com/wiki/index.php/1293:_Job_Interview\">Explain XKCD: 1293</a>",
+            "text": "plugging a cord into an electrical outlet clumsily labelled ''Soup'' which then, implausibly, actually starts dispensing soup. Most electrical outlets do not function like this.<sup>[citation needed]</sup>"
+        },
+        {
+            "user": "Curle",
+            "text": "why would you want Doug to nut for you"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "i almost thought you had three clients open, panicked when I saw the username <span class=\"side-text\">...</span>"
+        },
+        {
+            "user": "wild tan()",
+            "text": "killing baby villagers... it makes sense, but it's also easily farmable"
+        },
+        {
+            "user": "LexManos",
+            "text": "being tortured to death: the FULL middle school experience"
+        },
+        {
+            "user": "wild tan()",
+            "text": "also the children aren't giving me their cards"
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "Who the fuck are you?"
+        },
+        {
+            "user": "Curle",
+            "text": "if i surgically remove someone's heart while they're alive it wont cause any harm right??"
+        },
+        {
+            "user": "FinnT730",
+            "text": "I still want #100, even if I have to kill for it...."
+        },
+        {
+            "user": "Anonymous",
+            "text": "stop wasting my time, that's my job"
+        },
+        {
+            "user": "ByteLaw",
+            "text": "For some reason I want to make a quote that will do nothing but make me know that I'm on a quote website"
+        }
+    ]
+}

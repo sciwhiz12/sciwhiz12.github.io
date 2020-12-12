@@ -59,11 +59,9 @@
     padding-right: 6px;
 }
 
-.quote:hover {
-    background-color: var(--hover-color);
-}
-
-.quote:target {
+.quote:hover,
+.quote:target,
+.hover {
     background-color: var(--hover-color);
 }
 
@@ -159,4 +157,30 @@ p {
 .meta-text {
     font-style: oblique;
     color: #ddd;
+}
+
+.error {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.8);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.error_popup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #660000;
+    color: var(--content-color);
+    margin: auto;
+    padding: 2em;
+    position: fixed;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    text-align: center;
+    border-radius: 1em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
