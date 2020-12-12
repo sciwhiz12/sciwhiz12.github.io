@@ -59,11 +59,9 @@
     padding-right: 6px;
 }
 
-.quote:hover {
-    background-color: var(--hover-color);
-}
-
-.quote:target {
+.quote:hover,
+.quote:target,
+.hover {
     background-color: var(--hover-color);
 }
 

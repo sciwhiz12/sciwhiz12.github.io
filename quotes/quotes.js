@@ -11,11 +11,39 @@ fetch("data.json")
                 container.appendChild(createQuote(data, i + 1, quote))
             }
         }
+
+        const counts = document.getElementsByClassName("count")
+        for (let i = 0; i < counts.length; i++) {
+            counts[i].addEventListener("click", ev => {
+                removeAllHovers()
+            })
+        }
+
+        var id = window.location.hash
+        removeAllHovers()
+        if (id && id.length) {
+            const element = document.getElementById(id.substr(1))
+            if (element) {
+                element.scrollIntoView({
+                    behavior: "smooth"
+                })
+                element.classList.add("hover")
+            }
+        }
     })
     .catch(err => {
         console.error("Error while loading: " + err)
         document.getElementById("loading_error").style.display = ""
     })
+
+window.addEventListener("hashchange", ev => { removeAllHovers() })
+
+function removeAllHovers() {
+    const elements = document.getElementsByClassName("hover")
+    for (let i = 0; i < elements.length; i++) {
+        elements[i].classList.remove("hover");
+    }
+}
 
 function createNoQuote(number) {
     const quoteDiv = document.createElement("div")

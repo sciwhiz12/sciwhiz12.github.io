@@ -91,23 +91,24 @@
         },
         "Unnoen": {
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/f3a8b5491283a8695397931e12325f52.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/d7360fd07ce11b2e48c9bcf5653e06ad.png?size=128",
             "roles": ["triage"]
         },
-        "SomePorkchops": {
-            "discriminator": "8008",
-            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/a_fe22d893a1f62255b3c0c1ce3887c782.gif?size=128",
+        "ERROR": {
+            "discriminator": "4030",
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/5cd97b84506fa65727e32f8abb0f758d.png?size=128",
             "roles": []
         },
         "FinnT730": {
             "discriminator": "9064",
+            "nickname": "FinnT730[Dumbass Bumbass]",
             "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/9d667b7f6fa52ad45220f8a28cce8bb9.png?size=128",
             "roles": []
         },
         "Sydney": {
             "discriminator": "8008",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/a_44767a7916fed4b4b79d404f47431eb7.gif?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/e8e9d21cfe133f1c018fdea6eb7fbe90.png?size=128",
             "roles": []
         },
         "OrionOnline": {
@@ -118,7 +119,12 @@
         },
         "wild tan()": {
             "discriminator": "8651",
-            "avatar": "https://cdn.discordapp.com/avatars/510415959480336393/dfda5390f3baa501265d938a28afb702.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/510415959480336393/9bb5ae35f8f7707444d44ef1b23c0b27.png?size=128",
+            "roles": []
+        },
+        "ByteLaw": {
+            "discriminator": "2463",
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/2feaf0ac54b83c533c17774bdbec5b06.png?size=128",
             "roles": []
         }
     },
@@ -417,7 +423,7 @@
             "text": "you don't fucking have my desk"
         },
         {
-            "user": "SomePorkchops",
+            "user": "ERROR",
             "text": "this isnt desk support 115"
         },
         {
@@ -561,6 +567,22 @@
         {
             "user": "DaemonUmbra",
             "text": "Who the fuck are you?"
+        },
+        {
+            "user": "Curle",
+            "text": "if i surgically remove someone's heart while they're alive it wont cause any harm right??"
+        },
+        {
+            "user": "FinnT730",
+            "text": "I still want #100, even if I have to kill for it...."
+        },
+        {
+            "user": "Anonymous",
+            "text": "stop wasting my time, that's my job"
+        },
+        {
+            "user": "ByteLaw",
+            "text": "For some reason I want to make a quote that will do nothing but make me know that I'm on a quote website"
         }
     ]
 }
