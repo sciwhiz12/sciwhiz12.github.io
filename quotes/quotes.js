@@ -88,6 +88,7 @@ function createQuote(data, number, quote) {
     avatar.tabIndex = 1
     if (userdata) {
         avatar.src = userdata.avatar
+        avatar.alt = "avatar for " + user
     }
 
     const content = quoteDiv.appendChild(document.createElement("div"))
@@ -142,6 +143,7 @@ function createPopup(data, user) {
     const avatar = popupHead.appendChild(document.createElement("img"))
     avatar.className = "popup_avatar"
     avatar.src = userdata.avatar
+    avatar.alt = "avatar for " + user
 
     var tagSpan = null
     if (data.users[user].hasOwnProperty("tag")) {
