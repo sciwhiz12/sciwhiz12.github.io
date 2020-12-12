@@ -5,17 +5,10 @@
     --content-color: #dcddde;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-}
-
-.body {
-    height: 100%;
+body {
     background-color: var(--secondary-background-color);
     display: flex;
     flex-flow: column nowrap;
-    font-size: 1rem;
 }
 
 .flex {
@@ -38,17 +31,10 @@
 .header {
     flex: 0 1 auto;
     background-color: var(--tertiary-background-color);
-    height: 6rem;
+    height: 5rem;
     font-size: 1.5rem;
-    text-align: center;
     padding: 0.3rem 0 0.1rem 0;
     line-height: 2.2rem;
-}
-
-.footer {
-    flex: 0 1 2em;
-    text-align: center;
-    background-color: var(--tertiary-background-color);
 }
 
 .quote {
@@ -157,30 +143,4 @@ p {
 .meta-text {
     font-style: oblique;
     color: #ddd;
-}
-
-.error {
-    display: block;
-    background-color: rgba(0, 0, 0, 0.8);
-    position: absolute;
-    width: 100%;
-    height: 100%;
-}
-
-.error_popup {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #660000;
-    color: var(--content-color);
-    margin: auto;
-    padding: 2em;
-    position: fixed;
-    font-size: 1.5rem;
-    line-height: 1.5rem;
-    text-align: center;
-    border-radius: 1em;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
