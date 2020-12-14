@@ -126,6 +126,11 @@
             "discriminator": "2463",
             "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/2feaf0ac54b83c533c17774bdbec5b06.png?size=128",
             "roles": []
+        },
+        "BlastarrowCZ": {
+            "discriminator": "9813",
+            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/b975c4d10b5456b857ef151af4a0242f.png?size=128",
+            "roles": []
         }
     },
     "roles": {
@@ -591,6 +596,14 @@
         {
             "user": "Curle",
             "text": "still shitting aggressively in other servers i'm in"
+        },
+        {
+            "user": "Curle",
+            "text": "it's a basic fucking engine"
+        },
+        {
+            "user": "BlastarrowCZ",
+            "text": "If anyone knew Java, why would there be people such as helpers?"
         }
     ]
 }
