@@ -27,7 +27,7 @@
             "roles": ["triage"]
         },
         "LexManos": {
-            "discriminator": "1864",
+            "discriminator": "4688",
             "avatar": "https://cdn.discordapp.com/avatars/134030797756694528/55a560be42916b63b9bf9f0c3f95d7c3.png?size=128",
             "roles": ["forgegod", "forge"]
         },
@@ -64,7 +64,7 @@
             "roles": ["bot"]
         },
         "DaemonUmbra": {
-            "discriminator": "1864",
+            "discriminator": "1337",
             "avatar": "https://cdn.discordapp.com/avatars/107667673684377600/97299ad89c74982ad7197180524862d8.png?size=128",
             "roles": ["moderator", "triage", "usd10", "patreon", "nitro"]
         },
@@ -80,7 +80,7 @@
         },
         "Noe": {
             "discriminator": "2252",
-            "avatar": "https://cdn.discordapp.com/avatars/358822645225095170/d8135516040769a2346b31f9a9ee3a13.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/358822645225095170/39c3898e092f64f07ab02c7ca996c1e6.png?size=128",
             "roles": []
         },
         "Silk": {

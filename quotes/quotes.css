@@ -76,7 +76,7 @@ body {
 .quote .content {
     flex: 1 1 auto;
     color: var(--content-color);
-    font-weight: lighter;
+    font-weight: normal;
 }
 
 .quote .name {
@@ -88,7 +88,7 @@ body {
 .quote .side-text {
     color: var(--small-text-color);
     font-size: 0.8rem;
-    font-weight: lighter;
+    font-weight: normal;
     line-height: 1.1rem;
 }
 
