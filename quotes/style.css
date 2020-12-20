@@ -112,6 +112,10 @@ tr {
     color: #c27c0e;
 }
 
+.role_contributor {
+    color: #2ecc71;
+}
+
 .role_bot {
     color: #607D8B;
 }

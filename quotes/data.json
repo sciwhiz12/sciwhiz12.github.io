@@ -101,8 +101,8 @@
         },
         "FinnT730": {
             "discriminator": "9064",
-            "nickname": "FinnT730[Dumbass Bumbass]",
-            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/9d667b7f6fa52ad45220f8a28cce8bb9.png?size=128",
+            "nickname": "FinnT730 [Village Inquisitor]",
+            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/c8c13890000be1a0b58421ceb6ff7102.webp?size=128",
             "roles": []
         },
         "Sydney": {
@@ -130,6 +130,27 @@
         "BlastarrowCZ": {
             "discriminator": "9813",
             "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/b975c4d10b5456b857ef151af4a0242f.png?size=128",
+            "roles": []
+        },
+        "/(?i)(ravenCurle)/": {
+            "nickname": "ravenbuilder934 (NineColonies)",
+            "discriminator": "9462",
+            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/7a18001939901de7c8d1ea8d11edc305.webp?size=128",
+            "roles": []
+        },
+        "pupnewfster": {
+            "discriminator": "0001",
+            "avatar": "https://cdn.discordapp.com/avatars/107837977081720832/ca5a807954ccf6431d58fc1202cf2dfd.png?size=128",
+            "roles": ["triage"]
+        },
+        "covers1624": {
+            "discriminator": "1624",
+            "avatar": "https://cdn.discordapp.com/avatars/158120884014546944/84221ad51b251bb21a5a4114e15f09b6.webp?size=128",
+            "roles": ["lts", "triage", "contributor"]
+        },
+        "Simon [Lanse505]": {
+            "discriminator": "3403",
+            "avatar": "https://cdn.discordapp.com/avatars/107511731999244288/283dea1369f18274b41c66b3b363c3b9.webp?size=128",
             "roles": []
         }
     },
@@ -165,6 +186,10 @@
         "superhelper": {
             "css_class": "role_superhelper",
             "name": "superhelper"
+        },
+        "contributor": {
+            "css_class": "role_contributor",
+            "name": "Contributor"
         },
         "patreon": {
             "css_class": "role_patreon",
@@ -636,6 +661,54 @@
         {
             "user": "AshersLab",
             "text": "i'm curleist and proud"
+        },
+        {
+            "user": "LexManos",
+            "text": "ghosts, they run away when you call the exorcist"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Is the boob glowing yet?"
+        },
+        {
+            "user": "/(?i)(ravenCurle)/",
+            "text": "Wiki wiki wiki wiki ptwang zoo-boinga!"
+        },
+        {
+            "user": "FinnT730",
+            "text": "weomfpowemfmefpmo'pmog'permog'pgmermg"
+        },
+        {
+            "user": "covers1624",
+            "text": "Yeah i once sat down and did classloader stuff. That was a mistake."
+        },
+        {
+            "user": "Simon's friend's teacher",
+            "text": "Python is a low level language"
+        },
+        {
+            "user": "Anonymous",
+            "text": "The problem with troubleshooting is that trouble shoots back."
+        },
+        {
+            "user": "pupnewfster",
+            "text": "gotta love when people are too dumb to realize what they are saying contradicts what they are saying"
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "Wat"
+        },
+        {
+            "user": "illy",
+            "text": "It's like a condom, but you put holes in it"
+        },
+        {
+            "user": "illy",
+            "text": "There's only three things in Lex's code that I can understand fully"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "But i wanna jump on you!"
         }
     ]
 }
