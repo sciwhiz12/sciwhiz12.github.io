@@ -70,7 +70,7 @@
         },
         "sciwhiz12": {
             "discriminator": "1286",
-            "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/07af42bab967111feac6a4346661df19.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/f095abaefa06f2265f7bc5219a33780c.webp?size=128",
             "roles": []
         },
         "killjoy 💥🗡": {
@@ -96,7 +96,7 @@
         },
         "ERROR": {
             "discriminator": "4030",
-            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/5cd97b84506fa65727e32f8abb0f758d.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/45da7fa725a10a2aa1430f66cbf890a6.webp?size=128",
             "roles": []
         },
         "FinnT730": {
@@ -108,7 +108,7 @@
         "Sydney": {
             "discriminator": "8008",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/e8e9d21cfe133f1c018fdea6eb7fbe90.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/13ae521e354b28f6ac649507d97a71dd.webp?size=128",
             "roles": []
         },
         "OrionOnline": {
@@ -152,6 +152,11 @@
             "discriminator": "3403",
             "avatar": "https://cdn.discordapp.com/avatars/107511731999244288/283dea1369f18274b41c66b3b363c3b9.webp?size=128",
             "roles": []
+        },
+        "JoJoModding": {
+            "discriminator": "5625",
+            "avatar": "https://cdn.discordapp.com/avatars/224497169145528320/f2f453732f79b61f55256a627297a4a7.webp?size=128",
+            "roles": ["contributor"]
         }
     },
     "roles": {
@@ -709,6 +714,38 @@
         {
             "user": "Simon [Lanse505]",
             "text": "But i wanna jump on you!"
+        },
+        {
+            "user": "JoJoModding",
+            "text": "lo-fi cpw noises to relax and get mms done to"
+        },
+        {
+            "user": "cpw",
+            "text": "Gitflow is for pussys"
+        },
+        {
+            "user": "Curle",
+            "text": "maybe we can hit you over the head with a wrench and give you childhood amnesia"
+        },
+        {
+            "user": "Curle",
+            "text": "significant whitespace is my significant other"
+        },
+        {
+            "user": "illy",
+            "text": "I actually understand SpongeBob lore"
+        },
+        {
+            "user": "illy",
+            "text": "Zoe, stop moaning"
+        },
+        {
+            "user": "FinnT730",
+            "text": "minecraft is a haha funny clown game"
+        },
+        {
+            "user": "Curle",
+            "text": "<p>Why does water fall upwards?</p> Because i fucking will it so."
         }
     ]
 }
