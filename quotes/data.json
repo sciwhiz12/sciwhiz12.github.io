@@ -23,7 +23,7 @@
         },
         "diesieben07": {
             "discriminator": "0714",
-            "avatar": "https://cdn.discordapp.com/avatars/328214370964340746/821d636828d45409ba8a509b2f41ab98.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/328214370964340746/78da5f24f5c0d3759d9d15596558c086.webp?size=128",
             "roles": ["triage"]
         },
         "LexManos": {
@@ -70,7 +70,8 @@
         },
         "sciwhiz12": {
             "discriminator": "1286",
-            "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/f095abaefa06f2265f7bc5219a33780c.webp?size=128",
+            "nickname": "sciwhiz12 «ᴄ.ᴀ.»",
+            "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/5e5a1157c05d73d9ab4dc137006155d6.webp?size=128",
             "roles": []
         },
         "killjoy 💥🗡": {
@@ -101,14 +102,14 @@
         },
         "FinnT730": {
             "discriminator": "9064",
-            "nickname": "FinnT730 [Village Inquisitor]",
-            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/c8c13890000be1a0b58421ceb6ff7102.webp?size=128",
+            "nickname": "FinnT730[Village Idiot]",
+            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/66808369d51268ee1c4439502617637a.webp?size=128",
             "roles": []
         },
         "Sydney": {
-            "discriminator": "8008",
+            "discriminator": "0027",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/13ae521e354b28f6ac649507d97a71dd.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/a_44767a7916fed4b4b79d404f47431eb7.webp?size=128",
             "roles": []
         },
         "OrionOnline": {
@@ -129,12 +130,12 @@
         },
         "BlastarrowCZ": {
             "discriminator": "9813",
-            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/b975c4d10b5456b857ef151af4a0242f.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/dfc63ff5f183345c905ee94b552c1a05.webp?size=128",
             "roles": []
         },
-        "/(?i)(ravenCurle)/": {
-            "nickname": "ravenbuilder934 (NineColonies)",
-            "discriminator": "9462",
+        "rAVENcURLE": {
+            "nickname": "ravenbuilder934 (MineColonies)",
+            "discriminator": "2021",
             "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/7a18001939901de7c8d1ea8d11edc305.webp?size=128",
             "roles": []
         },
@@ -157,6 +158,17 @@
             "discriminator": "5625",
             "avatar": "https://cdn.discordapp.com/avatars/224497169145528320/f2f453732f79b61f55256a627297a4a7.webp?size=128",
             "roles": ["contributor"]
+        },
+        "ChampionAsh5357": {
+            "discriminator": "5519",
+            "avatar": "https://cdn.discordapp.com/avatars/207184927236554752/22cec5dae129d414ed695b64473d3f2d.png?size=128",
+            "roles": []
+        },
+        "RobotGryphon": {
+            "nickname": "Nano",
+            "discriminator": "0001",
+            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/1e51ee0452e80b5179e3ad5136453310.webp?size=128",
+            "roles": []
         }
     },
     "roles": {
@@ -676,7 +688,7 @@
             "text": "Is the boob glowing yet?"
         },
         {
-            "user": "/(?i)(ravenCurle)/",
+            "user": "rAVENcURLE",
             "text": "Wiki wiki wiki wiki ptwang zoo-boinga!"
         },
         {
@@ -778,6 +790,71 @@
         {
             "user": "Curle",
             "text": "explaining shit tends to help understanding"
+        },
+        {
+            "user": "illy",
+            "text": "Here's a piece of advice: ignore cpw"
+        },
+        {
+            "user": "illy",
+            "text": "Cyber security is a lot of masturbation"
+        },
+        {
+            "user": "illy",
+            "text": "How old am I?"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "Startup companies are essentially the one night stand of companies"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "hey illy... you can have a lot of... fun in Scala! <em>Swedish laughing noises</em>"
+        },
+        {
+            "user": "Curle",
+            "text": "scitard destroyed by facts and logic"
+        },
+        {
+            "user": "illy",
+            "text": "Gradle is pain, as with everything, and so you must suffer"
+        },
+        {
+            "user": "Shay Altshue",
+            "side_text": "on a Udemy course for Modding with Minecraft Forge",
+            "text": "Hit Sheep With Copper Ingot Make Orange Boi"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "I mean, you can't blow my mind with that"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "You're supposed to drink your drink, not deep throat it"
+        },
+        {
+            "user": "ByteLaw",
+            "text": "how long is it"
+        },
+        {
+            "user": "ChampionAsh5357",
+            "text": "Let me serve you master!"
+        },
+        {
+            "user": "LexManos",
+            "text": "Every commit I make is FLAWLESS!"
+        },
+        {
+            "user": "LexManos",
+            "text": "If I make a fake version of Forge... using my current build server.. Does that mean I Forged Forge in the Forge forge that usually forge's Forge?"
+        },
+        {
+            "user": "RobotGryphon",
+            "text": "Yup yup. Seen it enough by now."
+        },
+        {
+            "user": "illy",
+            "text": "...I want this grunt work done so I can move on sexy part of problem solving"
         }
     ]
 }
