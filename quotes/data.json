@@ -134,7 +134,7 @@
             "roles": []
         },
         "rAVENcURLE": {
-            "nickname": "ravenbuilder934 (MineColonies)",
+            "nickname": "ravenbuilder934 (NineColonies)",
             "discriminator": "2021",
             "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/7a18001939901de7c8d1ea8d11edc305.webp?size=128",
             "roles": []
@@ -854,7 +854,19 @@
         },
         {
             "user": "illy",
-            "text": "...I want this grunt work done so I can move on sexy part of problem solving"
+            "text": "...I want this grunt work done so I can move on to the sexy part of problem solving"
+        },
+        {
+            "user": "rAVENcURLE",
+            "text": "You're talking to the briefed who randomly placed ladders in Ray's colony"
+        },
+        {
+            "user": "Curle",
+            "text": "Pingreply is my middle name"
+        },
+        {
+            "user": "rAVENcURLE",
+            "text": "That sounded stalkery didn't it? Well, no stalking required"
         }
     ]
 }
