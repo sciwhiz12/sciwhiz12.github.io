@@ -169,6 +169,12 @@
             "discriminator": "0001",
             "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/1e51ee0452e80b5179e3ad5136453310.webp?size=128",
             "roles": []
+        },
+        "Moomallowz": {
+            "nickname": "Moomallowz (little dunce man)",
+            "discriminator": "6036",
+            "avatar": "https://cdn.discordapp.com/avatars/544195181939785740/addd984ac606a2942ecbe86efa2398cb.webp?size=128",
+            "roles": []
         }
     },
     "roles": {
@@ -854,7 +860,11 @@
         },
         {
             "user": "illy",
-            "text": "...I want this grunt work done so I can move on to the sexy part of problem solving"
+            <<
+            << << < HEAD "text": "...I want this grunt work done so I can move on to the sexy part of problem solving" ===
+                === =
+                "text": "...I want this grunt work done so I can move on sexy part of problem solving" >>>
+                >>> > c1625ce...Add 6 new quotes
         },
         {
             "user": "rAVENcURLE",
@@ -862,11 +872,23 @@
         },
         {
             "user": "Curle",
-            "text": "Pingreply is my middle name"
+            "text": "pingreply is my middle name"
         },
         {
             "user": "rAVENcURLE",
-            "text": "That sounded stalkery didn't it? Well, no stalking required"
+            "text": "that sounded stalkery didn't it? Well, no stalking required"
+        },
+        {
+            "user": "Moomallowz",
+            "text": "Quote me on this"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "This seems...shadetastic"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "How tight is your throat"
         }
     ]
 }
