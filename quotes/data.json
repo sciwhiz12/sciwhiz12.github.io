@@ -92,7 +92,7 @@
         },
         "Unnoen": {
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/d7360fd07ce11b2e48c9bcf5653e06ad.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/7295fb51920d66a096835f1cc1d8e3fb.webp?size=128",
             "roles": ["triage"]
         },
         "ERROR": {
