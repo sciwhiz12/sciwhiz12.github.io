@@ -2,7 +2,7 @@
     "users": {
         "tterrag": {
             "discriminator": "1098",
-            "avatar": "https://cdn.discordapp.com/avatars/140245257416736769/74037714fd3d48cfbe57aaef30ef99a4.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/140245257416736769/7ac3052f54cd37f2f7941276f4da1d18.webp?size=128",
             "roles": ["forge", "moderator", "lts", "triage"]
         },
         "McJty": {
@@ -109,7 +109,7 @@
         "Sydney": {
             "discriminator": "0027",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/a_44767a7916fed4b4b79d404f47431eb7.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/56c08f77325b9b8b39db5685a6cd8c80.webp?size=128",
             "roles": []
         },
         "OrionOnline": {
@@ -133,7 +133,7 @@
             "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/dfc63ff5f183345c905ee94b552c1a05.webp?size=128",
             "roles": []
         },
-        "rAVENcURLE": {
+        "notravenbuilder934": {
             "nickname": "ravenbuilder934 (NineColonies)",
             "discriminator": "2021",
             "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/7a18001939901de7c8d1ea8d11edc305.webp?size=128",
@@ -694,7 +694,7 @@
             "text": "Is the boob glowing yet?"
         },
         {
-            "user": "rAVENcURLE",
+            "user": "notravenbuilder934",
             "text": "Wiki wiki wiki wiki ptwang zoo-boinga!"
         },
         {
@@ -863,15 +863,15 @@
             "text": "...I want this grunt work done so I can move on to the sexy part of problem solving"
         },
         {
-            "user": "rAVENcURLE",
+            "user": "notravenbuilder934",
             "text": "You're talking to the briefed who randomly placed ladders in Ray's colony"
         },
         {
             "user": "Curle",
-            "text": "pingreply is my middle name"
+            "text": "Pingreply is my middle name"
         },
         {
-            "user": "rAVENcURLE",
+            "user": "notravenbuilder934",
             "text": "that sounded stalkery didn't it? Well, no stalking required"
         },
         {
@@ -885,6 +885,18 @@
         {
             "user": "Simon [Lanse505]",
             "text": "How tight is your throat"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "Because I'm carrying his child ... Wait what?"
+        },
+        {
+            "user": "LexManos",
+            "text": "Be nice"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "Okey that sounded far more sexual than I was going for"
         }
     ]
 }
