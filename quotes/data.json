@@ -26,12 +26,14 @@
             "avatar": "https://cdn.discordapp.com/avatars/328214370964340746/78da5f24f5c0d3759d9d15596558c086.webp?size=128",
             "roles": ["triage"]
         },
-        "LexManos": {
+        "Lex": {
+            "nickname": "LexManos",
             "discriminator": "4688",
             "avatar": "https://cdn.discordapp.com/avatars/134030797756694528/55a560be42916b63b9bf9f0c3f95d7c3.png?size=128",
             "roles": ["forgegod", "forge"]
         },
-        "Curle": {
+        "Amethyst": {
+            "nickname": "Curle",
             "discriminator": "6998",
             "avatar": "https://cdn.discordapp.com/avatars/462617385157787648/6548d9da1c1cdd266c96f001ec2950a4.png?size=128",
             "roles": ["triage", "superhelper", "nitro", "tainted"]
@@ -95,9 +97,9 @@
             "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/7295fb51920d66a096835f1cc1d8e3fb.webp?size=128",
             "roles": ["triage"]
         },
-        "ERROR": {
-            "discriminator": "4030",
-            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/45da7fa725a10a2aa1430f66cbf890a6.webp?size=128",
+        "Leonn": {
+            "discriminator": "2021",
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/373819e3ee0970494c1350753c69cd2b.png?size=128",
             "roles": []
         },
         "FinnT730": {
@@ -133,10 +135,10 @@
             "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/dfc63ff5f183345c905ee94b552c1a05.webp?size=128",
             "roles": []
         },
-        "notravenbuilder934": {
+        "Coco-Builder": {
             "nickname": "ravenbuilder934 (NineColonies)",
             "discriminator": "2021",
-            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/7a18001939901de7c8d1ea8d11edc305.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/873513e775b135be9f3b17da48a4e86d.webp?size=128",
             "roles": []
         },
         "pupnewfster": {
@@ -173,7 +175,12 @@
         "Moomallowz": {
             "nickname": "Moomallowz (little dunce man)",
             "discriminator": "6036",
-            "avatar": "https://cdn.discordapp.com/avatars/544195181939785740/addd984ac606a2942ecbe86efa2398cb.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/544195181939785740/74a6af812ea189f26d848a70fed463db.webp?size=128",
+            "roles": []
+        },
+        "Skiddles": {
+            "discriminator": "9412",
+            "avatar": "https://cdn.discordapp.com/avatars/273636822565912578/30a03c47df13ba60aab6242e85938006.webp?size=128",
             "roles": []
         }
     },
@@ -253,7 +260,7 @@
         },
         {
             "user": "illy",
-            "text": "Maybe the Ant and Maven guys were right.... "
+            "text": "Maybe the Ant and Maven guys were right...."
         },
         {
             "user": "illy",
@@ -269,23 +276,23 @@
         },
         {
             "user": "illy",
-            "text": "Cat! What is, the fuck? "
+            "text": "Cat! What is, the fuck?"
         },
         null,
         {
             "user": "Anonymous",
-            "text": "I can say get rekt if I want to "
+            "text": "I can say get rekt if I want to"
         },
         {
             "user": "diesieben07",
             "text": "u wot mate "
         },
         {
-            "user": "LexManos",
-            "text": "No excuses, only results. "
+            "user": "Lex",
+            "text": "No excuses, only results."
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "if you have to ask, the answer is no. i'm almost never serious <img class=\"emote\" src=\"https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg\" alt=\":slight_smile:\">"
         },
         {
@@ -298,14 +305,14 @@
         },
         {
             "user": "Anonymous",
-            "text": "If it's not Boeing, i'm not going "
+            "text": "If it's not Boeing, i'm not going"
         },
         {
             "user": "gigaherz",
             "text": "It's not about difficulty, it's about NOPE"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "thx bae"
         },
         {
@@ -321,20 +328,20 @@
             "text": "My SQL netbeans Solaris"
         },
         {
-            "user": "Curle",
-            "text": "if he doesn't cough up i may permaban "
+            "user": "Amethyst",
+            "text": "if he doesn't cough up i may permaban"
         },
         {
             "user": "AshersLab",
-            "text": "?note AsherSlab is lame "
+            "text": "?note AsherSlab is lame"
         },
         {
             "user": "forge-bot",
-            "text": "Amethyst slapped Finn the banhammer "
+            "text": "Amethyst slapped Finn the banhammer"
         },
         {
             "user": "DaemonUmbra",
-            "text": "....you absolute fucking creep, Finn "
+            "text": "....you absolute fucking creep, Finn"
         },
         {
             "user": "AshersLab",
@@ -342,14 +349,14 @@
         },
         {
             "user": "sciwhiz12",
-            "text": " hate that i keep writing <code>memebers</code> instead of <code>memebers</code>"
+            "text": "i hate that i keep writing <code>memebers</code> instead of <code>memebers</code>"
         },
         {
-            "user": "Curle",
+            "user": "AshersLab",
             "text": "hi @​FinnT730 [Village Idiot]"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "Aristotle is a peasant"
         },
         {
@@ -378,7 +385,7 @@
             "text": "i just chocked <em>dies</em>"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "In true capitalistic fashion, don't fix it, replace!"
         },
         {
@@ -386,7 +393,7 @@
             "text": "Uhhh I'm having a hard time reproducing"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "If anyone here gives you the solution i'll personally stab 'em"
         },
         {
@@ -394,11 +401,11 @@
             "text": "It's a telephone, not a megaphone. Stop shouting"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "i'm suprised Forge doesn't use more throbbers"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "Yay Beware my taint!"
         },
         {
@@ -410,15 +417,15 @@
             "text": "THE MODPACK MAKER"
         },
         {
-            "user": "LexManos",
-            "text": "No flack on her.. but its been like 9 months, I expected a baby. "
+            "user": "Lex",
+            "text": "No flack on her.. but its been like 9 months, I expected a baby."
         },
         {
-            "user": "LexManos",
-            "text": "Ah, Mob AI being shit? Say it isnt so! "
+            "user": "Lex",
+            "text": "Ah, Mob AI being shit? Say it isnt so!"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "side_text": "2016, on GitHub, <a href=\"https://github.com/MinecraftForge/MinecraftForge/issues/2899#issuecomment-222331289\">issue #2899</a> on <a href=\"https://github.com/MinecraftForge/MinecraftForge\">MinecraftForge/MinecraftForge</a>",
             "text": "Screw this discussion start talking code."
         },
@@ -440,11 +447,11 @@
         },
         null,
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "If OpenGL were fucked civilisation would collapse"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "The big D <img class=\"emote\" src=\"https://discord.com/assets/4c5a77a89716352686f590a6f014770c.svg\" alt=\":eyes:\">"
         },
         {
@@ -468,19 +475,19 @@
             "text": "Look, Ma! I'm on TV!"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "you can put 'All Rights Reserved' or 'haha butts lol' "
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "you don't fucking have my desk"
         },
         {
-            "user": "ERROR",
+            "user": "Leonn",
             "text": "this isnt desk support 115"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "Young assholes"
         },
         {
@@ -488,7 +495,7 @@
             "text": "Lex gave it a good beating yesterday"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "If it's the same damn thing again monke, you're getting the stabby"
         },
         {
@@ -500,8 +507,8 @@
             "text": "they can't do each other"
         },
         {
-            "user": "Curle",
-            "text": "i'll have 69 if it kills me "
+            "user": "Amethyst",
+            "text": "i'll have 69 if it kills me"
         },
         {
             "user": "DaemonUmbra",
@@ -520,7 +527,7 @@
             "text": "Ask the Holy Oracle, He who knows All, Google"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "There are sometimes no options but to break shit in order to fix bigger shit"
         },
         {
@@ -540,13 +547,13 @@
             "text": "Duck you stomach"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "hey the sentient duct tape found his calling"
         },
         {
             "user": "DaemonUmbra",
             "side_text": "on <a href=\"https://twitter.com/DaemonUmbra/status/1331266386426023936\">Twitter</a>",
-            "text": "\"Don't blame the predator, blame the victim\""
+            "text": "Don't blame the predator, blame the victim"
         },
         {
             "user": "DaemonUmbra",
@@ -565,19 +572,19 @@
             "text": "and then get taken in by the suck"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "Not RFID, more like magnetic wibbly"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "Daemon has good insane"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "that movie.. scrolling through the IMDB for it is one the most violently 90's things i've seen in a while."
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "Stir fried curle brains"
         },
         {
@@ -585,11 +592,11 @@
             "text": "I think I'm capped on speed so I'll see how I feel"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "i'll fucking stab you ashers"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "<p>whoops, that's not a meme</p>that's hentai"
         },
         {
@@ -598,19 +605,19 @@
             "text": "plugging a cord into an electrical outlet clumsily labelled ''Soup'' which then, implausibly, actually starts dispensing soup. Most electrical outlets do not function like this.<sup>[citation needed]</sup>"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "why would you want Doug to nut for you"
         },
         {
             "user": "sciwhiz12",
-            "text": "i almost thought you had three clients open, panicked when I saw the username <span class=\"side-text\">...</span>"
+            "text": "i almost thought you had three clients open, panicked when I saw the username [...]"
         },
         {
             "user": "wild tan()",
-            "text": "killing baby villagers... it makes sense, but it's also easily farmable"
+            "text": "killing baby villagers [...] it makes sense, but it's also easily farmable"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "being tortured to death: the FULL middle school experience"
         },
         {
@@ -622,7 +629,7 @@
             "text": "Who the fuck are you?"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "if i surgically remove someone's heart while they're alive it wont cause any harm right??"
         },
         {
@@ -642,11 +649,11 @@
             "text": "comparing them is sorta like comparing the machine code of an Altair 8800 to a Dachshund though"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "still shitting aggressively in other servers i'm in"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "it's a basic fucking engine"
         },
         {
@@ -658,23 +665,23 @@
             "text": "wonder which will come first. Curle backporting FG3 or Orion finishing MMMS"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "Don't quote that."
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "i'm close to brain death"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "that was e  genine FUCK MY FINGERS"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "eat drugs, stay in vegetables, don't do school"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "every moment is a curle moment"
         },
         {
@@ -686,7 +693,7 @@
             "text": "i'm curleist and proud"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "ghosts, they run away when you call the exorcist"
         },
         {
@@ -694,7 +701,7 @@
             "text": "Is the boob glowing yet?"
         },
         {
-            "user": "notravenbuilder934",
+            "user": "Coco-Builder",
             "text": "Wiki wiki wiki wiki ptwang zoo-boinga!"
         },
         {
@@ -742,11 +749,11 @@
             "text": "Gitflow is for pussys"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "maybe we can hit you over the head with a wrench and give you childhood amnesia"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "significant whitespace is my significant other"
         },
         {
@@ -762,7 +769,7 @@
             "text": "minecraft is a haha funny clown game"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "<p>Why does water fall upwards?</p> Because i fucking will it so."
         },
         {
@@ -770,7 +777,7 @@
             "text": "Are you diffing your porn collection Finn?"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "Are you saying i'm hot?"
         },
         {
@@ -778,11 +785,11 @@
             "text": "I wanted you to share my meal, Master"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "it's not curley"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "its as pixelated as japanese porn"
         },
         {
@@ -790,11 +797,11 @@
             "text": "Enough. Squirrel fucky time"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "im not a fan of canMyChinchillaPlaceThisDirtOnTopOfYourBlockOnTuesday? methods."
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "explaining shit tends to help understanding"
         },
         {
@@ -818,7 +825,7 @@
             "text": "hey illy... you can have a lot of... fun in Scala! <em>Swedish laughing noises</em>"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "scitard destroyed by facts and logic"
         },
         {
@@ -847,11 +854,11 @@
             "text": "Let me serve you master!"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "Every commit I make is FLAWLESS!"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "If I make a fake version of Forge... using my current build server.. Does that mean I Forged Forge in the Forge forge that usually forge's Forge?"
         },
         {
@@ -863,15 +870,15 @@
             "text": "...I want this grunt work done so I can move on to the sexy part of problem solving"
         },
         {
-            "user": "notravenbuilder934",
+            "user": "Coco-Builder",
             "text": "You're talking to the briefed who randomly placed ladders in Ray's colony"
         },
         {
-            "user": "Curle",
+            "user": "Amethyst",
             "text": "Pingreply is my middle name"
         },
         {
-            "user": "notravenbuilder934",
+            "user": "Coco-Builder",
             "text": "that sounded stalkery didn't it? Well, no stalking required"
         },
         {
@@ -891,12 +898,52 @@
             "text": "Because I'm carrying his child ... Wait what?"
         },
         {
-            "user": "LexManos",
+            "user": "Lex",
             "text": "Be nice"
         },
         {
             "user": "Simon [Lanse505]",
             "text": "Okey that sounded far more sexual than I was going for"
+        },
+        {
+            "user": "Skiddles",
+            "text": "i gather from your silence you are mentally swearing at Mojang, linear algebra, the ceo of vectors, etc?"
+        },
+        {
+            "user": "Lex",
+            "text": "[...] gradle's caching system is, much like the rest of gradle, a deep dark web of black magic and voodoo"
+        },
+        {
+            "user": "diesieben07",
+            "text": "My brain read that as boobs"
+        },
+        {
+            "user": "cpw",
+            "text": "Finn is duck"
+        },
+        {
+            "user": "cpw",
+            "text": "it's literally pre-history"
+        },
+        {
+            "user": "diesieben07",
+            "text": "These are so fucking groan worthy"
+        },
+        {
+            "user": "Lex",
+            "text": "There are instructions in the repo, its called the code."
+        },
+        {
+            "user": "Lex",
+            "text": "I wanna see a guinea pig wielding a M40..."
+        },
+        {
+            "user": "Amethyst",
+            "text": "well obviously illy is mommy and i'm daddy"
+        },
+        {
+            "user": "FinnT730",
+            "text": "I will just DM cow with he faps from last year"
         }
     ]
 }
