@@ -74,7 +74,7 @@
             "discriminator": "1286",
             "nickname": "sciwhiz12 «ᴄ.ᴀ.»",
             "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/5e5a1157c05d73d9ab4dc137006155d6.webp?size=128",
-            "roles": []
+            "roles": ["docs_triage"]
         },
         "killjoy 💥🗡": {
             "discriminator": "7628",
@@ -164,7 +164,7 @@
         "ChampionAsh5357": {
             "discriminator": "5519",
             "avatar": "https://cdn.discordapp.com/avatars/207184927236554752/22cec5dae129d414ed695b64473d3f2d.png?size=128",
-            "roles": []
+            "roles": ["docs_triage"]
         },
         "RobotGryphon": {
             "nickname": "Nano",
@@ -212,6 +212,10 @@
         "triage": {
             "css_class": "role_triage",
             "name": "Triage Team"
+        },
+        "docs_triage": {
+            "css_class": "role_default",
+            "name": "Docs Triage"
         },
         "superhelper": {
             "css_class": "role_superhelper",
