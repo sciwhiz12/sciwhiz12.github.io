@@ -37,6 +37,14 @@ header {
     padding: 8px 0 12px 0;
 }
 
+.home {
+    filter: invert(100%) sepia(0%) saturate(3555%) hue-rotate(326deg) brightness(121%) contrast(87%);
+    width: 24px;
+    float: left;
+    margin: 4px;
+    margin-left: 8px;
+}
+
 .footer,
 footer {
     flex: 0 1 2em;
