@@ -161,6 +161,20 @@ tr {
     color: white;
 }
 
+mention {
+    background-color: rgba(114, 137, 218, .1);
+    color: #7289da;
+    border-radius: 3px;
+    padding: 0 2px;
+    font-weight: 500;
+    position: relative;
+}
+
+mention:hover {
+    color: #fff;
+    background-color: #7289da;
+}
+
 code {
     width: auto;
     height: auto;
