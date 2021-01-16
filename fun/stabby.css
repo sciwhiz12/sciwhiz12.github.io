@@ -1,0 +1,56 @@
+body {
+    background-color: #36393F;
+}
+
+.container {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bolb,
+.knife {
+    position: fixed;
+}
+
+@keyframes stabbing {
+    0% {
+        transform: translate(-25px, -25px);
+    }
+    50% {
+        transform: translate(25px, 25px);
+    }
+    100% {
+        transform: translate(-25px, -25px);
+    }
+}
+
+.knife {
+    animation-name: stabbing;
+    animation-duration: 0.125s;
+    animation-iteration-count: infinite;
+}
+
+.home {
+    filter: invert(100%) sepia(0%) saturate(3555%) hue-rotate(326deg) brightness(121%) contrast(87%);
+    width: 24px;
+    float: left;
+    margin: 4px;
+    margin-left: 8px;
+}
+
+.gif {
+    float: left;
+    width: 24px;
+    margin: 2px;
+    border: #dedede solid 2px;
+    border-radius: 20%;
+    padding: 3px 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #dedede;
+    font-weight: bolder;
+}

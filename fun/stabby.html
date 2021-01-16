@@ -2,49 +2,19 @@
 <html>
 
 <head>
-    <style>
-        body {
-            background-color: #36393F;
-        }
-        
-        .container {
-            position: fixed;
-            left: 50%;
-            top: 50%;
-            transform: translate(-50%, -50%);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-        
-        .bolb,
-        .knife {
-            position: fixed;
-        }
-        
-        @keyframes stabbing {
-            0% {
-                transform: translate(-25px, -25px);
-            }
-            50% {
-                transform: translate(25px, 25px);
-            }
-            100% {
-                transform: translate(-25px, -25px);
-            }
-        }
-        
-        .bolb {}
-        
-        .knife {
-            animation-name: stabbing;
-            animation-duration: 0.125s;
-            animation-iteration-count: infinite;
-        }
-    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="stabby.css">
+    <link rel="icon" type="image/x-icon" href="/assets/stabby/stabby.png">
+    <title>Stabby!</title>
 </head>
 
 <body>
+    <a href="/"><img src="/assets/icon/home.svg" class="home" title="Homepage" /></a>
+    <a href="/assets/stabby/stabby.gif" target="_blank" download>
+        <div class="gif">GIF</div>
+    </a>
+
     <div class="container">
         <svg class="bolb" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.333 42.333" height="160" width="160"><g transform="matrix(-.90504 0 0 .90504 121.115 -105.334)" stroke-width="1.105"><path d="M93.544 145.975c-.607-1.277-1.342-25.52 21.71-23.437 5.826.526 11.301 5.427 12.008 12.795.209 2.171-.965 4.34-.984 6.52-.014 1.65.698 2.897.51 3.543-2.375 8.138-29.458 8.54-33.244.579z" fill="#fac11b"/><ellipse transform="rotate(10.534)" ry="2.367" rx="1.96" cy="110.414" cx="136.001" fill="#2f2f2f" paint-order="markers stroke fill"/><ellipse cx="151.752" cy="70.448" rx="1.86" ry="2.247" transform="rotate(26.97) skewX(.016)" fill="#2f2f2f" paint-order="markers stroke fill"/><path d="M104.896 135.58c-.277-.485-.209-1.422.295-1.6 1.054-.372 2.81 0 3.69.246.552.154.47 1.175.247 1.427-.956 1.084-1.315 2.278-2.092 2.977-.207.187-.69.238-.836 0-.526-.859-.811-2.185-1.304-3.05z" fill="#2f2f2f"/></g></svg>
         <svg class="knife" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.333 42.333" height="160" width="160"><g transform="rotate(-45.174 -57.157 249.414)" paint-order="markers stroke fill"><rect width="5.216" height="10.632" x="151.5" y="129.868" rx="1.325" fill="#242b30"/><path d="M149.658 140.304c-.723 0-1.351.536-1.395 1.238-.01.17.03.397.057.587.432 3.094.659 8.769 1.679 12.151.792 2.626 1.652 4.208 4.627 6.392.25.184.788.004.856-.292.86-3.744 1.139-7.607 1.333-11.504v-7.166c0-.78-.627-1.406-1.406-1.406z" fill="#cdd7de"/></g></svg>
