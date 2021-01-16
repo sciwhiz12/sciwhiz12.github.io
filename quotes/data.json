@@ -18,7 +18,7 @@
         "illy": {
             "discriminator": "8209",
             "nickname": "/bin/illy",
-            "avatar": "https://cdn.discordapp.com/avatars/113392954206347264/72e3b261d94ab5fb3894de9a38a8f4b4.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/113392954206347264/f819f0f0722d2fe9d1d4a2abe7a60694.png?size=256",
             "roles": ["collaborator", "moderator", "triage", "patreon"]
         },
         "diesieben07": {
