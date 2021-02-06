@@ -104,7 +104,6 @@
         },
         "FinnT730": {
             "discriminator": "9064",
-            "nickname": "FinnT730[Village Idiot]",
             "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/66808369d51268ee1c4439502617637a.webp?size=128",
             "roles": []
         },
@@ -130,9 +129,9 @@
             "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/c5cd641f0e292d10e207670ccdb56313.webp?size=128",
             "roles": []
         },
-        "BlastarrowCZ": {
+        "Rosolnatka": {
             "discriminator": "9813",
-            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/dfc63ff5f183345c905ee94b552c1a05.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/9862a35160c2a3e81505b925df1e1f38.webp?size=128",
             "roles": []
         },
         "ravenbuilder934": {
@@ -153,7 +152,7 @@
         },
         "Simon [Lanse505]": {
             "discriminator": "3403",
-            "avatar": "https://cdn.discordapp.com/avatars/107511731999244288/283dea1369f18274b41c66b3b363c3b9.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/107511731999244288/03950fb96e4cd705b9c54ba2841220fd.webp?size=128",
             "roles": []
         },
         "JoJoModding": {
@@ -182,6 +181,11 @@
             "discriminator": "9412",
             "avatar": "https://cdn.discordapp.com/avatars/273636822565912578/30a03c47df13ba60aab6242e85938006.webp?size=128",
             "roles": []
+        },
+        "LatvianModder": {
+            "discriminator": "0001",
+            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/2d6898059f62eecf60b50237498783ce.png",
+            "roles": ["contributor"]
         }
     },
     "roles": {
@@ -661,7 +665,7 @@
             "text": "it's a basic fucking engine"
         },
         {
-            "user": "BlastarrowCZ",
+            "user": "Rosolnatka",
             "text": "If anyone knew Java, why would there be people such as helpers?"
         },
         {
@@ -971,11 +975,11 @@
         },
         {
             "user": "Lex",
-            "text": "Since when do modders NOT shoot themselves in the foot, with bazookas, and C4?"
+            "text": " Since when do modders NOT shoot themselves in the foot, with bazookas, and C4?"
         },
         {
             "user": "illy",
-            "text": "im doo boozed up to fix it :P #dontdrinkashitoadofwineoryouwillbelazy"
+            "text": "im doo boozed up to fix it <img class=\"emote\" src=\"https://discord.com/assets/10f25947b6687b5b103e131ca82826ab.svg\" alt=\":stuck_out_tongue:\"> #dontdrinkashitoadofwineoryouwillbelazy"
         },
         {
             "user": "illy",
@@ -1032,6 +1036,50 @@
         {
             "user": "AshersLab",
             "text": "raven can make me do anything"
+        },
+        {
+            "user": "diesieben07",
+            "text": "dobby punishes himself every evening by putting his ears in the ovendoor"
+        },
+        {
+            "user": "diesieben07",
+            "text": "Also, it is 2021, use the debugger"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "if I took one step outside that package, i would've been tainted"
+        },
+        {
+            "user": "LatvianModder",
+            "text": "1.12 was hot garbage"
+        },
+        {
+            "user": "cpw",
+            "text": "TAINTTT TAINTTT TAINTTT"
+        },
+        {
+            "user": "Lex",
+            "text": "[...] laws are shit"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i'll <img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/756182707255377971.gif?v=1\" alt=\":banbolbmasfast:\"> you if you don't march over to <mention>#bot-commands</mention> and make a quote right now <img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/799280057616433164.gif?v=1\" alt=\":stabby:\">"
+        },
+        {
+            "user": "AshersLab",
+            "text": "OOP babyyy"
+        },
+        {
+            "user": "Curle and her sister",
+            "text": "'We've corrected the battery situation.'<p>'Good. I'll staple the horse'</p>"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I need a bigger rack<p><strong>server</strong> rack</p>"
+        },
+        {
+            "user": "Anonymous, talking about a pyramid",
+            "text": "It's a cone in spirit, not in geometry"
         }
     ]
 }
