@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/assets/stylesheets/main.css">
+    <link rel="icon" type="image/x-icon" href="/assets/icon/favicon.ico">
+    <title>Sci's Lab</title>
+</head>
+
+<body>
+    <header>
+        <img class="right-side" src="/assets/icon/labs.svg"> Sci's Lab
+    </header>
+
+    <div class="body">
+        <h1 style="text-align: center;">Fabric v. Forge</h1>
+
+        <h1>A work in progress; this is not the final draft</h1>
+
+        <p>Minecraft is a sandbox game created in 2011 by Markus Alexej Persson, also known as <strong>Notch</strong>, and is now actively developed by <strong>Mojang Studios</strong>. It is one of, if not the most popular video game, having sold more than
+            200 million copies all over the world. It is a sandbox videogame, where players are free to make their own creations in an infinite world of many possibilities.</p>
+
+        <p>As with any popular video game with an active and vibrant community, there will be a community within for modifying the game; to improve it, to add new features, and to learn how it works internally. In the past, this modification of the game
+            (colloquially known as <em></em>"Minecraft modding"</em>) was difficult, because of the obfuscation of the game binaries and due to the lack of tools to aid the mod developer in thier journey to decompile, deobfuscate, recompile, and reobfuscate
+            the game.</p>
+
+        <p>The primary tool used in the past was the <strong>Minecraft Coder Pack</strong> suite of tools, created by Michael "Searge" Stoykes and Thomas "ProfMobius" Guimbretière. This was a pack of scripts written in the Python programming language, which
+            guided the mod developers in decompiling and deobfuscating the game, and recompiling and reobfuscating after the modifications to the game were complete.</p>
+
+        <p>Mod developers would then take the modified classes, and distribute them to end user, who would insert these modified classes into their local copies of the game, overwriting the original classes and installing the modification. This practice
+            of distributing modified class files and installing them by drag-n-dropping into the local JAR is known as <strong>jarmodding</strong>.</p>
+
+        <p>However, this practice is now heavily discouraged and unsupported by mod developers, because this required distribution of the modified game code of Minecraft, which is banned under the Mojang EULA (End User License Agreement). Along with that,
+            because these modifications, which we call <strong>mods</strong>, overwrite the class files in their entirety, it was nearly impossible to have two or more mods co-exist within a single game, if they modified (and thus, overwrote) the same
+            class.
+        </p>
+
+        <p>This prompted a member of the community known as <em>Risugami</em> to create <strong>ModLoader</strong>, which was the first ever "mod loader". This gave a common and simple API for mods to hook into, and gave a chance for simple mods to co-exist
+            with each other. However, more complex behaviors that do not have an API still required modifying and overwriting the game classes, which meant more complex mods would still be incompatible with other complex mods.</p>
+
+        <p><strong>TODO: </strong> Minecraft Forge, MCP mappings, Fabric and Yarn, feud of the communities, etc.</p>
+    </div>
+
+    <footer>
+        <span class="license">
+            (c) 2021 SciWhiz12, under the MIT license
+            <img class="icon" src="/assets/icon/logo.svg">
+        </span>
+    </footer>
+</body>
+
+</html>
