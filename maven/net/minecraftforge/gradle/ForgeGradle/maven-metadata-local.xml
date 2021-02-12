@@ -3,10 +3,12 @@
   <groupId>net.minecraftforge.gradle</groupId>
   <artifactId>ForgeGradle</artifactId>
   <versioning>
-    <release>3.0.191-sci_swap_3</release>
+    <latest>4.0.17-fg4_javadoc_inserter</latest>
+    <release>4.0.17-fg4_javadoc_inserter</release>
     <versions>
       <version>3.0.191-sci_swap_3</version>
+      <version>4.0.17-fg4_javadoc_inserter</version>
     </versions>
-    <lastUpdated>20210206220809</lastUpdated>
+    <lastUpdated>20210212144805</lastUpdated>
   </versioning>
 </metadata>
