@@ -14,12 +14,12 @@ h6 {
 }
 
 a {
-    color: #55f;
+    color: #aaf;
     text-decoration: none;
 }
 
 a::visited {
-    color: #55f;
+    color: #aa7;
 }
 
 .inline {
