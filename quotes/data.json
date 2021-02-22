@@ -186,6 +186,16 @@
             "discriminator": "0001",
             "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/2d6898059f62eecf60b50237498783ce.png",
             "roles": ["contributor"]
+        },
+        "CJDaBomb": {
+            "discriminator": "0069",
+            "avatar": "https://cdn.discordapp.com/avatars/777227436429017118/685b9d16041f82c53bd8d9d6c5ef24ab.png",
+            "roles": []
+        },
+        "Citrine": {
+            "discriminator": "1282",
+            "avatar": "https://cdn.discordapp.com/avatars/227118001206329344/ccd6eddd6a0e97fbfea9a6c7f2177fbf.png",
+            "roles": []
         }
     },
     "roles": {
@@ -1080,6 +1090,66 @@
         {
             "user": "Anonymous, talking about a pyramid",
             "text": "It's a cone in spirit, not in geometry"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "notice me senpai"
+        },
+        {
+            "user": "Amethyst",
+            "text": "my rack has been supersized"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i've hit the limits of Java itself"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Get learnding"
+        },
+        {
+            "user": "dpeter99",
+            "text": "I'm gonna be hones"
+        },
+        {
+            "user": "AshersLab",
+            "text": "<i>help me step sis, i'm stuck in vim and i can't get out</i>"
+        },
+        {
+            "user": "Lex",
+            "text": "I though I was the only asshole in the Minecraft community"
+        },
+        {
+            "user": "illy",
+            "text": "I feel like Eclipse is slowing turning into Apache ... and by that I mean where old projects go to die"
+        },
+        {
+            "user": "illy",
+            "text": "There's a fundamental difference between machine code and Gradle"
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "Canada. Period."
+        },
+        {
+            "user": "killjoy",
+            "text": "Let's not debate the heritage of trogdore"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I fat fingered it"
+        },
+        {
+            "user": "AshersLab",
+            "text": "look i googled 'trogdore doofenshmirtz' and found that"
+        },
+        {
+            "user": "Citrine",
+            "text": "mmm das hot"
+        },
+        {
+            "user": "Lex",
+            "text": "If you can avoid asm black magic. You must strive with everything you can to."
         }
     ]
 }
