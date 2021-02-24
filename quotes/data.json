@@ -110,7 +110,7 @@
         "Sydney": {
             "discriminator": "0027",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/628fb91dec14096462154cfe85265192.png?size=256",
+            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/427c7cbe51356bda06467064aaaebb9f.webp?size=128",
             "roles": []
         },
         "OrionOnline": {
@@ -184,18 +184,23 @@
         },
         "LatvianModder": {
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/2d6898059f62eecf60b50237498783ce.png",
+            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/2d6898059f62eecf60b50237498783ce.png?size=128",
             "roles": ["contributor"]
+        },
+        "dpeter99": {
+            "discriminator": "0001",
+            "avatar": "https://cdn.discordapp.com/avatars/132855438835318784/93ccc0b547d339e604b3579a9b4efe3d.png?size=128",
+            "roles": ["patreon"]
         },
         "CJDaBomb": {
             "discriminator": "0069",
-            "avatar": "https://cdn.discordapp.com/avatars/777227436429017118/685b9d16041f82c53bd8d9d6c5ef24ab.png",
+            "avatar": "https://cdn.discordapp.com/avatars/777227436429017118/685b9d16041f82c53bd8d9d6c5ef24ab.png?size=128",
             "nickname": "Slurpee™️",
             "roles": []
         },
         "Citrine": {
             "discriminator": "1282",
-            "avatar": "https://cdn.discordapp.com/avatars/227118001206329344/ccd6eddd6a0e97fbfea9a6c7f2177fbf.png",
+            "avatar": "https://cdn.discordapp.com/avatars/227118001206329344/ccd6eddd6a0e97fbfea9a6c7f2177fbf.png?size=128",
             "roles": []
         },
         "Max Hyper": {
