@@ -196,6 +196,16 @@
             "discriminator": "1282",
             "avatar": "https://cdn.discordapp.com/avatars/227118001206329344/ccd6eddd6a0e97fbfea9a6c7f2177fbf.png",
             "roles": []
+        },
+        "Max Hyper": {
+            "discriminator": "0310",
+            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/f42e3f3987f77bc74d0ff7eb05ed0b81.png",
+            "roles": []
+        },
+        "Lord_Samosa": {
+            "discriminator": "6666",
+            "avatar": "https://cdn.discordapp.com/avatars/265228797970743296/a_79aa7b49bffa44e1dc472924c3895470.gif",
+            "roles": []
         }
     },
     "roles": {
@@ -1132,7 +1142,7 @@
             "text": "Canada. Period."
         },
         {
-            "user": "killjoy",
+            "user": "killjoy 💥🗡",
             "text": "Let's not debate the heritage of trogdore"
         },
         {
@@ -1150,6 +1160,54 @@
         {
             "user": "Lex",
             "text": "If you can avoid asm black magic. You must strive with everything you can to."
+        },
+        {
+            "user": "gigaherz",
+            "text": "anyhow back to dumping my brain into a text file"
+        },
+        {
+            "user": "Amethyst",
+            "text": "duck is gonna suck your face off"
+        },
+        {
+            "user": "Max Hyper",
+            "text": "I’m doing reflection on forge code and I can already feel Lex’s rage flowing through my veins like cocaine"
+        },
+        {
+            "user": "illy",
+            "text": "HeLP i'M sO OlD!"
+        },
+        {
+            "user": "Lord_Samosa",
+            "text": "<img class=\"emote\" src=\"https://discord.com/assets/032d907ff49a63e0757cadd5f36ab216.svg\" alt=\":point_right:\"> <img class=\"emote\" src=\"https://discord.com/assets/464b4c2745e1dda6a86028d09bb8bbec.svg\" alt=\":ok_hand:\"> this means 'are you ok', right guys?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "the conversation willed itself into existence"
+        },
+        {
+            "user": "Amethyst",
+            "text": "no context. only egg"
+        },
+        {
+            "user": "illy",
+            "text": "You can't slap me if I slap me"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "Mr. Curle and Ms. Curle"
+        },
+        {
+            "user": "Amethyst",
+            "text": "So Cit is my princess now?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "autoerotic cannibalism? yummy"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Ashers whatcha munchin on buddy, is it the flesh of my enemies?"
         }
     ]
 }
