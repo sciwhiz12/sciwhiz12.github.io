@@ -8,7 +8,7 @@
         "McJty": {
             "discriminator": "4219",
             "avatar": "https://cdn.discordapp.com/avatars/115678922338729991/1402a5d647a30fda77c162ae624ab6b2.png?size=128",
-            "roles": []
+            "roles": ["triage"]
         },
         "fry": {
             "discriminator": "1522",
@@ -17,7 +17,7 @@
         },
         "illy": {
             "discriminator": "8209",
-            "nickname": "/bin/illy",
+            "nickname": "/bee/illy",
             "avatar": "https://cdn.discordapp.com/avatars/113392954206347264/f819f0f0722d2fe9d1d4a2abe7a60694.png?size=256",
             "roles": ["collaborator", "moderator", "triage", "patreon"]
         },
@@ -72,7 +72,7 @@
         },
         "sciwhiz12": {
             "discriminator": "1286",
-            "nickname": "sciwhiz12 «ᴄ.ᴀ.»",
+            "nickname": "sciwhiz12 (fighting with FG)",
             "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/5e5a1157c05d73d9ab4dc137006155d6.webp?size=128",
             "roles": ["docs_triage"]
         },
@@ -135,7 +135,7 @@
             "roles": []
         },
         "ravenbuilder934": {
-            "nickname": "ravenbuilder934 (NineColonies)",
+            "nickname": "Sabrina the Teenage Bitch",
             "discriminator": "2021",
             "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/873513e775b135be9f3b17da48a4e86d.webp?size=128",
             "roles": []
@@ -211,6 +211,16 @@
         "Lord_Samosa": {
             "discriminator": "6666",
             "avatar": "https://cdn.discordapp.com/avatars/265228797970743296/a_79aa7b49bffa44e1dc472924c3895470.gif",
+            "roles": []
+        },
+        "Paint_Ninja": {
+            "discriminator": "6054",
+            "avatar": "https://cdn.discordapp.com/avatars/96936166682554368/f4ff0938b41b5ae6a125738f61a85a8b.webp?size=128",
+            "roles": ["nitro"]
+        },
+        "MehVahdJukaar": {
+            "discriminator": "6237",
+            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/095e36e306e928ecb5ed01a6bd2af94d.webp?size=128",
             "roles": []
         }
     },
@@ -1214,6 +1224,75 @@
         {
             "user": "Amethyst",
             "text": "Ashers whatcha munchin on buddy, is it the flesh of my enemies?"
+        },
+        {
+            "user": "AshersLab",
+            "text": "pornmobile"
+        },
+        {
+            "user": "killjoy 💥🗡",
+            "text": "Is that a bag of peas in your pocket or are you just happy to see me?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Pea is stored in the balls"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Serve finn a big throbbing purple eggplant"
+        },
+        {
+            "user": "Citrine",
+            "text": "tis me<p>ham boy</p>"
+        },
+        {
+            "user": "gigaherz",
+            "text": "the problem is that you go into it thinking you'll play tetris, but gradle plays chess"
+        },
+        {
+            "user": "illy",
+            "text": "up down it really doesn't matter anymore I really just wanted you to die on the inside"
+        },
+        {
+            "user": "illy",
+            "text": "I HAVE NO SON"
+        },
+        {
+            "user": "Amethyst",
+            "text": "yeah be a good sub and quiet dow"
+        },
+        {
+            "user": "Paint_Ninja",
+            "text": "Anyway I'm moaning too much"
+        },
+        {
+            "user": "MehVahdJukaar",
+            "text": "I would like to have chicken breed using my seeds"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Curke</strong>",
+            "text": "kneel before your Mistress >:3"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "(no context, only curke)"
+        },
+        {
+            "user": "Lex",
+            "text": "Work, lots and lots of work. And a bit of black magic. Thats how."
+        },
+        {
+            "user": "AshersLab",
+            "text": "I’d recommend against f***ing your teachers"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Besides, theres nobody called Curle in this server"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "Pickle dick"
         }
     ]
 }
