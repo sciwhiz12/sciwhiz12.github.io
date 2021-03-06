@@ -110,8 +110,8 @@
         "Sydney": {
             "discriminator": "0027",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/427c7cbe51356bda06467064aaaebb9f.webp?size=128",
-            "roles": []
+            "avatar": "https://i.imgur.com/uwtX6UG.png",
+            "roles": ["patreon"]
         },
         "OrionOnline": {
             "discriminator": "1864",
