@@ -65,6 +65,7 @@ footer>* {
 
 .socials_link {
     font-size: 0.85em;
+    display: inline-block;
 }
 
 .icon {
