@@ -104,7 +104,7 @@
         },
         "FinnT730": {
             "discriminator": "9064",
-            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/66808369d51268ee1c4439502617637a.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/2ec9fa97ee3cf43238e3b6a6c59c74a8.webp?size=128",
             "roles": []
         },
         "Sydney": {
@@ -135,7 +135,7 @@
             "roles": []
         },
         "ravenbuilder934": {
-            "nickname": "Sabrina the Teenage Bitch",
+            "nickname": "Raven (NineColonies)",
             "discriminator": "2021",
             "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/873513e775b135be9f3b17da48a4e86d.webp?size=128",
             "roles": []
@@ -200,7 +200,7 @@
         },
         "Citrine": {
             "discriminator": "1282",
-            "avatar": "https://cdn.discordapp.com/avatars/227118001206329344/ccd6eddd6a0e97fbfea9a6c7f2177fbf.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/227118001206329344/a6f60b9273772ab0735838684621ea38.webp?size=128",
             "roles": []
         },
         "Max Hyper": {
@@ -221,6 +221,12 @@
         "MehVahdJukaar": {
             "discriminator": "6237",
             "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/095e36e306e928ecb5ed01a6bd2af94d.webp?size=128",
+            "roles": []
+        },
+        "SizeableShrimp": {
+            "discriminator": "0755",
+            "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/23f7c068a4edc205eac40740ea0bda40.webp?size=128",
+            "nickname": "SizableShrimp [pingmepls]",
             "roles": []
         }
     },
@@ -1293,6 +1299,75 @@
         {
             "user": "ravenbuilder934",
             "text": "Pickle dick"
+        },
+        {
+            "user": "RobotGryphon",
+            "text": "Just the tips."
+        },
+        {
+            "user": "diesieben07",
+            "text": "furry porn?"
+        },
+        {
+            "user": "FinnT730",
+            "text": "I got a big pocket"
+        },
+        {
+            "user": "Amethyst",
+            "text": "We're kinda shitting in the woods without a paddle"
+        },
+        {
+            "user": "Amethyst",
+            "text": "what the fuck is this language you're speaking at me"
+        },
+        {
+            "user": "Amethyst",
+            "text": "but a stack of horse shit works for me"
+        },
+        {
+            "user": "Gigaherz",
+            "text": "went to open a mod dev and it started stanning the entire SSD"
+        },
+        {
+            "user": "RobotGryphon",
+            "text": "I'd actually kill for TC to open source itself"
+        },
+        {
+            "user": "Amethyst",
+            "text": "How the fuck do you make the mental link between dairy queen and rick roll"
+        },
+        {
+            "user": "SizeableShrimp",
+            "text": "you wail into your terminal and up pops curle"
+        },
+        {
+            "user": "dpeter99",
+            "text": "Curle and the 15 393 434 894K monitor"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Can't drive a carpet to the shop."
+        },
+        {
+            "user": "Amethyst",
+            "text": "1 + 1 = 2 is different from 1 + 1 = 2 if you think about it hard enough."
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "The funniest bits were about frogs"
+        },
+        {
+            "user": "Amethyst",
+            "text": "nice. never seen a ravine open like that before"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Curke</strong>",
+            "text": "My brain cells are going the way of the dodo"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "no, I'm busy getting my helmet back out<p>you do it</p>"
         }
     ]
 }
