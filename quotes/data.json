@@ -72,7 +72,7 @@
         },
         "sciwhiz12": {
             "discriminator": "1286",
-            "nickname": "sciwhiz12 (fighting with FG)",
+            "nickname": "sciwhiz12",
             "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/82c6980d70f548a75bce0ff8eb7d0caa.webp?size=256",
             "roles": ["docs_triage"]
         },
@@ -98,7 +98,7 @@
             "roles": ["triage"]
         },
         "Leon ;D": {
-            "discriminator": "2021",
+            "discriminator": "5895",
             "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/4892c23db53af316510ce8bcbc842c16.webp?size=256",
             "roles": []
         },
@@ -135,8 +135,8 @@
             "roles": []
         },
         "ravenbuilder934": {
-            "nickname": "Raven (NineColonies)",
-            "discriminator": "2021",
+            "nickname": "Raven",
+            "discriminator": "1337",
             "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/d92b907a2806b3b16f8c3533278018ea.webp?size=256",
             "roles": []
         },
@@ -1499,6 +1499,26 @@
         {
             "user": "Simon [Lanse505]",
             "text": "As hard as me <img class=\"emote\" src=\"https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg\" alt=\":thinking:\"> ?"
+        },
+        {
+            "user": "Anonymous",
+            "text": "it is no plant fucking but i do what i can"
+        },
+        {
+            "user": "cpw",
+            "text": "You don't use your thumb to pick your nose? It's tragedy."
+        },
+        {
+            "user": "cpw",
+            "text": "The four pillars of salt, pepper, cheese, gravy."
+        },
+        {
+            "user": "cpw",
+            "text": "Yaaay, let's have a small party."
+        },
+        {
+            "user": "Lex",
+            "text": "It appears you are in space. While taking acid. I think that may be a problem"
         }
     ]
 }
