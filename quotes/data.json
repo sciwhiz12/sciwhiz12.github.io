@@ -228,6 +228,11 @@
             "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/23f7c068a4edc205eac40740ea0bda40.webp?size=128",
             "nickname": "SizableShrimp [pingmepls]",
             "roles": []
+        },
+        "AterAnimAvis": {
+            "discriminator": "4372",
+            "avatar": "https://cdn.discordapp.com/avatars/581411867575189504/2868510d999d9b14fc0766b67851e958.webp?size=128",
+            "roles": ["nitro"]
         }
     },
     "roles": {
@@ -1267,6 +1272,7 @@
             "user": "Amethyst",
             "text": "yeah be a good sub and quiet down"
         },
+        null,
         {
             "user": "Paint_Ninja",
             "text": "Anyway I'm moaning too much"
@@ -1368,6 +1374,131 @@
         {
             "user": "ravenbuilder934",
             "text": "no, I'm busy getting my helmet back out<p>you do it</p>"
-        }
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "I mean, Hitler didn't have any original ideas"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "Aww yeah, hammer me all night long"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "Okey, I'll mute you with my phallic object!"
+        },
+        {
+            "user": "Citrine",
+            "text": "Minecraft is my bitch"
+        },
+        {
+            "user": "illy",
+            "text": "your vm lets other people touch other peoples private members?"
+        },
+        {
+            "user": "illy",
+            "side_text": "to <strong style=\"font-size: 115%\">Curle</strong>",
+            "text": "I love that fact that your in your car at fuck o'clock in the morning messing with vnc"
+        },
+        {
+            "user": "illy",
+            "text": "she built this car! she built this car on metal and fiberglass!"
+        },
+        {
+            "user": "Amethyst",
+            "text": "But it churns Java up like a motherfucker."
+        },
+        {
+            "user": "Amethyst",
+            "text": "Yes, it's me saying \"more than me\""
+        },
+        {
+            "user": "Amethyst",
+            "text": "Every logic I make is flawless - giga"
+        },
+        {
+            "user": "ravenbuilder934",
+            "side_text": "aka <strong style=\"font-size: 115%\">ravencurle</strong>",
+            "text": "is his name person man"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">purpcurle</strong>",
+            "text": "daemon can suck my hat tip"
+        },
+        {
+            "user": "killjoy 💥🗡",
+            "text": "You just spilled the chocolate milk!"
+        },
+        {
+            "user": "dpeter99",
+            "side_text": "aka <strong style=\"font-size: 115%\">peterbolb</strong>",
+            "text": "We are Bolb! Resistance is futile!"
+        },
+        {
+            "user": "killjoy 💥🗡",
+            "side_text": "aka <strong style=\"font-size: 115%\">curlejoy</strong>",
+            "text": "All your bolb are belong to us"
+        },
+        {
+            "user": "dpeter99",
+            "side_text": "aka <strong style=\"font-size: 115%\">petercurle</strong>",
+            "text": "someone quote that"
+        },
+        {
+            "user": "Amethyst",
+            "text": "this day is gonna create so many quotes"
+        },
+        {
+            "user": "Amethyst",
+            "text": "this is the proper time to declare this is a... curlemoment"
+        },
+        {
+            "user": "AshersLab",
+            "text": "Or just not quoting every damn thing under the sun"
+        },
+        { 
+            "user": "AterAnimAvis",
+            "side_text": "aka <strong style=\"font-size: 115%\">atercurle</strong>",
+            "text": "Quote the quotes that quote power abuse?"
+        },
+        {
+            "user": "no one",
+            "text": "We have too many quotes"
+        },
+        {
+            "user": "Lex",
+            "side_text": "aka <strong style=\"font-size: 115%\">Curlex</strong>",
+            "text": "There is no Lex, Only Curle"
+        },
+        {
+            "user": "Amethyst",
+            "text": "he's reaching for the tip"
+        },
+        {
+            "user": "Noe",
+            "text": "Pronouns: curle/curle"
+        },
+        {
+            "user": "dpeter99",
+            "side_text": "aka <strong style=\"font-size: 115%\">gladcurle</strong>",
+            "text": "Citrine Teaching Clit licking academically"
+        },
+        {
+            "user": "Amethyst",
+            "text": "What, you don't partake in my nut busting, ball bursting action?"
+        },
+        {
+            "user": "Citrine",
+            "text": "And when the patient woke up, his skeleton was missing, and the chat was never heard from again!"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "I don't have general anal itching"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "As hard as me <img class=\"emote\" src=\"https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg\" alt=\":thinking:\"> ?"
+        },
     ]
 }
