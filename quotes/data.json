@@ -29,7 +29,7 @@
         "Lex": {
             "nickname": "LexManos",
             "discriminator": "4688",
-            "avatar": "https://cdn.discordapp.com/avatars/134030797756694528/55a560be42916b63b9bf9f0c3f95d7c3.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/134030797756694528/885d455c503c0f4eb3211ab82069e1e1.png?size=256",
             "roles": ["forgegod", "forge"]
         },
         "Amethyst": {
@@ -72,13 +72,13 @@
         },
         "sciwhiz12": {
             "discriminator": "1286",
-            "nickname": "sciwhiz12 (fighting with FG)",
-            "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/5e5a1157c05d73d9ab4dc137006155d6.webp?size=128",
+            "nickname": "sciwhiz12",
+            "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/82c6980d70f548a75bce0ff8eb7d0caa.webp?size=256",
             "roles": ["docs_triage"]
         },
         "killjoy 💥🗡": {
             "discriminator": "7628",
-            "avatar": "https://cdn.discordapp.com/avatars/171783421377511425/99718951a97bd18d0dd1511497a2ecb4.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/171783421377511425/65d634252a3ea1cb0fbddc80b25becdf.webp?size=256",
             "roles": []
         },
         "Noe": {
@@ -98,8 +98,8 @@
             "roles": ["triage"]
         },
         "Leon ;D": {
-            "discriminator": "2021",
-            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/868eb6d7e1056cd414f887a780b392fe.webp?size=128",
+            "discriminator": "5895",
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/4892c23db53af316510ce8bcbc842c16.webp?size=256",
             "roles": []
         },
         "FinnT730": {
@@ -131,13 +131,13 @@
         },
         "Rosolnatka": {
             "discriminator": "9813",
-            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/9862a35160c2a3e81505b925df1e1f38.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/08f86efc5a09066ec4573ce1e3acb193.webp?size=256",
             "roles": []
         },
         "ravenbuilder934": {
-            "nickname": "Raven (NineColonies)",
-            "discriminator": "2021",
-            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/873513e775b135be9f3b17da48a4e86d.webp?size=128",
+            "nickname": "Raven",
+            "discriminator": "1337",
+            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/d92b907a2806b3b16f8c3533278018ea.webp?size=256",
             "roles": []
         },
         "pupnewfster": {
@@ -147,7 +147,7 @@
         },
         "covers1624": {
             "discriminator": "1624",
-            "avatar": "https://cdn.discordapp.com/avatars/158120884014546944/84221ad51b251bb21a5a4114e15f09b6.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/158120884014546944/19d80738c3fea05f3d5a89153f8c359a.png?size=256",
             "roles": ["lts", "triage", "contributor"]
         },
         "Simon [Lanse505]": {
@@ -168,7 +168,7 @@
         "RobotGryphon": {
             "nickname": "Nano",
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/1e51ee0452e80b5179e3ad5136453310.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/54f9a6d5a47a71a1295d2637e0747f7e.webp?size=256",
             "roles": []
         },
         "Moomallowz": {
@@ -184,12 +184,12 @@
         },
         "LatvianModder": {
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/2d6898059f62eecf60b50237498783ce.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/0ff9992557221a6f3d0780d493604988.webp?size=256",
             "roles": ["contributor"]
         },
         "dpeter99": {
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/132855438835318784/93ccc0b547d339e604b3579a9b4efe3d.png?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/132855438835318784/698015e294cb77eb3219e8932b0a66a9.webp?size=256",
             "roles": ["patreon"]
         },
         "CJDaBomb": {
@@ -225,7 +225,7 @@
         },
         "SizeableShrimp": {
             "discriminator": "0755",
-            "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/23f7c068a4edc205eac40740ea0bda40.webp?size=128",
+            "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/adfff23286d1004a87196e368d94afc4.webp?size=256",
             "nickname": "SizableShrimp [pingmepls]",
             "roles": []
         },
@@ -1499,6 +1499,26 @@
         {
             "user": "Simon [Lanse505]",
             "text": "As hard as me <img class=\"emote\" src=\"https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg\" alt=\":thinking:\"> ?"
+        },
+        {
+            "user": "Anonymous",
+            "text": "it is no plant fucking but i do what i can"
+        },
+        {
+            "user": "cpw",
+            "text": "You don't use your thumb to pick your nose? It's tragedy."
+        },
+        {
+            "user": "cpw",
+            "text": "The four pillars of salt, pepper, cheese, gravy."
+        },
+        {
+            "user": "cpw",
+            "text": "Yaaay, let's have a small party."
+        },
+        {
+            "user": "Lex",
+            "text": "It appears you are in space. While taking acid. I think that may be a problem"
         }
     ]
 }
