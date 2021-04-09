@@ -2,13 +2,15 @@ fetch("data.json")
     .then(req => req.json())
     .then(data => {
         const container = document.getElementById("quotes")
+        var roles = parseRoles(data.roles)
+
         var quotes = data.quotes
         for (let i = 0; i < quotes.length; i++) {
             const quote = quotes[i];
             if (!quote || !quote.user) {
                 container.appendChild(createNoQuote(i + 1))
             } else {
-                container.appendChild(createQuote(data, i + 1, quote))
+                container.appendChild(createQuote(data, roles, i + 1, quote))
             }
         }
 
@@ -34,6 +36,7 @@ fetch("data.json")
     .catch(err => {
         console.error("Error while loading: " + err)
         document.getElementById("loading_error").style.display = ""
+        throw err
     })
 
 window.addEventListener("hashchange", ev => { removeAllHovers() })
@@ -67,7 +70,7 @@ function createNoQuote(number) {
     return quoteDiv;
 }
 
-function createQuote(data, number, quote) {
+function createQuote(data, roles, number, quote) {
     const user = quote.user
     const text = quote.text
     var userdata = null
@@ -99,11 +102,15 @@ function createQuote(data, number, quote) {
     nameDiv.tabIndex = 1
 
     const userSpan = nameDiv.appendChild(document.createElement("span"))
-    userSpan.innerText = userdata && userdata.hasOwnProperty("nickname") ? userdata.nickname : user
+    userSpan.innerText = userdata ? (userdata.hasOwnProperty("nickname") ? userdata.nickname : userdata.username) : user
     if (userdata) {
-        const roles = userdata.roles
-        if (roles.length > 0) {
-            userSpan.className = data.roles[roles[0]].css_class
+        const userRoles = userdata.roles
+        if (userRoles && userRoles.length > 0) {
+            userRoles.forEach(roleName => {
+                if (roles[roleName]?.css) {
+                    userSpan.classList.add(roles[roleName].css)
+                }
+            });
         }
         if (userdata.hasOwnProperty("tag")) {
             const tagSpan = nameDiv.appendChild(document.createElement("span"))
@@ -111,7 +118,7 @@ function createQuote(data, number, quote) {
             tagSpan.innerHTML = userdata.tag
         }
 
-        content.appendChild(createPopup(data, user))
+        content.appendChild(createPopup(user, roles, userdata))
     } else {
         userSpan.className = "non_user"
     }

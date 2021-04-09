@@ -1,10 +1,11 @@
 fetch("data.json")
     .then(req => req.json())
     .then(data => {
+        var roles = parseRoles(data.roles)
         var counts = calculateCounts(data.quotes)
         var table = document.getElementById("counts")
         for (const entry of counts) {
-            addRow(data, table, entry[0], entry[1])
+            addRow(data, roles, table, entry[0], entry[1])
         }
     })
     .catch(err => {
@@ -12,11 +13,8 @@ fetch("data.json")
         document.getElementById("loading_error").style.display = ""
     })
 
-function addRow(data, parent, user, count) {
-    var userdata = null
-    if (data.users.hasOwnProperty(user)) {
-        userdata = data.users[user]
-    }
+function addRow(data, roles, parent, user, count) {
+    var userdata = data.users[user]
 
     const row = parent.appendChild(document.createElement("tr"))
 
@@ -25,12 +23,16 @@ function addRow(data, parent, user, count) {
     username.tabIndex = 1
 
     const userSpan = username.appendChild(document.createElement("span"))
-    userSpan.innerText = userdata && userdata.hasOwnProperty("nickname") ? userdata.nickname : user
+    userSpan.innerText = userdata ? (userdata.hasOwnProperty("nickname") ? userdata.nickname : userdata.username) : user
 
     if (userdata) {
-        const roles = userdata.roles
-        if (roles.length > 0) {
-            userSpan.className = data.roles[roles[0]].css_class
+        const userRoles = userdata.roles
+        if (userRoles && userRoles.length > 0) {
+            userRoles.forEach(roleName => {
+                if (roles[roleName]?.css) {
+                    userSpan.classList.add(roles[roleName].css)
+                }
+            });
         }
         if (userdata.hasOwnProperty("tag")) {
             const tagSpan = username.appendChild(document.createElement("span"))
@@ -38,7 +40,7 @@ function addRow(data, parent, user, count) {
             tagSpan.innerHTML = userdata.tag
         }
 
-        username.appendChild(createPopup(data, user))
+        username.appendChild(createPopup(user, roles, userdata))
     } else {
         userSpan.className = "non_user"
     }

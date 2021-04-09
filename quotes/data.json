@@ -1,235 +1,303 @@
 {
     "users": {
         "tterrag": {
+            "id": "140245257416736769",
+            "username": "tterrag",
             "discriminator": "1098",
             "avatar": "https://cdn.discordapp.com/avatars/140245257416736769/7ac3052f54cd37f2f7941276f4da1d18.webp?size=128",
             "roles": ["forge", "moderator", "lts", "triage"]
         },
         "McJty": {
+            "id": "115678922338729991",
+            "username": "McJty",
             "discriminator": "4219",
             "avatar": "https://cdn.discordapp.com/avatars/115678922338729991/1402a5d647a30fda77c162ae624ab6b2.png?size=128",
             "roles": ["triage"]
         },
         "fry": {
+            "id": "104559614472765440",
+            "username": "fry",
             "discriminator": "1522",
             "avatar": "https://cdn.discordapp.com/avatars/104559614472765440/f13d4999012e583e1353aac80c2e7c17.png?size=128",
             "roles": ["collaborator", "problem"]
         },
         "illy": {
+            "id": "113392954206347264",
+            "username": "illy",
             "discriminator": "8209",
             "nickname": "/bee/illy",
             "avatar": "https://cdn.discordapp.com/avatars/113392954206347264/f819f0f0722d2fe9d1d4a2abe7a60694.png?size=256",
             "roles": ["collaborator", "moderator", "triage", "patreon"]
         },
         "diesieben07": {
+            "id": "328214370964340746",
+            "username": "diesieben07",
             "discriminator": "0714",
             "avatar": "https://cdn.discordapp.com/avatars/328214370964340746/78da5f24f5c0d3759d9d15596558c086.webp?size=128",
             "roles": ["triage"]
         },
         "Lex": {
+            "id": "134030797756694528",
+            "username": "Lex",
             "nickname": "LexManos",
             "discriminator": "4688",
             "avatar": "https://cdn.discordapp.com/avatars/134030797756694528/885d455c503c0f4eb3211ab82069e1e1.png?size=256",
             "roles": ["forgegod", "forge"]
         },
         "Amethyst": {
+            "id": "462617385157787648",
+            "username": "Amethyst",
             "nickname": "Curle",
             "discriminator": "6998",
             "avatar": "https://cdn.discordapp.com/avatars/462617385157787648/6548d9da1c1cdd266c96f001ec2950a4.png?size=128",
             "roles": ["triage", "superhelper", "nitro", "tainted"]
         },
         "cpw": {
+            "id": "104313475756466176",
+            "username": "cpw",
             "discriminator": "3509",
             "avatar": "https://cdn.discordapp.com/avatars/104313475756466176/670b4f8950f3ed6457a3a114561fbaba.png?size=128",
             "roles": ["forge"]
         },
         "gigaherz": {
+            "id": "220946008404656128",
+            "username": "gigaherz",
             "discriminator": "9173",
             "avatar": "https://cdn.discordapp.com/avatars/220946008404656128/3f566d2b768e383fd1d7cefab7ce2490.png?size=128",
             "roles": ["forge", "moderator", "lts", "triage"]
         },
         "AshersLab": {
+            "id": "315757273676906497",
+            "username": "AshersLab",
             "discriminator": "1864",
             "nickname": "AshersLab™ [MineColonies]",
             "avatar": "https://cdn.discordapp.com/avatars/315757273676906497/6715d601b7a3cb9552082990140c6147.png?size=128",
             "roles": ["moderator", "triage", "usd10", "patreon"]
         },
         "chylex": {
+            "id": "141618845126230016",
+            "username": "chylex",
             "discriminator": "5000",
-            "avatar": "https://cdn.discordapp.com/avatars/141618845126230016/a_a4e19e6b7afedad1f927e571d45853d9.gif?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/141618845126230016/a_a4e19e6b7afedad1f927e571d45853d9.gif?size=128"
         },
         "forge-bot": {
+            "id": "437036817858953217",
+            "username": "forge-bot",
             "discriminator": "9014",
             "avatar": "https://cdn.discordapp.com/avatars/437036817858953217/b249324816cec24d5c98939bcc45212e.png?size=128",
             "tag": "BOT",
             "roles": ["bot"]
         },
         "DaemonUmbra": {
+            "id": "107667673684377600",
+            "username": "DaemonUmbra",
             "discriminator": "1337",
             "avatar": "https://cdn.discordapp.com/avatars/107667673684377600/97299ad89c74982ad7197180524862d8.png?size=128",
             "roles": ["moderator", "triage", "usd10", "patreon", "nitro"]
         },
         "sciwhiz12": {
+            "id": "607058472709652501",
+            "username": "sciwhiz12",
             "discriminator": "1286",
             "nickname": "sciwhiz12",
             "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/82c6980d70f548a75bce0ff8eb7d0caa.webp?size=256",
             "roles": ["docs_triage"]
         },
         "killjoy 💥🗡": {
+            "id": "171783421377511425",
+            "username": "killjoy \uD83D\uDCA5\uD83D\uDDE1",
             "discriminator": "7628",
-            "avatar": "https://cdn.discordapp.com/avatars/171783421377511425/65d634252a3ea1cb0fbddc80b25becdf.webp?size=256",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/171783421377511425/65d634252a3ea1cb0fbddc80b25becdf.webp?size=256"
         },
         "Noe": {
+            "id": "358822645225095170",
+            "username": "Noe",
             "discriminator": "2252",
-            "avatar": "https://cdn.discordapp.com/avatars/358822645225095170/39c3898e092f64f07ab02c7ca996c1e6.png?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/358822645225095170/39c3898e092f64f07ab02c7ca996c1e6.png?size=128"
         },
         "Silk": {
+            "id": "490226168335695873",
+            "username": "Silk",
             "discriminator": "6031",
             "nickname": "Silk / Memento Mori",
-            "avatar": "https://cdn.discordapp.com/avatars/490226168335695873/28fd7381797d33aedbfcbbc1162f4267.webp?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/490226168335695873/28fd7381797d33aedbfcbbc1162f4267.webp?size=128"
         },
         "Unnoen": {
+            "id": "83553630271045632",
+            "username": "Unnoen",
             "discriminator": "0001",
             "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/7295fb51920d66a096835f1cc1d8e3fb.webp?size=128",
             "roles": ["triage"]
         },
         "Leon ;D": {
+            "id": "438021408883212290",
+            "username": "Leon ;D",
             "discriminator": "5895",
-            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/4892c23db53af316510ce8bcbc842c16.webp?size=256",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/4892c23db53af316510ce8bcbc842c16.webp?size=256"
         },
         "FinnT730": {
+            "id": "145199140048076800",
+            "username": "FinnT730",
             "discriminator": "9064",
-            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/2ec9fa97ee3cf43238e3b6a6c59c74a8.webp?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/2ec9fa97ee3cf43238e3b6a6c59c74a8.webp?size=128"
         },
         "Sydney": {
+            "id": "163490961253466112",
+            "username": "Sydney",
             "discriminator": "0027",
             "nickname": "Shroom Agent",
             "avatar": "https://i.imgur.com/uwtX6UG.png",
             "roles": ["patreon"]
         },
         "OrionOnline": {
+            "id": "304594425286361088",
+            "username": "OrionOnline",
             "discriminator": "1864",
             "nickname": "OrionOnline [MineColonies]",
             "avatar": "https://cdn.discordapp.com/avatars/304594425286361088/36efdb744c6c4a735b767c55f8269f40.png?size=128",
             "roles": ["triage", "patreon"]
         },
         "wild tan()": {
+            "id": "510415959480336393",
+            "username": "wild tan()",
             "discriminator": "8651",
-            "avatar": "https://cdn.discordapp.com/avatars/510415959480336393/9bb5ae35f8f7707444d44ef1b23c0b27.png?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/510415959480336393/9bb5ae35f8f7707444d44ef1b23c0b27.png?size=128"
         },
         "ByteLaw": {
+            "id": "311833206423027712",
+            "username": "ByteLaw",
             "discriminator": "2463",
-            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/c5cd641f0e292d10e207670ccdb56313.webp?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/c5cd641f0e292d10e207670ccdb56313.webp?size=128"
         },
         "Rosolnatka": {
+            "id": "471661725096345602",
+            "username": "Rosolnatka",
             "discriminator": "9813",
-            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/08f86efc5a09066ec4573ce1e3acb193.webp?size=256",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/08f86efc5a09066ec4573ce1e3acb193.webp?size=256"
         },
         "ravenbuilder934": {
+            "id": "718189714200330321",
+            "username": "ravenbuilder934",
             "nickname": "Raven",
             "discriminator": "1337",
-            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/d92b907a2806b3b16f8c3533278018ea.webp?size=256",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/d92b907a2806b3b16f8c3533278018ea.webp?size=256"
         },
         "pupnewfster": {
+            "id": "107837977081720832",
+            "username": "pupnewfster",
             "discriminator": "0001",
             "avatar": "https://cdn.discordapp.com/avatars/107837977081720832/ca5a807954ccf6431d58fc1202cf2dfd.png?size=128",
             "roles": ["triage"]
         },
         "covers1624": {
+            "id": "158120884014546944",
+            "username": "covers1624",
             "discriminator": "1624",
             "avatar": "https://cdn.discordapp.com/avatars/158120884014546944/19d80738c3fea05f3d5a89153f8c359a.png?size=256",
             "roles": ["lts", "triage", "contributor"]
         },
         "Simon [Lanse505]": {
+            "id": "107511731999244288",
+            "username": "Lanse505",
             "discriminator": "3403",
-            "avatar": "https://cdn.discordapp.com/avatars/107511731999244288/03950fb96e4cd705b9c54ba2841220fd.webp?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/107511731999244288/03950fb96e4cd705b9c54ba2841220fd.webp?size=128"
         },
         "JoJoModding": {
+            "id": "224497169145528320",
+            "username": "JoJoModding",
             "discriminator": "5625",
             "avatar": "https://cdn.discordapp.com/avatars/224497169145528320/f2f453732f79b61f55256a627297a4a7.webp?size=128",
             "roles": ["contributor"]
         },
         "ChampionAsh5357": {
+            "id": "207184927236554752",
+            "username": "ChampionAsh5357",
             "discriminator": "5519",
             "avatar": "https://cdn.discordapp.com/avatars/207184927236554752/22cec5dae129d414ed695b64473d3f2d.png?size=128",
             "roles": ["docs_triage"]
         },
         "RobotGryphon": {
+            "id": "202247953321033729",
+            "username": "RobotGryphon",
             "nickname": "Nano",
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/54f9a6d5a47a71a1295d2637e0747f7e.webp?size=256",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/54f9a6d5a47a71a1295d2637e0747f7e.webp?size=256"
         },
         "Moomallowz": {
+            "id": "544195181939785740",
+            "username": "Moomallowz",
             "nickname": "Moomallowz (little dunce man)",
             "discriminator": "6036",
-            "avatar": "https://cdn.discordapp.com/avatars/544195181939785740/74a6af812ea189f26d848a70fed463db.webp?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/544195181939785740/74a6af812ea189f26d848a70fed463db.webp?size=128"
         },
         "Skiddles": {
+            "id": "273636822565912578",
+            "username": "Skiddles",
             "discriminator": "9412",
-            "avatar": "https://cdn.discordapp.com/avatars/273636822565912578/30a03c47df13ba60aab6242e85938006.webp?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/273636822565912578/30a03c47df13ba60aab6242e85938006.webp?size=128"
         },
         "LatvianModder": {
+            "id": "143142144469762048",
+            "username": "LatvianModder",
             "discriminator": "0001",
             "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/0ff9992557221a6f3d0780d493604988.webp?size=256",
             "roles": ["contributor"]
         },
         "dpeter99": {
+            "id": "132855438835318784",
+            "username": "dpeter99",
             "discriminator": "0001",
             "avatar": "https://cdn.discordapp.com/avatars/132855438835318784/698015e294cb77eb3219e8932b0a66a9.webp?size=256",
             "roles": ["patreon"]
         },
         "CJDaBomb": {
+            "id": "777227436429017118",
+            "username": "CJDaBomb",
             "discriminator": "0069",
             "avatar": "https://cdn.discordapp.com/avatars/777227436429017118/685b9d16041f82c53bd8d9d6c5ef24ab.png?size=128",
-            "nickname": "Slurpee™️",
-            "roles": []
+            "nickname": "Slurpee™️"
         },
         "Citrine": {
+            "id": "227118001206329344",
+            "username": "Citrine",
             "discriminator": "1282",
-            "avatar": "https://cdn.discordapp.com/avatars/227118001206329344/a6f60b9273772ab0735838684621ea38.webp?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/227118001206329344/a6f60b9273772ab0735838684621ea38.webp?size=128"
         },
         "Max Hyper": {
+            "id": "217760439465934848",
+            "username": "Max",
             "discriminator": "0310",
-            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/f42e3f3987f77bc74d0ff7eb05ed0b81.png",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/f42e3f3987f77bc74d0ff7eb05ed0b81.png"
         },
         "Lord_Samosa": {
+            "id": "265228797970743296",
+            "username": "Lord_Samosa",
             "discriminator": "6666",
-            "avatar": "https://cdn.discordapp.com/avatars/265228797970743296/a_79aa7b49bffa44e1dc472924c3895470.gif",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/265228797970743296/a_79aa7b49bffa44e1dc472924c3895470.gif"
         },
         "Paint_Ninja": {
+            "id": "96936166682554368",
+            "username": "Paint_Ninja",
             "discriminator": "6054",
             "avatar": "https://cdn.discordapp.com/avatars/96936166682554368/f4ff0938b41b5ae6a125738f61a85a8b.webp?size=128",
             "roles": ["nitro"]
         },
         "MehVahdJukaar": {
+            "id": "292948689876418560",
+            "username": "MehVahdJukaar",
             "discriminator": "6237",
-            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/095e36e306e928ecb5ed01a6bd2af94d.webp?size=128",
-            "roles": []
+            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/095e36e306e928ecb5ed01a6bd2af94d.webp?size=128"
         },
         "SizeableShrimp": {
+            "id": "277525077669445632",
+            "username": "SizeableShrimp",
             "discriminator": "0755",
             "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/adfff23286d1004a87196e368d94afc4.webp?size=256",
-            "nickname": "SizableShrimp [pingmepls]",
-            "roles": []
+            "nickname": "SizableShrimp [pingmepls]"
         },
         "AterAnimAvis": {
+            "id": "581411867575189504",
+            "username": "AterAnimAvis",
             "discriminator": "4372",
             "avatar": "https://cdn.discordapp.com/avatars/581411867575189504/2868510d999d9b14fc0766b67851e958.webp?size=128",
             "roles": ["nitro"]
@@ -237,67 +305,66 @@
     },
     "roles": {
         "forgegod": {
-            "css_class": "role_forgegod",
+            "color": "#E91E63",
             "name": "forgegod"
         },
         "forge": {
-            "css_class": "role_forge",
+            "color": "#3498DB",
             "name": "Forge Team"
         },
         "collaborator": {
-            "css_class": "role_collaborator",
+            "color": "#1F8B4C",
             "name": "Collaborator"
         },
         "moderator": {
-            "css_class": "role_moderator",
+            "color": "#F1C40F",
             "name": "Moderator"
         },
         "bot": {
-            "css_class": "role_bot",
+            "color": "#607D8B",
             "name": "Bot"
         },
         "lts": {
-            "css_class": "role_lts",
+            "color": "#cfe934",
             "name": "LTS"
         },
         "triage": {
-            "css_class": "role_triage",
+            "color": "#9B59B6",
             "name": "Triage Team"
         },
         "docs_triage": {
-            "css_class": "role_default",
             "name": "Docs Triage"
         },
         "superhelper": {
-            "css_class": "role_superhelper",
+            "color": "#c27c0e",
             "name": "superhelper"
         },
         "contributor": {
-            "css_class": "role_contributor",
+            "color": "#2ecc71",
             "name": "Contributor"
         },
         "patreon": {
-            "css_class": "role_patreon",
+            "color": "#ff7043",
             "name": "Patreon Donor"
         },
         "usd10": {
-            "css_class": "role_usd10",
+            "color": "#ff5722",
             "name": "$10"
         },
         "nitro": {
-            "css_class": "role_default",
             "name": "Nitro Booster"
         },
         "problem": {
-            "css_class": "role_problem",
+            "color": "#ad1457",
             "name": "Problem Causer"
         },
         "tainted": {
-            "css_class": "role_tainted",
+            "color": "#07a23a",
             "name": "Tainted"
         }
     },
-    "quotes": [{
+    "quotes": [
+        {
             "user": "tterrag",
             "text": "it's not a rootkit, it only does [things rootkits do]"
         },
