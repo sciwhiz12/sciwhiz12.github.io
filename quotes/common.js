@@ -62,9 +62,14 @@ function createPopup(userkey, roles, userdata) {
     // The roles of the user
     const roleHeader = popupBody.appendChild(document.createElement("div"))
     roleHeader.className = "popup_body_header"
-    const userRoles = userdata?.roles
+    var userRoles = userdata?.roles
 
     if (userRoles && userRoles.length > 0) {
+        const rolesProperties = Object.getOwnPropertyNames(roles)
+        userRoles.sort(function(a, b) {
+            return rolesProperties.indexOf(a) - rolesProperties.indexOf(b);
+        })
+
         roleHeader.innerText = userRoles.length == 1 ? "Role" : "Roles"
 
         // List out all the roles
