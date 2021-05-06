@@ -334,6 +334,10 @@
             "color": "#9B59B6",
             "name": "Triage Team"
         },
+        "superhelper": {
+            "color": "#ee5beb",
+            "name": "superhelper"
+        },
         "collaborator": {
             "color": "#1F8B4C",
             "name": "Collaborator"
@@ -341,17 +345,13 @@
         "docs_triage": {
             "name": "Docs Triage"
         },
-        "superhelper": {
-            "color": "#ee5beb",
-            "name": "superhelper"
+        "contributor": {
+            "color": "#2ecc71",
+            "name": "Contributor"
         },
         "retrogradle": {
             "color": "#15e4c7",
             "name": "Retrogradle"
-        },
-        "contributor": {
-            "color": "#2ecc71",
-            "name": "Contributor"
         },
         "patreon": {
             "color": "#ff7043",
