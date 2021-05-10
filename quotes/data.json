@@ -63,7 +63,7 @@
             "id": "220946008404656128",
             "username": "gigaherz",
             "discriminator": "9173",
-            "avatar": "https://cdn.discordapp.com/avatars/220946008404656128/5e5f7f60633d0f6a30d6343de15394ad.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/220946008404656128/0dcd684a74863adeb5e582c7239feb21.webp",
             "roles": ["forge", "moderator", "lts", "triage"]
         },
         "AshersLab": {
@@ -107,7 +107,7 @@
             "id": "171783421377511425",
             "username": "killjoy 💥🗡",
             "discriminator": "7628",
-            "avatar": "https://cdn.discordapp.com/avatars/171783421377511425/65d634252a3ea1cb0fbddc80b25becdf.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/171783421377511425/a8d5cbe73776c232917b1949e0fac113.webp"
         },
         "Noe": {
             "id": "358822645225095170",
@@ -133,7 +133,7 @@
             "id": "438021408883212290",
             "username": "Leon ;D",
             "discriminator": "5895",
-            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/4892c23db53af316510ce8bcbc842c16.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/a8e26ee05c59d2aa1609ae76aed7bd06.webp"
         },
         "FinnT730": {
             "id": "145199140048076800",
@@ -146,7 +146,7 @@
             "username": "Sydney",
             "discriminator": "0027",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/78996412281d9df37ba90607df03c7d4.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/980f0324a406ef2cf524dea088082cbe.webp",
             "roles": ["patreon"]
         },
         "OrionOnline": {
@@ -167,13 +167,13 @@
             "id": "311833206423027712",
             "username": "ByteLaw",
             "discriminator": "2463",
-            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/c5cd641f0e292d10e207670ccdb56313.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_a30a02d3f69dbacdea8277ce8a9dc5f4.gif"
         },
         "Rosolnatka": {
             "id": "471661725096345602",
-            "username": "Rosolnatka",
+            "username": "𝓶𝓮𝓵𝓽𝓮𝓭",
             "discriminator": "9813",
-            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/08f86efc5a09066ec4573ce1e3acb193.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/471661725096345602/d465eec0b847d9b066c32a3260e87650.webp"
         },
         "ravenbuilder934": {
             "id": "718189714200330321",
@@ -221,7 +221,7 @@
             "username": "RobotGryphon",
             "discriminator": "0001",
             "nickname": "Nano",
-            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/54f9a6d5a47a71a1295d2637e0747f7e.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/604e8720ee9364870fa763312fcf758f.webp"
         },
         "Moomallowz": {
             "id": "544195181939785740",
@@ -240,7 +240,7 @@
             "id": "143142144469762048",
             "username": "LatvianModder",
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/0ff9992557221a6f3d0780d493604988.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/6bf9ca5c6e5ea3d2e02a35c3ac0faa6b.webp",
             "roles": ["contributor"]
         },
         "dpeter99": {
@@ -267,7 +267,7 @@
             "id": "217760439465934848",
             "username": "Max",
             "discriminator": "0310",
-            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/f42e3f3987f77bc74d0ff7eb05ed0b81.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/b0948d663a9d7bb982e9b28b7cd684d2.webp"
         },
         "Lord_Samosa": {
             "id": "265228797970743296",
@@ -286,7 +286,7 @@
             "id": "292948689876418560",
             "username": "MehVahdJukaar",
             "discriminator": "6237",
-            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/095e36e306e928ecb5ed01a6bd2af94d.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/76f1b3509ac3cff973c0ecd5688416a7.webp"
         },
         "SizableShrimp": {
             "id": "277525077669445632",
@@ -305,18 +305,33 @@
         },
         "Klouver": {
             "id": "327191480508743683",
+            "username": "Klouver",
             "discriminator": "8679",
             "avatar": "https://cdn.discordapp.com/avatars/327191480508743683/74a4ce8442f8c4e4d8eb9b479fdd896c.webp"
         },
         "Quartz": {
             "id": "472454599324860416",
+            "username": "Quartz",
             "discriminator": "0046",
             "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/66bf6861df8edcd91bb96acb033b6aec.webp"
         },
         "AwesomeSyd239": {
             "id": "200822679018668032",
+            "username": "AwesomeSyd239",
             "discriminator": "6656",
             "avatar": "https://cdn.discordapp.com/avatars/200822679018668032/64a4ec2cab67ee12f673a18b9ce99b5a.webp"
+        },
+        "Sacreum": {
+            "id": "584927009759690753",
+            "username": "Sacreum",
+            "discriminator": "2733",
+            "avatar": "https://cdn.discordapp.com/avatars/584927009759690753/25623f6f5890f380f4041c280c60fb6a.webp"
+        },
+        "krit": {
+            "id": "805312666830372894",
+            "username": "krit",
+            "discriminator": "0443",
+            "avatar": "https://cdn.discordapp.com/avatars/805312666830372894/4df3824a4c2861397a659885907efb1c.webp"
         }
     },
     "roles": {
@@ -1422,7 +1437,7 @@
             "text": "but a stack of horse shit works for me"
         },
         {
-            "user": "Gigaherz",
+            "user": "gigaherz",
             "text": "went to open a mod dev and it started stanning the entire SSD"
         },
         {
@@ -1792,6 +1807,7 @@
             "user": "Amethyst",
             "text": "I have a mystical quarter"
         },
+        null,
         {
             "user": "Amethyst",
             "text": "Tasty sandwich make blob confused"
@@ -2031,7 +2047,7 @@
             "text": "Monkey porchopy meh moots!"
         },
         {
-            "user": "ChampionAsh",
+            "user": "ChampionAsh5357",
             "text": "Sometimes I feel like Raven is that autofill feature on a phone where you keep using those to select the next word in the sentence"
         },
         {
