@@ -126,14 +126,14 @@
             "id": "83553630271045632",
             "username": "Unnoen",
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/7295fb51920d66a096835f1cc1d8e3fb.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/a_597e87050d8fc43a910f0e487869b592.webp",
             "roles": ["triage"]
         },
-        "Leon ;D": {
+        "Leon!": {
             "id": "438021408883212290",
-            "username": "Leon ;D",
+            "username": "Leon!",
             "discriminator": "5895",
-            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/a8e26ee05c59d2aa1609ae76aed7bd06.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/2fdf6c9531c3dbe2de657912681f1765.webp"
         },
         "FinnT730": {
             "id": "145199140048076800",
@@ -146,7 +146,7 @@
             "username": "Sydney",
             "discriminator": "0027",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/980f0324a406ef2cf524dea088082cbe.webp",
+            "avatar": "https://cdn.discordapp.com/guilds/313125603924639766/users/163490961253466112/avatars/76f27118e851e457fee8369b59e799b6.webp",
             "roles": ["patreon"]
         },
         "OrionOnline": {
@@ -157,17 +157,18 @@
             "avatar": "https://cdn.discordapp.com/avatars/304594425286361088/36efdb744c6c4a735b767c55f8269f40.webp",
             "roles": ["triage", "patreon"]
         },
-        "wild tan()": {
-            "id": "510415959480336393",
-            "username": "wild tan()",
-            "discriminator": "8651",
-            "avatar": "https://cdn.discordapp.com/avatars/510415959480336393/9bb5ae35f8f7707444d44ef1b23c0b27.webp"
+        "Wildcard": {
+            "id": "335503995949023243",
+            "username": "Wildcard",
+            "discriminator": "4401",
+            "nickname": "Wild [Buddycards]",
+            "avatar": "https://cdn.discordapp.com/avatars/335503995949023243/88c43b15f06de4106b2990a8db22c5fa.webp"
         },
         "ByteLaw": {
             "id": "311833206423027712",
             "username": "ByteLaw",
             "discriminator": "2463",
-            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_a30a02d3f69dbacdea8277ce8a9dc5f4.gif"
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_5e605db73de1805f1f22ca00f68758f8.webp"
         },
         "Rosolnatka": {
             "id": "471661725096345602",
@@ -240,7 +241,7 @@
             "id": "143142144469762048",
             "username": "LatvianModder",
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/6bf9ca5c6e5ea3d2e02a35c3ac0faa6b.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/028941d99332e5cef721dc8b749b22fb.webp",
             "roles": ["contributor"]
         },
         "dpeter99": {
@@ -267,7 +268,7 @@
             "id": "217760439465934848",
             "username": "Max",
             "discriminator": "0310",
-            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/b0948d663a9d7bb982e9b28b7cd684d2.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/a_748cef29b600fd1af73d372c4c4c2b12.webp"
         },
         "Lord_Samosa": {
             "id": "265228797970743296",
@@ -286,7 +287,7 @@
             "id": "292948689876418560",
             "username": "MehVahdJukaar",
             "discriminator": "6237",
-            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/76f1b3509ac3cff973c0ecd5688416a7.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/7a81236f0f6d5b2e6305e337f402bc21.webp"
         },
         "SizableShrimp": {
             "id": "277525077669445632",
@@ -307,13 +308,13 @@
             "id": "327191480508743683",
             "username": "Klouver",
             "discriminator": "8679",
-            "avatar": "https://cdn.discordapp.com/avatars/327191480508743683/74a4ce8442f8c4e4d8eb9b479fdd896c.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/327191480508743683/4ff1d8c7cb738c14d07c127f6bb08d7e.webp"
         },
         "Quartz": {
             "id": "472454599324860416",
             "username": "Quartz",
             "discriminator": "0046",
-            "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/66bf6861df8edcd91bb96acb033b6aec.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/61b67c7c938dabe958e01854de1eaf5c.webp"
         },
         "AwesomeSyd239": {
             "id": "200822679018668032",
@@ -325,13 +326,37 @@
             "id": "584927009759690753",
             "username": "Sacreum",
             "discriminator": "2733",
-            "avatar": "https://cdn.discordapp.com/avatars/584927009759690753/25623f6f5890f380f4041c280c60fb6a.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/584927009759690753/9b643104b0b3c95c30b2837bc74785e3.webp"
         },
         "krit": {
             "id": "805312666830372894",
             "username": "krit",
             "discriminator": "0443",
             "avatar": "https://cdn.discordapp.com/avatars/805312666830372894/4df3824a4c2861397a659885907efb1c.webp"
+        },
+        "Budschie": {
+            "id": "684441347238789121",
+            "username": "Budschie",
+            "discriminator": "5993",
+            "avatar": "https://cdn.discordapp.com/avatars/684441347238789121/9f4d1828d2ddf58562e7a468207923f4.webp"
+        },
+        "PlatinPython": {
+            "id": "225219846663700480",
+            "username": "PlatinPython",
+            "discriminator": "0815",
+            "avatar": "https://cdn.discordapp.com/avatars/225219846663700480/83eeeff65c606ef158b33de5f8f8b831.webp"
+        },
+        "Technici4n": {
+            "id": "298082405745426433",
+            "username": "Technici4n",
+            "discriminator": "2139",
+            "avatar": "https://cdn.discordapp.com/avatars/298082405745426433/bd82067f0b84baf0b7829c1a11a8c517.webp"
+        },
+        "Eti": {
+            "id": "114163433980559366",
+            "username": "Eti",
+            "discriminator": "1760",
+            "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/a_1d2fd4031d727aee59eff11ca1b088ad.webp"
         }
     },
     "roles": {
@@ -644,7 +669,7 @@
             "text": "you don't fucking have my desk"
         },
         {
-            "user": "Leon ;D",
+            "user": "Leon!",
             "text": "this isnt desk support 115"
         },
         {
@@ -774,7 +799,7 @@
             "text": "i almost thought you had three clients open, panicked when I saw the username [...]"
         },
         {
-            "user": "wild tan()",
+            "user": "Wildcard",
             "text": "killing baby villagers <p>it makes sense, but it's also easily farmable</p>"
         },
         {
@@ -782,7 +807,7 @@
             "text": "being tortured to death: the FULL middle school experience"
         },
         {
-            "user": "wild tan()",
+            "user": "Wildcard",
             "text": "also the children aren't giving me their cards"
         },
         {
@@ -2096,6 +2121,452 @@
         {
             "user": "Sacreum",
             "text": "Curle that's animal abuse."
+        },
+        {
+            "user": "Lex",
+            "text": "the CUM should be on gist"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Curke</strong>",
+            "text": "My sword is just a brick"
+        },
+        {
+            "user": "Amethyst",
+            "text": "The big succ room"
+        },
+        {
+            "user": "Amethyst",
+            "text": "giga is dreamy confirmed"
+        },
+        {
+            "user": "AshersLab",
+            "text": "I really hate go's stupid penis syntax"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Go straight to jail. Do not pass Lmao, Do not collect $200."
+        },
+        {
+            "user": "FinnT730",
+            "text": "I AM FREE!! now it is time to free Curle from her curse"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "to <strong style=\"font-size: 115%\">sciwhiz12</strong>",
+            "text": "don't thocc me, bitch"
+        },
+        {
+            "user": "illy",
+            "text": "most programming is halfcrap you're fine"
+        },
+        {
+            "user": "Klouver",
+            "text": "It has jelly, fruit and piece of bacon in it. I also added cooked rat."
+        },
+        {
+            "user": "dpeter99",
+            "text": "i usualy go from naked to flying..."
+        },
+        {
+            "user": "Amethyst",
+            "text": "<code>npm i -D electron@latest</code> Lord forgive me for I have sinned"
+        },
+        {
+            "user": "Klouver",
+            "text": "It has jelly, fruit and piece of bacon in it. I also added cooked rat."
+        },
+        null,
+        {
+            "user": "gigaherz",
+            "text": "I TWERKS!"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "I have a laptop but it's super heavy and is busy being a desktop"
+        },
+        {
+            "user": "Quartz",
+            "text": "Have you seen my whale cum"
+        },
+        {
+            "user": "Lex",
+            "text": "you know what's terrifying? waking up because you hear footsteps that sound like they are coming dow the hall.and then a door opening sound....and them a \"hurm.. hum...\"... turns out my computer decided to reset my audio to my speakers, and a wandering trader spawned in my sky block I was letting idle overnight...."
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "HOORAY FOR JESUS"
+        },
+        {
+            "user": "Amethyst",
+            "text": "if the jesus nut busts, you're a brick falling to the ground"
+        },
+        {
+            "user": "Quartz",
+            "side_text": "aka <strong style=\"font-size: 115%\">The Fun Police</strong>",
+            "text": "I am the fun police now aaaa"
+        },
+        null,
+        {
+            "user": "Amethyst",
+            "text": "the moon is a liberal myth"
+        },
+        {
+            "user": "Amethyst",
+            "text": "dinner is a state of mind"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "Curle is the master of everything!"
+        },
+        {
+            "user": "diesieben07",
+            "text": "I am secretly almost 12"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "whilst her keyboard was having a stroke",
+            "text": "then nt onribut t it ffs"
+        },
+        {
+            "user": "Quartz",
+            "text": "I don't want to deal with minecolonies"
+        },
+        {
+            "user": "FinnT730",
+            "text": "so why is it that my left ball hurts?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i'm not surprised but that's surprising"
+        },
+        {
+            "user": "Paint_Ninja",
+            "text": "tfw you support so many MC versions that your badge becomes a lightsaber"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "to <strong style=\"font-size: 115%\">Curle</strong>",
+            "text": "You're fisting your keyboard? Concerning"
+        },
+        {
+            "user": "diesieben07",
+            "text": "I'm a pretty princess!"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "1) I'd be surprised if curle didn't have a screwdriver finger by now"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "because of all the screwing she does"
+        },
+        {
+            "user": "ravenbuilder934",
+            "side_text": "looking at <strong style=\"font-size: 115%\">Paint_Ninja</strong>'s lightsaber",
+            "text": "such a long lightsaber!"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "new idea: trump index for measuring dickiness"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "Jingle my canary, Poindexter!"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "that is a <i>misshapen anthropomorphic pumpkin</i>"
+        },
+        {
+            "user": "dpeter99",
+            "text": "i just finished watching it and no fap anouncement"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "contr ass. the bane of all existence"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "someone get me to cook islands. they have cooks AND cocks"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "but you must do more than flip the ds to get tiddies"
+        },
+        {
+            "user": "Amethyst",
+            "text": "haha its a masturbation joke [...] i am the big funny"
+        },
+        {
+            "user": "Lord_Samosa",
+            "side_text": "in reference to pronouncing <strong style=\"font-size: 115%\">tterrag</strong>",
+            "text": "tiddyrag"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i choked on my own tits?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "imagine having two baked hogs tied to your chest all day"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "in reference to <a href=\"https://www.cipsum.com\">cipsum</a>",
+            "text": "why is that sip cum but the first letters are reversed"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "You want a public orgy?"
+        },
+        {
+            "user": "FinnT730",
+            "side_text": "in response to... nothing?",
+            "text": "Cumtastic"
+        },
+        {
+            "user": "FinnT730",
+            "text": "grabbing it with hands makes a bigger mess than using a pocket knive and eating from that lol"
+        },
+        {
+            "user": "Budschie",
+            "text": "Oh a meta quote"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "what the fuck don't fry me"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "oh expandong"
+        },
+        {
+            "user": "Budschie",
+            "text": "I have the feeling that these quotes are destroying our brains. I can feel it melt currently. Like cheese. MMmmm cheese"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "And I need to relearn my shit modelling skills to make boobies"
+        },
+        {
+            "user": "Amethyst",
+            "text": "can a black hole cuck?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "did you go help your uncle Jack off a horse?"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "Rock bottom has free jackhammers"
+        },
+        {
+            "user": "diesieben07",
+            "text": "there is r and f, that's 50"
+        },
+        {
+            "user": "Amethyst",
+            "text": "he looks like he enjoys it [...] don't shame"
+        },
+        {
+            "user": "Amethyst",
+            "text": "better fetch some OJ, the scoping rules have gone down the shitter"
+        },
+        {
+            "user": "FinnT730",
+            "text": "I fucked it deeeeep"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I'm basically sci's sugar mommy at this point"
+        },
+        {
+            "user": "Lex",
+            "text": "Honestly whoever implemented the Module system in Java is a physco."
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "how the hell do flies fall"
+        },
+        {
+            "user": "PlatinPython",
+            "text": "attack of elongated watermelons"
+        },
+        {
+            "__comment": "TODO: Ask Curle about this (back channels?)",
+            "user": "Anonymous",
+            "text": "damnit man i have a raging patchy, i'm just raring to go"
+        },
+        {
+            "user": "covers1624",
+            "text": "you don't wanna piss a missile off, ya know? it'll come back and remember ya."
+        },
+        {
+            "user": "covers1624",
+            "text": " are mojang mentally deficient?"
+        },
+        {
+            "user": "covers1624",
+            "text": " okay, that <code>double</code> can be <code>null</code>"
+        },
+        {
+            "user": "Amethyst",
+            "text": "nothing like a good murder-suicide to relax after a long day patching"
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "I just have to ... blolololollloooloo"
+        },
+        {
+            "user": "illy",
+            "text": " I got quoted last time I talked about my cat patching"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "smh Curle has caused 2 bugs"
+        },
+        {
+            "user": "covers1624",
+            "text": "I should update my ATs, but I can not be fucked."
+        },
+        {
+            "user": "Amethyst",
+            "text": "don't choke the chicken on this good christian voice chat"
+        },
+        {
+            "user": "Amethyst",
+            "text": "God damnit woman, suck harder than you've ever sucked in your life!"
+        },
+        {
+            "user": "PlatinPython",
+            "text": "That either shows that there are many things, that can be quoted or that people are just quoting what ever they want"
+        },
+        {
+            "user": "fry",
+            "text": "print statements and breakpoints are complimentary; prints are fixed in space and let you explore state changes through time; breakpoints freeze time and let you explore state with fixed time"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "im tempted to take Shroom [...]"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "FML and the Big Pee "
+        },
+        {
+            "user": "Amethyst",
+            "text": "shrimp popped his moderating cherry"
+        },
+        {
+            "user": "Technici4n",
+            "text": "ftb try catch pyramid"
+        },
+        {
+            "user": "Amethyst",
+            "text": "N"
+        },
+        {
+            "user": "Silk",
+            "text": "That groups the <code>T</code>s from the <code>F</code>s into <code>P</code>s"
+        },
+        {
+            "user": "Eti",
+            "text": "Why isnt it expanding!"
+        },
+        {
+            "user": "Lex",
+            "text": "canadad"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "cpw and lex are forge daddy and forge mommy"
+        },
+        {
+            "user": "Lex",
+            "text": "im the abusive drunk uncle"
+        },
+        {
+            "user": "Silk",
+            "text": "[where does time go?] It flies away on the fluttery wings of a butterfly of time while a melody plays in the background "
+        },
+        {
+            "user": "FinnT730",
+            "text": "so I guess it will hammer me"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "get fucked ashers"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Get bottled, shrimp"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "There, that's a good way to shut him up...he won't be quoting me today >:D "
+        },
+        {
+            "user": "dpeter99",
+            "text": "i blam java"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "to <strong style=\"font-size: 115%\">AshersLab</strong>",
+            "text": "you suck my question"
+        },
+        {
+            "user": "Amethyst",
+            "text": "king of Disabled Badgers only"
+        },
+        {
+            "user": "AshersLab",
+            "text": "touch yourself after after ingesting hard drugs"
+        },
+        {
+            "user": "Amethyst",
+            "text": "This <i>is</i> Minecraft studd5"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "[...] I'm like a giant death machine"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Dammit I kissed it haha"
+        },
+        {
+            "user": "illy",
+            "text": "Imma cut a bitch"
+        },
+        {
+            "__comment": "TODO: Figure out word wrapping",
+            "user": "ravenbuilder934",
+            "text": "<i>takes breath</i><br>AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH<br>HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH<br>HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+        },
+        {
+            "user": "Amethyst",
+            "text": "It's The!"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Don't quote me on that tough"
+        },
+        {
+            "user": "AwesomeSyd239",
+            "text": "I just want to be a spider. why is it so hard?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Why are you masturbating the bubonic plague, finn"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Anywyax for rewl, Bac to wrok"
+        },
+        {
+            "user": "Citrine",
+            "text": "the time has cum?"
         }
     ]
 }
