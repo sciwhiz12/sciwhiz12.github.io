@@ -357,6 +357,13 @@
             "username": "Eti",
             "discriminator": "1760",
             "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/a_1d2fd4031d727aee59eff11ca1b088ad.webp"
+        },
+        "senox13": {
+            "id": "235958923205541888",
+            "username": "senox13",
+            "discriminator": "8134",
+            "avatar": "https://cdn.discordapp.com/avatars/235958923205541888/b82fcbb55a3df174a531f6c4902c51db.webp",
+            "roles": ["superhelper"]
         }
     },
     "roles": {
@@ -2566,6 +2573,31 @@
         {
             "user": "Citrine",
             "text": "the time has cum?"
+        },
+        {
+            "user": "FinnT730",
+            "side_text": "quoted by <strong style=\"font-size: 115%\">Raven</strong> as she fucks up a quote",
+            "text": "Illy fucked up the quote"
+        },
+        {
+            "user": "senox13",
+            "text": "What you're doing is the equivalent of trying to learn how to swim while insisting on wearing concrete shoes"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "cue ashers with <i>'truen't'</i>"
+        },
+        {
+            "user": "illy",
+            "text": "woo finally a sub to cpw"
+        },
+        {
+            "user": "cpw",
+            "text": "because fuck it, why not"
+        },
+        {
+            "user": "cpw",
+            "text": "I like coremods! And I think they're really neat!"
         }
     ]
 }
