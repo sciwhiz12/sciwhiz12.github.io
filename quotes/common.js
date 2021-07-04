@@ -26,12 +26,12 @@ function createPopup(userkey, roles, userdata) {
         // If there is a nickname, have that in bold
         const bold = popupHead.appendChild(document.createElement("div"))
         bold.className = "popup_bold"
-        bold.innerText = userdata.nickname
+        bold.innerHTML = userdata.nickname
 
         // And the discriminator as smaller text
         const smaller = popupHead.appendChild(document.createElement("span"))
         smaller.className = "popup_smaller"
-        smaller.innerText = userdata.username + discriminator
+        smaller.innerHTML = userdata.username + discriminator
 
         // Append the tag to the userinfo, if any
         if (tagSpan) {
@@ -44,7 +44,7 @@ function createPopup(userkey, roles, userdata) {
         // Have the username in bold
         const bold = div.appendChild(document.createElement("span"))
         bold.className = "popup_bold"
-        bold.innerText = userdata.username
+        bold.innerHTML = userdata.username
 
         // And the discriminator as regular text
         div.appendChild(document.createTextNode(discriminator))
