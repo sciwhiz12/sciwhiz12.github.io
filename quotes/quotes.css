@@ -79,6 +79,10 @@ body {
     font-weight: normal;
 }
 
+.quote .content .break-all {
+    word-break: break-all;
+}
+
 .quote .name {
     font-size: 1rem;
     font-weight: 600;

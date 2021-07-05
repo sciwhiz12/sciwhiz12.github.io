@@ -102,7 +102,7 @@ function createQuote(data, roles, number, quote) {
     nameDiv.tabIndex = 1
 
     const userSpan = nameDiv.appendChild(document.createElement("span"))
-    userSpan.innerText = userdata ? (userdata.hasOwnProperty("nickname") ? userdata.nickname : userdata.username) : user
+    userSpan.innerHTML = userdata ? (userdata.hasOwnProperty("nickname") ? userdata.nickname : userdata.username) : user
     if (userdata) {
         const userRoles = userdata.roles
         if (userRoles && userRoles.length > 0) {

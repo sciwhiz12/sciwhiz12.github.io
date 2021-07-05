@@ -19,7 +19,7 @@
             "username": "fry",
             "discriminator": "1522",
             "avatar": "https://cdn.discordapp.com/avatars/104559614472765440/f13d4999012e583e1353aac80c2e7c17.webp",
-            "roles": ["collaborator", "problem"]
+            "roles": ["triage", "collaborator", "problem"]
         },
         "illy": {
             "id": "113392954206347264",
@@ -27,7 +27,7 @@
             "discriminator": "8209",
             "nickname": "/bee/illy",
             "avatar": "https://cdn.discordapp.com/avatars/113392954206347264/f819f0f0722d2fe9d1d4a2abe7a60694.webp",
-            "roles": ["moderator", "collaborator", "triage", "patreon"]
+            "roles": ["moderator", "triage", "collaborator", "patreon"]
         },
         "diesieben07": {
             "id": "328214370964340746",
@@ -50,7 +50,7 @@
             "discriminator": "6998",
             "nickname": "Curle",
             "avatar": "https://cdn.discordapp.com/avatars/462617385157787648/6548d9da1c1cdd266c96f001ec2950a4.webp",
-            "roles": ["triage", "superhelper", "nitro", "tainted", "fun", "retrogradle"]
+            "roles": ["triage", "superhelper", "docs_triage", "retrogradle", "nitro", "tainted", "fun"]
         },
         "cpw": {
             "id": "104313475756466176",
@@ -99,9 +99,9 @@
             "id": "607058472709652501",
             "username": "sciwhiz12",
             "discriminator": "1286",
-            "nickname": "sciwhiz12",
+            "nickname": "lemongradle <img class=\"emote\" src=\"https://discord.com/assets/5aa65ce7d8af354c6840c01006f26ef7.svg\" alt=\":lemon:\"/>",
             "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/82c6980d70f548a75bce0ff8eb7d0caa.webp",
-            "roles": ["docs_triage", "retrogradle", "superhelper", "nitro"]
+            "roles": ["superhelper", "docs_triage", "retrogradle"]
         },
         "killjoy 💥🗡": {
             "id": "171783421377511425",
@@ -119,55 +119,58 @@
             "id": "490226168335695873",
             "username": "Silk",
             "discriminator": "6031",
-            "nickname": "Silk / Memento Mori",
+            "nickname": "Silk / The B&W One",
             "avatar": "https://cdn.discordapp.com/avatars/490226168335695873/28fd7381797d33aedbfcbbc1162f4267.webp"
         },
         "Unnoen": {
             "id": "83553630271045632",
             "username": "Unnoen",
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/7295fb51920d66a096835f1cc1d8e3fb.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/a_597e87050d8fc43a910f0e487869b592.webp",
             "roles": ["triage"]
         },
-        "Leon ;D": {
+        "Leon!": {
             "id": "438021408883212290",
-            "username": "Leon ;D",
+            "username": "Leon!",
             "discriminator": "5895",
-            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/a8e26ee05c59d2aa1609ae76aed7bd06.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/438021408883212290/2fdf6c9531c3dbe2de657912681f1765.webp"
         },
         "FinnT730": {
             "id": "145199140048076800",
             "username": "FinnT730",
-            "discriminator": "9064",
-            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/0a178b5f0e93ef5c850f63223e8ce59a.webp"
+            "discriminator": "3281",
+            "nickname": "FinnT730 [Җ]",
+            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/0a178b5f0e93ef5c850f63223e8ce59a.webp",
+            "roles": ["nitro"]
         },
         "Sydney": {
             "id": "163490961253466112",
             "username": "Sydney",
             "discriminator": "0027",
             "nickname": "Shroom Agent",
-            "avatar": "https://cdn.discordapp.com/avatars/163490961253466112/980f0324a406ef2cf524dea088082cbe.webp",
+            "avatar": "https://cdn.discordapp.com/guilds/313125603924639766/users/163490961253466112/avatars/76f27118e851e457fee8369b59e799b6.webp",
             "roles": ["patreon"]
         },
         "OrionOnline": {
             "id": "304594425286361088",
             "username": "OrionOnline",
-            "discriminator": "1864",
+            "discriminator": "2518",
             "nickname": "OrionOnline [MineColonies]",
             "avatar": "https://cdn.discordapp.com/avatars/304594425286361088/36efdb744c6c4a735b767c55f8269f40.webp",
             "roles": ["triage", "patreon"]
         },
-        "wild tan()": {
-            "id": "510415959480336393",
-            "username": "wild tan()",
-            "discriminator": "8651",
-            "avatar": "https://cdn.discordapp.com/avatars/510415959480336393/9bb5ae35f8f7707444d44ef1b23c0b27.webp"
+        "Wildcard": {
+            "id": "335503995949023243",
+            "username": "Wildcard",
+            "discriminator": "4401",
+            "nickname": "Wild [Buddycards]",
+            "avatar": "https://cdn.discordapp.com/avatars/335503995949023243/88c43b15f06de4106b2990a8db22c5fa.webp"
         },
         "ByteLaw": {
             "id": "311833206423027712",
             "username": "ByteLaw",
-            "discriminator": "2463",
-            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_a30a02d3f69dbacdea8277ce8a9dc5f4.gif"
+            "discriminator": "6969",
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_5e605db73de1805f1f22ca00f68758f8.webp"
         },
         "Rosolnatka": {
             "id": "471661725096345602",
@@ -178,8 +181,8 @@
         "ravenbuilder934": {
             "id": "718189714200330321",
             "username": "ravenbuilder934",
-            "discriminator": "1337",
-            "nickname": "Raven",
+            "discriminator": "2021",
+            "nickname": "Raven's Lab",
             "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/d92b907a2806b3b16f8c3533278018ea.webp"
         },
         "pupnewfster": {
@@ -207,7 +210,7 @@
             "username": "JoJoModding",
             "discriminator": "5625",
             "avatar": "https://cdn.discordapp.com/avatars/224497169145528320/f2f453732f79b61f55256a627297a4a7.webp",
-            "roles": ["contributor"]
+            "roles": ["contributor", "usd10", "patreon"]
         },
         "ChampionAsh5357": {
             "id": "207184927236554752",
@@ -220,14 +223,14 @@
             "id": "202247953321033729",
             "username": "RobotGryphon",
             "discriminator": "0001",
-            "nickname": "Nano",
-            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/604e8720ee9364870fa763312fcf758f.webp"
+            "nickname": "Nano <img class=\"emote\" src=\"https://discord.com/assets/a85469a7ea891a12e2513f4281d51f78.svg\" alt=\":mute:\"/>",
+            "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/604e8720ee9364870fa763312fcf758f.webp",
+            "roles": ["nitro"]
         },
         "Moomallowz": {
             "id": "544195181939785740",
             "username": "Moomallowz",
             "discriminator": "6036",
-            "nickname": "Moomallowz (little dunce man)",
             "avatar": "https://cdn.discordapp.com/avatars/544195181939785740/74a6af812ea189f26d848a70fed463db.webp"
         },
         "Skiddles": {
@@ -240,21 +243,22 @@
             "id": "143142144469762048",
             "username": "LatvianModder",
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/6bf9ca5c6e5ea3d2e02a35c3ac0faa6b.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/143142144469762048/028941d99332e5cef721dc8b749b22fb.webp",
             "roles": ["contributor"]
         },
         "dpeter99": {
             "id": "132855438835318784",
             "username": "dpeter99",
             "discriminator": "0001",
+            "nickname": "dpeter99 kernel bug finder [<img class=\"emote\" src=\"https://discord.com/assets/6201ff6add4821014e02cfc1bc82fc95.svg\" alt=\":bell:\"/>]",
             "avatar": "https://cdn.discordapp.com/avatars/132855438835318784/698015e294cb77eb3219e8932b0a66a9.webp",
             "roles": ["patreon"]
         },
         "CJDaBomb": {
             "id": "777227436429017118",
             "username": "CJDaBomb",
-            "discriminator": "0069",
-            "nickname": "Slurpee™️",
+            "discriminator": "1594",
+            "nickname": "Slurpee™️ [Canadian]",
             "avatar": "https://cdn.discordapp.com/avatars/777227436429017118/685b9d16041f82c53bd8d9d6c5ef24ab.webp"
         },
         "Citrine": {
@@ -265,20 +269,23 @@
         },
         "Max Hyper": {
             "id": "217760439465934848",
-            "username": "Max",
+            "username": "Max Hyper",
             "discriminator": "0310",
-            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/b0948d663a9d7bb982e9b28b7cd684d2.webp"
+            "nickname": "Max Hyper (Dynamic Trees)",
+            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/a_748cef29b600fd1af73d372c4c4c2b12.webp"
         },
         "Lord_Samosa": {
             "id": "265228797970743296",
             "username": "Lord_Samosa",
             "discriminator": "6666",
+            "nickname": "Lord_Samosa (no ping pls)",
             "avatar": "https://cdn.discordapp.com/avatars/265228797970743296/a_79aa7b49bffa44e1dc472924c3895470.gif"
         },
         "Paint_Ninja": {
             "id": "96936166682554368",
             "username": "Paint_Ninja",
             "discriminator": "6054",
+            "nickname": "Paint_Ninja <img class=\"emote\" src=\"https://discord.com/assets/6201ff6add4821014e02cfc1bc82fc95.svg\" alt=\":bell:\"/>",
             "avatar": "https://cdn.discordapp.com/avatars/96936166682554368/f4ff0938b41b5ae6a125738f61a85a8b.webp",
             "roles": ["nitro"]
         },
@@ -286,7 +293,7 @@
             "id": "292948689876418560",
             "username": "MehVahdJukaar",
             "discriminator": "6237",
-            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/76f1b3509ac3cff973c0ecd5688416a7.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/292948689876418560/7a81236f0f6d5b2e6305e337f402bc21.webp"
         },
         "SizableShrimp": {
             "id": "277525077669445632",
@@ -294,44 +301,81 @@
             "discriminator": "0755",
             "nickname": "SizableShrimp [pingmepls]",
             "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/adfff23286d1004a87196e368d94afc4.webp",
-            "roles": ["retrogradle"]
+            "roles": ["triage", "retrogradle"]
         },
         "AterAnimAvis": {
             "id": "581411867575189504",
             "username": "AterAnimAvis",
             "discriminator": "4372",
             "avatar": "https://cdn.discordapp.com/avatars/581411867575189504/4ebe51384c5e01225aa6d31f50e66f56.webp",
-            "roles": ["nitro", "retrogradle"]
+            "roles": ["retrogradle", "nitro"]
         },
         "Klouver": {
             "id": "327191480508743683",
             "username": "Klouver",
             "discriminator": "8679",
-            "avatar": "https://cdn.discordapp.com/avatars/327191480508743683/74a4ce8442f8c4e4d8eb9b479fdd896c.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/327191480508743683/4ff1d8c7cb738c14d07c127f6bb08d7e.webp"
         },
         "Quartz": {
             "id": "472454599324860416",
             "username": "Quartz",
             "discriminator": "0046",
-            "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/66bf6861df8edcd91bb96acb033b6aec.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/61b67c7c938dabe958e01854de1eaf5c.webp"
         },
         "AwesomeSyd239": {
             "id": "200822679018668032",
             "username": "AwesomeSyd239",
             "discriminator": "6656",
+            "nickname": "AwesomeSyd239(ping ok)",
             "avatar": "https://cdn.discordapp.com/avatars/200822679018668032/64a4ec2cab67ee12f673a18b9ce99b5a.webp"
         },
         "Sacreum": {
             "id": "584927009759690753",
             "username": "Sacreum",
             "discriminator": "2733",
-            "avatar": "https://cdn.discordapp.com/avatars/584927009759690753/25623f6f5890f380f4041c280c60fb6a.webp"
+            "nickname": "Sacreum (Pings Allowed)",
+            "avatar": "https://cdn.discordapp.com/avatars/584927009759690753/9b643104b0b3c95c30b2837bc74785e3.webp"
         },
         "krit": {
             "id": "805312666830372894",
             "username": "krit",
-            "discriminator": "0443",
+            "discriminator": "8288",
             "avatar": "https://cdn.discordapp.com/avatars/805312666830372894/4df3824a4c2861397a659885907efb1c.webp"
+        },
+        "Budschie": {
+            "id": "684441347238789121",
+            "username": "Budschie",
+            "discriminator": "5993",
+            "nickname": "Budschie (ping allowed)",
+            "avatar": "https://cdn.discordapp.com/avatars/684441347238789121/9f4d1828d2ddf58562e7a468207923f4.webp"
+        },
+        "PlatinPython": {
+            "id": "225219846663700480",
+            "username": "PlatinPython",
+            "discriminator": "0815",
+            "avatar": "https://cdn.discordapp.com/avatars/225219846663700480/83eeeff65c606ef158b33de5f8f8b831.webp"
+        },
+        "Technici4n": {
+            "id": "298082405745426433",
+            "username": "Technici4n",
+            "discriminator": "2139",
+            "avatar": "https://cdn.discordapp.com/avatars/298082405745426433/bd82067f0b84baf0b7829c1a11a8c517.webp"
+        },
+        "Eti": {
+            "id": "114163433980559366",
+            "username": "Eti",
+            "discriminator": "1760",
+            "nickname": "Eti (Ping+DM OK)",
+            "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/a_1d2fd4031d727aee59eff11ca1b088ad.webp",
+            "roles": ["usd25", "patreon"]
+        },
+        "senox13": {
+            "id": "235958923205541888",
+            "username": "senox13",
+            "discriminator": "8134",
+            "nickname": "senox13 [Ping if you want]",
+            "avatar": "https://cdn.discordapp.com/avatars/235958923205541888/b82fcbb55a3df174a531f6c4902c51db.webp",
+            "roles": ["superhelper"]
         }
     },
     "roles": {
@@ -385,6 +429,10 @@
         "usd10": {
             "color": "#ff5722",
             "name": "$10"
+        },
+        "usd25": {
+            "color": "#f4511e",
+            "name": "$25"
         },
         "nitro": {
             "name": "Nitro Booster"
@@ -454,7 +502,7 @@
         },
         {
             "user": "Amethyst",
-            "text": "if you have to ask, the answer is no. i'm almost never serious <img class=\"emote\" src=\"https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg\" alt=\":slight_smile:\">"
+            "text": "if you have to ask, the answer is no. i'm almost never serious <img class=\"emote\" src=\"https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg\" alt=\":slight_smile:\"/>"
         },
         {
             "user": "illy",
@@ -613,7 +661,7 @@
         },
         {
             "user": "Amethyst",
-            "text": "The big D <img class=\"emote\" src=\"https://discord.com/assets/4c5a77a89716352686f590a6f014770c.svg\" alt=\":eyes:\">"
+            "text": "The big D <img class=\"emote\" src=\"https://discord.com/assets/4c5a77a89716352686f590a6f014770c.svg\" alt=\":eyes:\"/>"
         },
         {
             "user": "Silk",
@@ -644,7 +692,7 @@
             "text": "you don't fucking have my desk"
         },
         {
-            "user": "Leon ;D",
+            "user": "Leon!",
             "text": "this isnt desk support 115"
         },
         {
@@ -774,7 +822,7 @@
             "text": "i almost thought you had three clients open, panicked when I saw the username [...]"
         },
         {
-            "user": "wild tan()",
+            "user": "Wildcard",
             "text": "killing baby villagers <p>it makes sense, but it's also easily farmable</p>"
         },
         {
@@ -782,7 +830,7 @@
             "text": "being tortured to death: the FULL middle school experience"
         },
         {
-            "user": "wild tan()",
+            "user": "Wildcard",
             "text": "also the children aren't giving me their cards"
         },
         {
@@ -1216,7 +1264,7 @@
         },
         {
             "user": "Amethyst",
-            "text": "i'll <img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/756182707255377971.gif?v=1\" alt=\":banbolbmasfast:\"> you if you don't march over to <mention>#bot-commands</mention> and make a quote right now <img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/799280057616433164.gif?v=1\" alt=\":stabby:\">"
+            "text": "i'll <img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/756182707255377971.gif?v=1\" alt=\":banbolbmasfast:\"/> you if you don't march over to <mention>#bot-commands</mention> and make a quote right now <img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/799280057616433164.gif?v=1\" alt=\":stabby:\"/>"
         },
         {
             "user": "AshersLab",
@@ -1312,7 +1360,7 @@
         },
         {
             "user": "Lord_Samosa",
-            "text": "<img class=\"emote\" src=\"https://discord.com/assets/032d907ff49a63e0757cadd5f36ab216.svg\" alt=\":point_right:\"> <img class=\"emote\" src=\"https://discord.com/assets/464b4c2745e1dda6a86028d09bb8bbec.svg\" alt=\":ok_hand:\"> this means 'are you ok', right guys?"
+            "text": "<img class=\"emote\" src=\"https://discord.com/assets/032d907ff49a63e0757cadd5f36ab216.svg\" alt=\":point_right:\"/> <img class=\"emote\" src=\"https://discord.com/assets/464b4c2745e1dda6a86028d09bb8bbec.svg\" alt=\":ok_hand:\"/> this means 'are you ok', right guys?"
         },
         {
             "user": "Amethyst",
@@ -1604,7 +1652,7 @@
         },
         {
             "user": "Simon [Lanse505]",
-            "text": "As hard as me <img class=\"emote\" src=\"https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg\" alt=\":thinking:\"> ?"
+            "text": "As hard as me <img class=\"emote\" src=\"https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg\" alt=\":thinking:\"/> ?"
         },
         {
             "user": "Anonymous",
@@ -1834,7 +1882,7 @@
         },
         {
             "user": "Klouver",
-            "text": "<img class=\"emote\" src=\"https://discord.com/assets/753af848c32c8c27590c18f45292a12d.svg\" alt=\":knife_and_fork:\"><img class=\"emote\" src=\"https://discord.com/assets/753af848c32c8c27590c18f45292a12d.svg\" alt=\":knife_and_fork:\"><img class=\"emote\" src=\"https://discord.com/assets/753af848c32c8c27590c18f45292a12d.svg\" alt=\":knife_and_fork:\"> lunch"
+            "text": "<img class=\"emote\" src=\"https://discord.com/assets/753af848c32c8c27590c18f45292a12d.svg\" alt=\":knife_and_fork:\"/><img class=\"emote\" src=\"https://discord.com/assets/753af848c32c8c27590c18f45292a12d.svg\" alt=\":knife_and_fork:\"/><img class=\"emote\" src=\"https://discord.com/assets/753af848c32c8c27590c18f45292a12d.svg\" alt=\":knife_and_fork:\"/> lunch"
         },
         {
             "user": "Klouver",
@@ -1866,7 +1914,7 @@
         },
         {
             "user": "McJty",
-            "text": "who is a cow? <img class=\"emote\" src=\"https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg\" alt=\":slight_smile:\">"
+            "text": "who is a cow? <img class=\"emote\" src=\"https://discord.com/assets/da3651e59d6006dfa5fa07ec3102d1f3.svg\" alt=\":slight_smile:\"/>"
         },
         {
             "user": "FinnT730",
@@ -2096,6 +2144,487 @@
         {
             "user": "Sacreum",
             "text": "Curle that's animal abuse."
+        },
+        {
+            "user": "Lex",
+            "text": "the CUM should be on gist"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Curke</strong>",
+            "text": "My sword is just a brick"
+        },
+        {
+            "user": "Amethyst",
+            "text": "The big succ room"
+        },
+        {
+            "user": "Amethyst",
+            "text": "giga is dreamy confirmed"
+        },
+        {
+            "user": "AshersLab",
+            "text": "I really hate go's stupid penis syntax"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Go straight to jail. Do not pass Lmao, Do not collect $200."
+        },
+        {
+            "user": "FinnT730",
+            "text": "I AM FREE!! now it is time to free Curle from her curse"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "to <strong style=\"font-size: 115%\">sciwhiz12</strong>",
+            "text": "don't thocc me, bitch"
+        },
+        {
+            "user": "illy",
+            "text": "most programming is halfcrap you're fine"
+        },
+        {
+            "user": "Klouver",
+            "text": "It has jelly, fruit and piece of bacon in it. I also added cooked rat."
+        },
+        {
+            "user": "dpeter99",
+            "text": "i usualy go from naked to flying..."
+        },
+        {
+            "user": "Amethyst",
+            "text": "<code>npm i -D electron@latest</code> Lord forgive me for I have sinned"
+        },
+        {
+            "user": "Klouver",
+            "text": "It has jelly, fruit and piece of bacon in it. I also added cooked rat."
+        },
+        null,
+        {
+            "user": "gigaherz",
+            "text": "I TWERKS!"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "I have a laptop but it's super heavy and is busy being a desktop"
+        },
+        {
+            "user": "Quartz",
+            "text": "Have you seen my whale cum"
+        },
+        {
+            "user": "Lex",
+            "text": "you know what's terrifying? waking up because you hear footsteps that sound like they are coming dow the hall.and then a door opening sound....and them a \"hurm.. hum...\"... turns out my computer decided to reset my audio to my speakers, and a wandering trader spawned in my sky block I was letting idle overnight...."
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "HOORAY FOR JESUS"
+        },
+        {
+            "user": "Amethyst",
+            "text": "if the jesus nut busts, you're a brick falling to the ground"
+        },
+        {
+            "user": "Quartz",
+            "side_text": "aka <strong style=\"font-size: 115%\">The Fun Police</strong>",
+            "text": "I am the fun police now aaaa"
+        },
+        null,
+        {
+            "user": "Amethyst",
+            "text": "the moon is a liberal myth"
+        },
+        {
+            "user": "Amethyst",
+            "text": "dinner is a state of mind"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "Curle is the master of everything!"
+        },
+        {
+            "user": "diesieben07",
+            "text": "I am secretly almost 12"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "whilst her keyboard was having a stroke",
+            "text": "then nt onribut t it ffs"
+        },
+        {
+            "user": "Quartz",
+            "text": "I don't want to deal with minecolonies"
+        },
+        {
+            "user": "FinnT730",
+            "text": "so why is it that my left ball hurts?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i'm not surprised but that's surprising"
+        },
+        {
+            "user": "Paint_Ninja",
+            "text": "tfw you support so many MC versions that your badge becomes a lightsaber"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "to <strong style=\"font-size: 115%\">Curle</strong>",
+            "text": "You're fisting your keyboard? Concerning"
+        },
+        {
+            "user": "diesieben07",
+            "text": "I'm a pretty princess!"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "1) I'd be surprised if curle didn't have a screwdriver finger by now"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "because of all the screwing she does"
+        },
+        {
+            "user": "ravenbuilder934",
+            "side_text": "looking at <strong style=\"font-size: 115%\">Paint_Ninja</strong>'s lightsaber",
+            "text": "such a long lightsaber!"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "new idea: trump index for measuring dickiness"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "Jingle my canary, Poindexter!"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "that is a <i>misshapen anthropomorphic pumpkin</i>"
+        },
+        {
+            "user": "dpeter99",
+            "text": "i just finished watching it and no fap anouncement"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "contr ass. the bane of all existence"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "someone get me to cook islands. they have cooks AND cocks"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "but you must do more than flip the ds to get tiddies"
+        },
+        {
+            "user": "Amethyst",
+            "text": "haha its a masturbation joke [...] i am the big funny"
+        },
+        {
+            "user": "Lord_Samosa",
+            "side_text": "in reference to pronouncing <strong style=\"font-size: 115%\">tterrag</strong>",
+            "text": "tiddyrag"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i choked on my own tits?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "imagine having two baked hogs tied to your chest all day"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "in reference to <a href=\"https://www.cipsum.com\">cipsum</a>",
+            "text": "why is that sip cum but the first letters are reversed"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "You want a public orgy?"
+        },
+        {
+            "user": "FinnT730",
+            "side_text": "in response to... nothing?",
+            "text": "Cumtastic"
+        },
+        {
+            "user": "FinnT730",
+            "text": "grabbing it with hands makes a bigger mess than using a pocket knive and eating from that lol"
+        },
+        {
+            "user": "Budschie",
+            "text": "Oh a meta quote"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "what the fuck don't fry me"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "oh expandong"
+        },
+        {
+            "user": "Budschie",
+            "text": "I have the feeling that these quotes are destroying our brains. I can feel it melt currently. Like cheese. MMmmm cheese"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "And I need to relearn my shit modelling skills to make boobies"
+        },
+        {
+            "user": "Amethyst",
+            "text": "can a black hole cuck?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "did you go help your uncle Jack off a horse?"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "Rock bottom has free jackhammers"
+        },
+        {
+            "user": "diesieben07",
+            "text": "there is r and f, that's 50"
+        },
+        {
+            "user": "Amethyst",
+            "text": "he looks like he enjoys it [...] don't shame"
+        },
+        {
+            "user": "Amethyst",
+            "text": "better fetch some OJ, the scoping rules have gone down the shitter"
+        },
+        {
+            "user": "FinnT730",
+            "text": "I fucked it deeeeep"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I'm basically sci's sugar mommy at this point"
+        },
+        {
+            "user": "Lex",
+            "text": "Honestly whoever implemented the Module system in Java is a physco."
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "how the hell do flies fall"
+        },
+        {
+            "user": "PlatinPython",
+            "text": "attack of elongated watermelons"
+        },
+        {
+            "user": "Amethyst",
+            "text": "damnit man i have a raging patchy, i'm just raring to go"
+        },
+        {
+            "user": "covers1624",
+            "text": "you don't wanna piss a missile off, ya know? it'll come back and remember ya."
+        },
+        {
+            "user": "covers1624",
+            "text": " are mojang mentally deficient?"
+        },
+        {
+            "user": "covers1624",
+            "text": " okay, that <code>double</code> can be <code>null</code>"
+        },
+        {
+            "user": "Amethyst",
+            "text": "nothing like a good murder-suicide to relax after a long day patching"
+        },
+        {
+            "user": "DaemonUmbra",
+            "text": "I just have to ... blolololollloooloo"
+        },
+        {
+            "user": "illy",
+            "text": " I got quoted last time I talked about my cat patching"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "smh Curle has caused 2 bugs"
+        },
+        {
+            "user": "covers1624",
+            "text": "I should update my ATs, but I can not be fucked."
+        },
+        {
+            "user": "Amethyst",
+            "text": "don't choke the chicken on this good christian voice chat"
+        },
+        {
+            "user": "Amethyst",
+            "text": "God damnit woman, suck harder than you've ever sucked in your life!"
+        },
+        {
+            "user": "PlatinPython",
+            "text": "That either shows that there are many things, that can be quoted or that people are just quoting what ever they want"
+        },
+        {
+            "user": "fry",
+            "text": "print statements and breakpoints are complimentary; prints are fixed in space and let you explore state changes through time; breakpoints freeze time and let you explore state with fixed time"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "im tempted to take Shroom [...]"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "FML and the Big Pee "
+        },
+        {
+            "user": "Amethyst",
+            "text": "shrimp popped his moderating cherry"
+        },
+        {
+            "user": "Technici4n",
+            "text": "ftb try catch pyramid"
+        },
+        {
+            "user": "Amethyst",
+            "text": "N"
+        },
+        {
+            "user": "Silk",
+            "text": "That groups the <code>T</code>s from the <code>F</code>s into <code>P</code>s"
+        },
+        {
+            "user": "Eti",
+            "text": "Why isnt it expanding!"
+        },
+        {
+            "user": "Lex",
+            "text": "canadad"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "cpw and lex are forge daddy and forge mommy"
+        },
+        {
+            "user": "Lex",
+            "text": "im the abusive drunk uncle"
+        },
+        {
+            "user": "Silk",
+            "text": "[where does time go?] It flies away on the fluttery wings of a butterfly of time while a melody plays in the background "
+        },
+        {
+            "user": "FinnT730",
+            "text": "so I guess it will hammer me"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "get fucked ashers"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Get bottled, shrimp"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "There, that's a good way to shut him up...he won't be quoting me today >:D "
+        },
+        {
+            "user": "dpeter99",
+            "text": "i blam java"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "to <strong style=\"font-size: 115%\">AshersLab</strong>",
+            "text": "you suck my question"
+        },
+        {
+            "user": "Amethyst",
+            "text": "king of Disabled Badgers only"
+        },
+        {
+            "user": "AshersLab",
+            "text": "touch yourself after after ingesting hard drugs"
+        },
+        {
+            "user": "Amethyst",
+            "text": "This <i>is</i> Minecraft studd5"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "[...] I'm like a giant death machine"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Dammit I kissed it haha"
+        },
+        {
+            "user": "illy",
+            "text": "Imma cut a bitch"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "<i>takes breath</i><br><span class=\"break-all\">AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH</span>"
+        },
+        {
+            "user": "Amethyst",
+            "text": "It's The!"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Don't quote me on that tough"
+        },
+        {
+            "user": "AwesomeSyd239",
+            "text": "I just want to be a spider. why is it so hard?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Why are you masturbating the bubonic plague, finn"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Anywyax for rewl, Bac to wrok"
+        },
+        {
+            "user": "Citrine",
+            "text": "the time has cum?"
+        },
+        {
+            "user": "FinnT730",
+            "side_text": "quoted by <strong style=\"font-size: 115%\">Raven</strong> as she fucks up a quote",
+            "text": "Illy fucked up the quote"
+        },
+        {
+            "user": "senox13",
+            "text": "What you're doing is the equivalent of trying to learn how to swim while insisting on wearing concrete shoes"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "<i>cue ashers with 'truen't'</i>"
+        },
+        {
+            "user": "illy",
+            "text": "woo finally a sub to cpw"
+        },
+        {
+            "user": "cpw",
+            "text": "because fuck it, why not"
+        },
+        {
+            "user": "cpw",
+            "text": "I like coremods! And I think they're really neat!"
+        },
+        {
+            "user": "illy",
+            "text": "Right spot right star right beer right in front of me"
+        },
+        {
+            "user": "Amethyst",
+            "text": "why am i so quotable"
+        },
+        {
+            "user": "Amethyst",
+            "text": "recursive balls"
         }
     ]
 }
