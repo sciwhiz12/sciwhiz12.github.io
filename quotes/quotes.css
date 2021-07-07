@@ -138,12 +138,6 @@ p {
     transform: translate(-50%, -50%);
 }
 
-.emote {
-    width: 18px;
-    vertical-align: sub;
-    object-fit: contain;
-}
-
 .meta-text {
     font-style: oblique;
     color: #ddd;

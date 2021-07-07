@@ -23,7 +23,7 @@ function addRow(data, roles, parent, user, count) {
     username.tabIndex = 1
 
     const userSpan = username.appendChild(document.createElement("span"))
-    userSpan.innerText = userdata ? (userdata.hasOwnProperty("nickname") ? userdata.nickname : userdata.username) : user
+    userSpan.innerHTML = userdata ? (userdata.hasOwnProperty("nickname") ? userdata.nickname : userdata.username) : user
 
     if (userdata) {
         const userRoles = userdata.roles
