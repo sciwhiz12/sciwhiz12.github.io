@@ -99,7 +99,7 @@
             "id": "607058472709652501",
             "username": "sciwhiz12",
             "discriminator": "1286",
-            "nickname": "lemongradle <img class=\"emote\" src=\"https://discord.com/assets/5aa65ce7d8af354c6840c01006f26ef7.svg\" alt=\":lemon:\"/>",
+            "nickname": "sciwhiz12@lemongradle # \uD83C\uDF4B",
             "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/82c6980d70f548a75bce0ff8eb7d0caa.webp",
             "roles": ["superhelper", "docs_triage", "retrogradle"]
         },
@@ -139,9 +139,8 @@
             "id": "145199140048076800",
             "username": "FinnT730",
             "discriminator": "3281",
-            "nickname": "FinnT730 [Җ]",
+            "nickname": "FinnT730 [Æęœ]",
             "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/0a178b5f0e93ef5c850f63223e8ce59a.webp",
-            "roles": ["nitro"]
         },
         "Sydney": {
             "id": "163490961253466112",
@@ -223,7 +222,7 @@
             "id": "202247953321033729",
             "username": "RobotGryphon",
             "discriminator": "0001",
-            "nickname": "Nano <img class=\"emote\" src=\"https://discord.com/assets/a85469a7ea891a12e2513f4281d51f78.svg\" alt=\":mute:\"/>",
+            "nickname": "Nano",
             "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/604e8720ee9364870fa763312fcf758f.webp",
             "roles": ["nitro"]
         },
@@ -299,7 +298,6 @@
             "id": "277525077669445632",
             "username": "SizableShrimp",
             "discriminator": "0755",
-            "nickname": "SizableShrimp [pingmepls]",
             "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/adfff23286d1004a87196e368d94afc4.webp",
             "roles": ["triage", "retrogradle"]
         },
@@ -381,6 +379,7 @@
             "id": "295948838827589632",
             "username": "Maci",
             "discriminator": "2345",
+            "nickname": "Fox Rotator Maci",
             "avatar": "https://cdn.discordapp.com/avatars/295948838827589632/4bf7421dc0a6b553dd461881bf89a0c0.webp"
         },
         "Unbekannt": {
