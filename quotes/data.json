@@ -126,7 +126,7 @@
             "id": "83553630271045632",
             "username": "Unnoen",
             "discriminator": "0001",
-            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/a_597e87050d8fc43a910f0e487869b592.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/83553630271045632/a_597e87050d8fc43a910f0e487869b592.gif",
             "roles": ["triage"]
         },
         "Leon!": {
@@ -170,7 +170,7 @@
             "id": "311833206423027712",
             "username": "ByteLaw",
             "discriminator": "6969",
-            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_5e605db73de1805f1f22ca00f68758f8.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_5e605db73de1805f1f22ca00f68758f8.gif"
         },
         "Rosolnatka": {
             "id": "471661725096345602",
@@ -272,7 +272,7 @@
             "username": "Max Hyper",
             "discriminator": "0310",
             "nickname": "Max Hyper (Dynamic Trees)",
-            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/a_748cef29b600fd1af73d372c4c4c2b12.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/217760439465934848/a_748cef29b600fd1af73d372c4c4c2b12.gif"
         },
         "Lord_Samosa": {
             "id": "265228797970743296",
@@ -314,7 +314,7 @@
             "id": "327191480508743683",
             "username": "Klouver",
             "discriminator": "8679",
-            "avatar": "https://cdn.discordapp.com/avatars/327191480508743683/4ff1d8c7cb738c14d07c127f6bb08d7e.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/327191480508743683/67494034679785b30598b108aa63dd79.webp"
         },
         "Quartz": {
             "id": "472454599324860416",
@@ -366,7 +366,7 @@
             "username": "Eti",
             "discriminator": "1760",
             "nickname": "Eti (Ping+DM OK)",
-            "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/a_1d2fd4031d727aee59eff11ca1b088ad.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/360da61a9a56f965a48e6a3ce8d7cc17.webp",
             "roles": ["usd25", "patreon"]
         },
         "senox13": {
@@ -374,14 +374,46 @@
             "username": "senox13",
             "discriminator": "8134",
             "nickname": "senox13 [Ping if you want]",
-            "avatar": "https://cdn.discordapp.com/avatars/235958923205541888/b82fcbb55a3df174a531f6c4902c51db.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/235958923205541888/4cb90469c62a440f37070c892299e3fc.webp",
             "roles": ["superhelper"]
         },
         "Maci": {
             "id": "295948838827589632",
             "username": "Maci",
             "discriminator": "2345",
-            "avatar": "https://cdn.discordapp.com/avatars/295948838827589632/4f2baafbf0873f6e7c557e76b874258a.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/295948838827589632/4bf7421dc0a6b553dd461881bf89a0c0.webp"
+        },
+        "Unbekannt": {
+            "id": "137065107145359360",
+            "username": "Unbekannt",
+            "discriminator": "0815",
+            "avatar": "https://cdn.discordapp.com/avatars/137065107145359360/80325bf49ab497f209c54ace96d0e793.webp",
+            "roles": ["retrogradle", "usd25", "patreon", "nitro"]
+        },
+        "Saksham4106": {
+            "id": "714768706244182016",
+            "username": "Saksham",
+            "discriminator": "4106",
+            "nickname": "sak man \uD83D\uDC40",
+            "avatar": "https://cdn.discordapp.com/avatars/714768706244182016/e690a750b96de988d4c84ba49efcc79d.webp"
+        },
+        "OakBricks": {
+            "id": "453612740377051156",
+            "username": "OakBricks",
+            "discriminator": "9905",
+            "avatar": "https://cdn.discordapp.com/avatars/453612740377051156/0c41bb12935026565f428326078b9c50.webp"
+        },
+        "Mysticdrew": {
+            "id": "147851226439090176",
+            "username": "Mysticdrew",
+            "discriminator": "1875",
+            "avatar": "https://cdn.discordapp.com/avatars/147851226439090176/514f08ebfc0b84c38daf7e2a91e2c698.webp"
+        },
+        "GiantLuigi4": {
+            "id": "380845972441530368",
+            "username": "GiantLuigi4",
+            "discriminator": "6616",
+            "avatar": "https://cdn.discordapp.com/avatars/380845972441530368/3bfc80fafdce1c47ad2160745a2c8a36.webp"
         }
     },
     "roles": {
@@ -2463,11 +2495,11 @@
         },
         {
             "user": "covers1624",
-            "text": " are mojang mentally deficient?"
+            "text": "are mojang mentally deficient?"
         },
         {
             "user": "covers1624",
-            "text": " okay, that <code>double</code> can be <code>null</code>"
+            "text": "okay, that <code>double</code> can be <code>null</code>"
         },
         {
             "user": "Amethyst",
@@ -2479,7 +2511,7 @@
         },
         {
             "user": "illy",
-            "text": " I got quoted last time I talked about my cat patching"
+            "text": "I got quoted last time I talked about my cat patching"
         },
         {
             "user": "SizableShrimp",
@@ -2778,6 +2810,450 @@
             "user": "Maci",
             "text": "As long as it's not a sex dungeon",
             "nsfw": true
+        },
+        {
+            "user": "Unbekannt",
+            "text": "i'm simply not quotable"
+        },
+        {
+            "user": "diesieben07",
+            "side_text": "in response to... nothing?",
+            "text": "puntastic"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "curle what the shark glove bean fuck is that"
+        },
+        {
+            "user": "Citrine",
+            "text": "is bean even a valid fetish"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "YES! I FLICK OFF BANS LIKE THEY'RE NOTHING!"
+        },
+        {
+            "user": "Amethyst",
+            "text": "whatcha lookin at ater? is it my magnificence?"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "Well I'd say something about your butt"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "I now shall call you leaky luigi"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i'm the true quote queen in this room <i>flicks hair</i>"
+        },
+        {
+            "user": "Saksham4106",
+            "text": "im going to fuck windows completely now"
+        },
+        {
+            "user": "diesieben07",
+            "text": "shrimp and cyborg-curle fanfic when"
+        },
+        {
+            "user": "Amethyst",
+            "text": "we are the curle-borg. you will be bolbed. resistance is futile."
+        },
+        {
+            "user": "SizableShrimp",
+            "text": ":cummies: [...] :yummies:"
+        },
+        {
+            "user": "Amethyst",
+            "text": "he's posting awful curle mechatrons with massive eggplant dicks"
+        },
+        {
+            "user": "FinnT730",
+            "text": "This came randomly in my feet"
+        },
+        {
+            "user": "Amethyst",
+            "text": "///////////////////7410/*+"
+        },
+        {
+            "user": "Maci",
+            "text": "oh no, a curlmketmkngKNMPDAGSagsdnkjnsadjfnb<AUwehbrnN92u837419498"
+        },
+        {
+            "user": "Amethyst",
+            "text": "the (Party Escort™️ Submission Position™️)™️"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Aperture can suck my quantum tunneling cock"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Fellate me"
+        },
+        {
+            "user": "Maci",
+            "text": "quick, somebody rotate that onion!"
+        },
+        {
+            "user": "Amethyst",
+            "text": "whoops, didn't mean to shark beans there"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "It’s only the first CUM, its not boring "
+        },
+        {
+            "user": "AshersLab",
+            "text": "Curle <i>is</i> the only confirmed computer person in the whole of the UK"
+        },
+        {
+            "user": "Saksham4106",
+            "text": "beat it with a dick until it works"
+        },
+        {
+            "user": "Maci",
+            "side_text": "aka <strong style=\"font-size: 115%\">Fox Apostle Maci</strong>",
+            "text": "wait shit im supposed to be dead"
+        },
+        {
+            "user": "AshersLab",
+            "text": "Yes I'm f***in asher"
+        },
+        {
+            "user": "diesieben07",
+            "text": "have you tried replacing tit?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "here's my cum [...] it's thicc"
+        },
+        {
+            "user": "dpeter99",
+            "side_text": "in response to quote 596",
+            "text": "juicy [...] it is stringy.... [...] now it is in my face"
+        },
+        {
+            "user": "FinnT730",
+            "text": "They UnusAbus twitter still exists"
+        },
+        {
+            "user": "diesieben07",
+            "text": "CANS! CANS! There's NO BABY."
+        },
+        {
+            "user": "Amethyst",
+            "text": "Yes ashers, a can of peas costs 40 penises"
+        },
+        {
+            "user": "Maci",
+            "text": "SIX HUNDRED PENISES"
+        },
+        {
+            "user": "AshersLab",
+            "text": "Penis?"
+        },
+        {
+            "user": "AshersLab",
+            "side_text": "to <strong style=\"font-size: 115%\">Maci</strong>",
+            "text": "Oh, you like other people imagining you and penises?"
+        },
+        {
+            "user": "Saksham4106",
+            "text": "lies, its a gigantic cock"
+        },
+        {
+            "user": "Maci",
+            "text": "the more they bounce around the lewder they get"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I'm fucking suffocating you bitch"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Unbe is too deep"
+        },
+        {
+            "user": "Amethyst",
+            "text": "any hole's a goal"
+        },
+        {
+            "user": "Amethyst",
+            "text": "lol president for porn"
+        },
+        {
+            "user": "Amethyst",
+            "text": "he brought out the constipated cyborg"
+        },
+        {
+            "user": "Amethyst",
+            "text": "we must R O T A T E"
+        },
+        {
+            "user": "Maci",
+            "text": "we have reached maximum velolvcvitiiyy"
+        },
+        {
+            "user": "Maci",
+            "side_text": "to <strong style=\"font-size: 115%\">Finn</strong>",
+            "text": "I will try you [..] right now"
+        },
+        {
+            "user": "diesieben07",
+            "text": "THE THIS CAT"
+        },
+        {
+            "user": "Amethyst",
+            "text": "reject humanity, return to mnke"
+        },
+        {
+            "user": "diesieben07",
+            "text": "Okay, enough lewd foxes for today. Good night"
+        },
+        {
+            "user": "Lex",
+            "text": "All current IDEs suck, we need a new one.. with blackjack.. and hookers..."
+        },
+        {
+            "user": "ChampionAsh5357",
+            "text": "Gwen, what is a potato?"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "aka <strong style=\"font-size: 115%\">SizableShirmp</strong>",
+            "text": "You're not wrong but we don't need to talk about curle's asshole"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "how does auto align gone sexual produce such a bad output"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "#GiantBinaryOperatorsIsSexyAndYouKnowIt"
+        },
+        {
+            "user": "Amethyst",
+            "text": "raven asserting dominance over the native asher slab"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">CurlieWurlie</strong>",
+            "text": "oh god has illy been fucking his cat again"
+        },
+        {
+            "user": "Lex",
+            "text": "oh you're writing mixins? no fuck off"
+        },
+        {
+            "user": "Maci",
+            "text": "<i>destroy me</i>"
+        },
+        {
+            "user": "Maci",
+            "text": "Raven is octopussy confirmed"
+        },
+        {
+            "user": "Maci",
+            "text": "Seduce me"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "Butt, Butt [...] Big Big Praise [...] It's fucking hard"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "<span class=\"spoiler\">Incest in a Private localized livingroom son™ (only 5 small payments of 59.999.999,99)</span>"
+        },
+        {
+            "user": "FinnT730",
+            "text": "were squirrel fucks are given to each of us"
+        },
+        {
+            "user": "Amethyst",
+            "text": "The daddy is into mummification? I'd stay away, personally"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I've always been philosophical, i just hide it behind a curtain of memery"
+        },
+        {
+            "user": "Citrine",
+            "text": "curle can go very deep when she wants to"
+        },
+        {
+            "user": "Maci",
+            "text": "I don't get quoted, [...] my words get violently enslaved onto a server"
+        },
+        {
+            "user": "Maci",
+            "text": "rgn mxgdyfxc"
+        },
+        {
+            "user": "illy",
+            "text": "I hate C++ this is getting a R"
+        },
+        {
+            "user": "illy",
+            "text": "Yar Shiver me compilers"
+        },
+        {
+            "user": "Maci",
+            "text": "peas are just compiled beans"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "You fucked and then saw it coming?"
+        },
+        {
+            "user": "Maci",
+            "text": "yarrrrr ya never saw it cummin'"
+        },
+        {
+            "user": "Maci",
+            "text": "how dare you fuck someone and see them at the same time"
+        },
+        {
+            "user": "Amethyst",
+            "text": "illy is cpw's sub now?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Hold it in [...] <del>it'll feel much better at the end</del>"
+        },
+        {
+            "user": "Citrine",
+            "text": "do me! do me!"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "I'll grab the lube"
+        },
+        {
+            "user": "Amethyst",
+            "text": "if we're not at 700 [quotes] by the end of the day all of you are banned"
+        },
+        {
+            "user": "Maci",
+            "text": "Quotes are like Peas, theyre good for throwing at curle"
+        },
+        {
+            "user": "Maci",
+            "text": "ah yes [..] fellation [..] the classic family activity"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "You have to admit its a nice rack"
+        },
+        {
+            "user": "Maci",
+            "text": "massive rack and a butt big enough to have its own phone number"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Currently i have my eyes on banning raven for padding out the quote count"
+        },
+        {
+            "user": "gigaherz",
+            "text": "quick someone quote shroom"
+        },
+        {
+            "user": "OakBricks",
+            "text": "brhikh"
+        },
+        {
+            "user": "RobotGryphon",
+            "text": "Can we not shitquote, thanks"
+        },
+        {
+            "user": "Amethyst",
+            "text": "it works fine for me [...] that's what literally everybody who knows how this eldritch monstrosity works says"
+        },
+        {
+            "user": "gigaherz",
+            "text": "imagine having free hamburgers available any time. hungry leaving work? no matter, here's a hamburger. homeless? no matter, <img class=\"emote\" src=\"https://discordapp.com/assets/3a2a5ebb52c26a470f87b1eb42c0da92.svg\" alt=\":hamburger:\"/> for you too!"
+        },
+        {
+            "user": "AshersLab",
+            "text": "I'm the settings"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Calculus makes finn hard?"
+        },
+        {
+            "user": "illy",
+            "text": "Can't spell silly without illy"
+        },
+        {
+            "user": "Maci",
+            "text": "dogs and cats count as foxes"
+        },
+        {
+            "user": "Saksham4106",
+            "text": "finn's sex dungeon"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "boy ass juicy"
+        },
+        {
+            "user": "Anonymous",
+            "text": "What the BOLB did you just BOLBing say about me, you little BOLB? I'll have you know I graduated top of my class in the Triage Crops, and I've been involved in numerous secret PRs on FML, and I have over 300 confirmed merges. I am trained in tactial conversing and I'm the top triager in the entire Forge development forces. You are nothing to me but just another target. I will revert you the BOLB out with precision the likes of which has never been seen before on this Earth, mark my BOLBing words. You think you can get away with saying that BOLB to me over the Internet? Think again, bolber. As we speak I am contacting my secret network of spies across the servercs and your IP is being traced right now so you better prepare for the storm, BOLB. The storm that kicks out the pathetic little thing you call your account. You're BOLBing banned, kid. I can be anywhere, anytime, and I can ban you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in verbal combat, but I have access to the entire arsenal of the Forge GIT Corps and I will use it to its full extent to wipe your miserable commit off the face of the continent, you little BOLB. If only you could have known what unholy retribution your little 'clever' PR was about to bring down upon you, maybe you would have held your BOLBing fingers. But you couldn't, you didn't, and now you're paying the price, you goddamn BOLB. I will hail down fury all over you and you will drown in it. You're BOLBing dead, kiddo."
+        },
+        {
+            "user": "Maci",
+            "text": "Too big"
+        },
+        {
+            "user": "Mysticdrew",
+            "text": "Curle is the true winner it seems."
+        },
+        {
+            "user": "Anonymous",
+            "text": "DRIPPING FLESHY BLOODGORE FESTERS IN YOUR GAPING WOUNDS! DEMONS 'N' STUFF! GRAAAAR!"
+        },
+        {
+            "user": "Amethyst",
+            "text": "C.... Cheese?"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "purity = cock??"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "get. fucked. raven"
+        },
+        {
+            "user": "Amethyst",
+            "text": "By popular demand, Forge has grown a CoC!"
+        },
+        {
+            "user": "GiantLuigi4",
+            "text": "I like this quote way too much"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Curel</strong>",
+            "text": "ain't gonna prevent much birth if it got a hole"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "WHERE'S THE DICK"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "Finn has desensitized us all"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "if anything she has an apple [...] and a lot of paperwork"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "Mhm, Sexually charged Pineapple Gifs, what more can a person need."
         }
     ]
 }

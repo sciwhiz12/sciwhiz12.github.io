@@ -119,7 +119,7 @@ tr {
     color: white;
 }
 
-mention {
+.mention {
     background-color: rgba(114, 137, 218, .1);
     color: #7289da;
     border-radius: 3px;
@@ -128,9 +128,21 @@ mention {
     position: relative;
 }
 
-mention:hover {
+.mention:hover {
     color: #fff;
     background-color: #7289da;
+}
+
+.no-touch .spoiler {
+    background: #333333;
+    border-radius: 0.2em;
+    color: transparent;
+    cursor: pointer;
+}
+
+.no-touch .spoiler:hover {
+    background: transparent;
+    color: inherit;
 }
 
 code {
