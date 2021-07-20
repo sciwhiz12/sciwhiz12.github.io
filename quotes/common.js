@@ -1,3 +1,7 @@
+// Add the .no-touch css class to the root document when ontouchstart doesn't exist
+// Used to disable the spoiler hide effects that won't trigger otherwise
+if ("ontouchstart" in document.documentElement === false) document.documentElement.classList.add("no-touch");
+
 function createPopup(userkey, roles, userdata) {
     // The main div for the popup
     const popupDiv = document.createElement("div")
