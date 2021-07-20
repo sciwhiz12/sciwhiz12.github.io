@@ -80,6 +80,9 @@ function createQuote(data, roles, number, quote) {
 
     const quoteDiv = document.createElement("div")
     quoteDiv.className = "quote"
+    if (quote.hasOwnProperty("nsfw") && quote.nsfw) {
+        quoteDiv.classList.add("nsfw")
+    }
     quoteDiv.id = number
 
     const numberElement = quoteDiv.appendChild(document.createElement("a"))
