@@ -1,27 +1,23 @@
 fetch("data.json")
     .then(req => req.json())
-    .then(data => {
+    .then(/** @param {QuoteData} data */ data => {
         const container = document.getElementById("quotes")
-        var roles = parseRoles(data.roles)
+        const roles = parseRoles(data.roles);
 
-        var quotes = data.quotes
-        for (let i = 0; i < quotes.length; i++) {
-            const quote = quotes[i];
-            if (!quote || !quote.user) {
-                container.appendChild(createNoQuote(i + 1))
-            } else {
-                container.appendChild(createQuote(data, roles, i + 1, quote))
-            }
-        }
+        data.quotes.forEach((quote, index) => {
+            const quoteNumber = index + 1;
+            container.appendChild((!quote || !quote.user)
+                ? createNoQuote(quoteNumber)
+                : createQuote(data, roles, quoteNumber, quote)
+            )
+        })
 
         const counts = document.getElementsByClassName("count")
         for (let i = 0; i < counts.length; i++) {
-            counts[i].addEventListener("click", ev => {
-                removeAllHovers()
-            })
+            counts[i].addEventListener("click", () => removeAllHovers())
         }
 
-        var id = window.location.hash
+        const id = window.location.hash;
         removeAllHovers()
         if (id && id.length) {
             const element = document.getElementById(id.substr(1))
@@ -39,7 +35,7 @@ fetch("data.json")
         throw err
     })
 
-window.addEventListener("hashchange", ev => { removeAllHovers() })
+window.addEventListener("hashchange", () => removeAllHovers())
 
 function removeAllHovers() {
     const elements = document.getElementsByClassName("hover")
@@ -48,10 +44,14 @@ function removeAllHovers() {
     }
 }
 
+/**
+ * @param {number} number
+ * @return {HTMLDivElement}
+ */
 function createNoQuote(number) {
     const quoteDiv = document.createElement("div")
     quoteDiv.className = "quote"
-    quoteDiv.id = number
+    quoteDiv.id = String(number)
 
     const numberElement = quoteDiv.appendChild(document.createElement("a"))
     numberElement.className = "count"
@@ -70,20 +70,23 @@ function createNoQuote(number) {
     return quoteDiv;
 }
 
+/**
+ * @param {QuoteData} data
+ * @param {Object.<RoleName, Role>} roles
+ * @param {number} number
+ * @param {Quote} quote
+ * @return {HTMLDivElement}
+ */
 function createQuote(data, roles, number, quote) {
     const user = quote.user
     const text = quote.text
-    var userdata = null
-    if (data.users.hasOwnProperty(user)) {
-        userdata = data.users[user]
-    }
+    const userdata = data.users.hasOwnProperty(user) ? data.users[user] : null;
 
     const quoteDiv = document.createElement("div")
     quoteDiv.className = "quote"
-    if (quote.hasOwnProperty("nsfw") && quote.nsfw) {
-        quoteDiv.classList.add("nsfw")
-    }
-    quoteDiv.id = number
+    if (quote.hasOwnProperty("nsfw") && quote.nsfw) quoteDiv.classList.add("nsfw")
+
+    quoteDiv.id = String(number)
 
     const numberElement = quoteDiv.appendChild(document.createElement("a"))
     numberElement.className = "count"

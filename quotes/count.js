@@ -1,9 +1,9 @@
 fetch("data.json")
     .then(req => req.json())
-    .then(data => {
-        var roles = parseRoles(data.roles)
-        var counts = calculateCounts(data.quotes)
-        var table = document.getElementById("counts")
+    .then(/** @param {QuoteData} data */ data => {
+        const roles = parseRoles(data.roles);
+        const counts = calculateCounts(data.quotes);
+        const table = document.getElementById("counts");
         for (const entry of counts) {
             addRow(data, roles, table, entry[0], entry[1])
         }
@@ -13,8 +13,15 @@ fetch("data.json")
         document.getElementById("loading_error").style.display = ""
     })
 
+/**
+ * @param {QuoteData} data
+ * @param {Object.<RoleName, Role>} roles
+ * @param {Node} parent
+ * @param {UserName} user
+ * @param {number} count
+ */
 function addRow(data, roles, parent, user, count) {
-    var userdata = data.users[user]
+    const userdata = data.users[user];
 
     const row = parent.appendChild(document.createElement("tr"))
 
@@ -29,9 +36,7 @@ function addRow(data, roles, parent, user, count) {
         const userRoles = userdata.roles
         if (userRoles && userRoles.length > 0) {
             userRoles.forEach(roleName => {
-                if (roles[roleName]?.css) {
-                    userSpan.classList.add(roles[roleName].css)
-                }
+                if (roles[roleName]?.css) userSpan.classList.add(roles[roleName].css)
             });
         }
         if (userdata.hasOwnProperty("tag")) {
@@ -47,17 +52,21 @@ function addRow(data, roles, parent, user, count) {
 
     const countData = row.appendChild(document.createElement("td"))
     countData.className = "count"
-    countData.innerText = count
+    countData.innerText = String(count)
 }
 
+/**
+ *
+ * @param {Quote[]} quotes
+ * @return {Map<UserName, number>}
+ */
 function calculateCounts(quotes) {
-    var quoteCount = new Map();
+    const quoteCount = new Map();
     quotes.forEach(element => {
         if (element) {
-            var number = quoteCount.has(element.user) ? quoteCount.get(element.user) : 0
+            const number = quoteCount.has(element.user) ? quoteCount.get(element.user) : 0;
             quoteCount.set(element.user, number + 1)
         }
     });
-    const sorted = new Map([...quoteCount.entries()].sort((a, b) => b[1] - a[1]));
-    return sorted
+    return new Map([...quoteCount.entries()].sort((a, b) => b[1] - a[1]))
 }

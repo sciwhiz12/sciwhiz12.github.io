@@ -2,6 +2,13 @@
 // Used to disable the spoiler hide effects that won't trigger otherwise
 if ("ontouchstart" in document.documentElement === false) document.documentElement.classList.add("no-touch");
 
+/**
+ *
+ * @param {UserName} userkey
+ * @param {Object.<RoleName, Role>} roles
+ * @param {User} userdata
+ * @return {HTMLDivElement}
+ */
 function createPopup(userkey, roles, userdata) {
     // The main div for the popup
     const popupDiv = document.createElement("div")
@@ -18,7 +25,7 @@ function createPopup(userkey, roles, userdata) {
     avatar.alt = "avatar for " + userkey
 
     // An optional tag, attached to the name of the user (such as for bots)
-    var tagSpan = null
+    let tagSpan = null;
     if (userdata?.tag) {
         tagSpan = document.createElement("span")
         tagSpan.className = "tag"
@@ -66,7 +73,7 @@ function createPopup(userkey, roles, userdata) {
     // The roles of the user
     const roleHeader = popupBody.appendChild(document.createElement("div"))
     roleHeader.className = "popup_body_header"
-    var userRoles = userdata?.roles
+    const userRoles = userdata?.roles;
 
     if (userRoles && userRoles.length > 0) {
         const rolesProperties = Object.getOwnPropertyNames(roles)
@@ -74,7 +81,7 @@ function createPopup(userkey, roles, userdata) {
             return rolesProperties.indexOf(a) - rolesProperties.indexOf(b);
         })
 
-        roleHeader.innerText = userRoles.length == 1 ? "Role" : "Roles"
+        roleHeader.innerText = userRoles.length === 1 ? "Role" : "Roles"
 
         // List out all the roles
         for (const roleName of userRoles) {
@@ -95,19 +102,23 @@ function createPopup(userkey, roles, userdata) {
     return popupDiv
 }
 
-// Parses the roles data, creates a stylesheet for each entry, and returns a 'map' of role name -> css class
+/**
+ * Parses the roles data, creates a stylesheet for each entry, and returns a 'map' of role name -> modified Role
+ * @param {Object.<RoleName, Role>} roles
+ * @return {Object.<RoleName, Role>}
+ */
 function parseRoles(roles) {
-    var rolesMap = {}
-
-    var dynStyle = document.createElement("style")
+    const dynStyle = document.createElement("style");
     dynStyle.innerText = ""
-    
-    for (const roleName in roles) {
-        var save = false
 
-        var cssKey = "role_custom_" + roleName
-        var css = "." + cssKey + " {\n"
-        var role = roles[roleName]
+    for (const roleName in roles) {
+        if (!roles.hasOwnProperty(roleName)) continue;
+
+        let save = false;
+
+        const cssKey = "role_custom_" + roleName;
+        let css = "." + cssKey + " {\n";
+        const role = roles[roleName];
 
         if (role.hasOwnProperty("color")) {
             css += "color: " + role.color + ";\n"
