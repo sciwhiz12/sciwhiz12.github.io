@@ -5,14 +5,17 @@ fetch("data.json")
         createPopups(data)
 
         const container = document.getElementById("quotes")
+        const root = document.createDocumentFragment()
 
         data.quotes.forEach((quote, index) => {
             const quoteNumber = index + 1;
-            container.appendChild((!quote || !quote.user)
+            root.appendChild((!quote || !quote.user)
                 ? createNoQuote(quoteNumber)
                 : createQuote(data, quoteNumber, quote)
             )
         })
+
+        container.appendChild(root)
 
         const counts = document.getElementsByClassName("count")
         for (let i = 0; i < counts.length; i++) {

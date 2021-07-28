@@ -6,10 +6,13 @@ fetch("data.json")
 
         const counts = calculateCounts(data.quotes);
         const table = document.getElementById("counts");
+        const root  = document.createDocumentFragment()
 
         for (const entry of counts) {
-            addRow(data, table, entry[0], entry[1])
+            addRow(data, root, entry[0], entry[1])
         }
+
+        table.appendChild(root)
     })
     .catch(err => {
         console.error("Error while loading: " + err)
