@@ -1,11 +1,13 @@
 fetch("data.json")
     .then(req => req.json())
     .then(/** @param {QuoteData} data */ data => {
-        const roles = parseRoles(data.roles);
+        document.body.appendChild(parseRoles(data.roles))
+
         const counts = calculateCounts(data.quotes);
         const table = document.getElementById("counts");
+
         for (const entry of counts) {
-            addRow(data, roles, table, entry[0], entry[1])
+            addRow(data, table, entry[0], entry[1])
         }
     })
     .catch(err => {
@@ -15,12 +17,11 @@ fetch("data.json")
 
 /**
  * @param {QuoteData} data
- * @param {Object.<RoleName, Role>} roles
  * @param {Node} parent
  * @param {UserName} user
  * @param {number} count
  */
-function addRow(data, roles, parent, user, count) {
+function addRow(data, parent, user, count) {
     const userdata = data.users[user];
 
     const row = parent.appendChild(document.createElement("tr"))
@@ -36,7 +37,7 @@ function addRow(data, roles, parent, user, count) {
         const userRoles = userdata.roles
         if (userRoles && userRoles.length > 0) {
             userRoles.forEach(roleName => {
-                if (roles[roleName]?.css) userSpan.classList.add(roles[roleName].css)
+                if (data.roles[roleName]?.css) userSpan.classList.add(data.roles[roleName].css)
             });
         }
         if (userdata.hasOwnProperty("tag")) {
@@ -45,7 +46,7 @@ function addRow(data, roles, parent, user, count) {
             tagSpan.innerHTML = userdata.tag
         }
 
-        username.appendChild(createPopup(user, roles, userdata))
+        username.appendChild(createPopup(user, data.roles, userdata))
     } else {
         userSpan.className = "non_user"
     }

@@ -1,14 +1,15 @@
 fetch("data.json")
     .then(req => req.json())
     .then(/** @param {QuoteData} data */ data => {
+        document.body.appendChild(parseRoles(data.roles))
+
         const container = document.getElementById("quotes")
-        const roles = parseRoles(data.roles);
 
         data.quotes.forEach((quote, index) => {
             const quoteNumber = index + 1;
             container.appendChild((!quote || !quote.user)
                 ? createNoQuote(quoteNumber)
-                : createQuote(data, roles, quoteNumber, quote)
+                : createQuote(data, quoteNumber, quote)
             )
         })
 
@@ -72,12 +73,11 @@ function createNoQuote(number) {
 
 /**
  * @param {QuoteData} data
- * @param {Object.<RoleName, Role>} roles
  * @param {number} number
  * @param {Quote} quote
  * @return {HTMLDivElement}
  */
-function createQuote(data, roles, number, quote) {
+function createQuote(data, number, quote) {
     const user = quote.user
     const text = quote.text
     const userdata = data.users.hasOwnProperty(user) ? data.users[user] : null;
@@ -113,8 +113,8 @@ function createQuote(data, roles, number, quote) {
         const userRoles = userdata.roles
         if (userRoles && userRoles.length > 0) {
             userRoles.forEach(roleName => {
-                if (roles[roleName]?.css) {
-                    userSpan.classList.add(roles[roleName].css)
+                if (data.roles[roleName]?.css) {
+                    userSpan.classList.add(data.roles[roleName].css)
                 }
             });
         }
@@ -124,7 +124,7 @@ function createQuote(data, roles, number, quote) {
             tagSpan.innerHTML = userdata.tag
         }
 
-        content.appendChild(createPopup(user, roles, userdata))
+        content.appendChild(createPopup(user, data.roles, userdata))
     } else {
         userSpan.className = "non_user"
     }

@@ -103,9 +103,9 @@ function createPopup(userkey, roles, userdata) {
 }
 
 /**
- * Parses the roles data, creates a stylesheet for each entry, and returns a 'map' of role name -> modified Role
+ * Parses the roles data, creates a stylesheet for each entry, and returns the combined sheet
  * @param {Object.<RoleName, Role>} roles
- * @return {Object.<RoleName, Role>}
+ * @return {HTMLStyleElement}
  */
 function parseRoles(roles) {
     const dynStyle = document.createElement("style");
@@ -114,24 +114,17 @@ function parseRoles(roles) {
     for (const roleName in roles) {
         if (!roles.hasOwnProperty(roleName)) continue;
 
-        let save = false;
+        const role = roles[roleName];
+        if (!role.hasOwnProperty("color")) continue;
 
         const cssKey = "role_custom_" + roleName;
         let css = "." + cssKey + " {\n";
-        const role = roles[roleName];
-
-        if (role.hasOwnProperty("color")) {
             css += "color: " + role.color + ";\n"
-            save = true
-        }
-        css += "}\n"
+            css += "}\n"
 
-        if (save) {
-            dynStyle.innerText = css + dynStyle.innerText
-            roles[roleName].css = cssKey
-        }
+        dynStyle.innerText = css + dynStyle.innerText
+        roles[roleName].css = cssKey
     }
 
-    document.body.appendChild(dynStyle)
-    return roles
+    return dynStyle
 }
