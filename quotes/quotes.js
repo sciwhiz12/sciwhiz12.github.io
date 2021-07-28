@@ -2,6 +2,7 @@ fetch("data.json")
     .then(req => req.json())
     .then(/** @param {QuoteData} data */ data => {
         document.body.appendChild(parseRoles(data.roles))
+        createPopups(data)
 
         const container = document.getElementById("quotes")
 
@@ -124,7 +125,7 @@ function createQuote(data, number, quote) {
             tagSpan.innerHTML = userdata.tag
         }
 
-        content.appendChild(createPopup(user, data.roles, userdata))
+        nameDiv.onfocus = () => document.getElementById("popup-container-" + user)?.focus({preventScroll:true})
     } else {
         userSpan.className = "non_user"
     }

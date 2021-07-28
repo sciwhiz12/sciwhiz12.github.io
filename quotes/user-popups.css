@@ -20,7 +20,7 @@
     transition: 0.2s;
     opacity: 1;
     pointer-events: unset;
-    left: 8vw;
+    /*left: 8vw;*/
 }
 
 .popup {

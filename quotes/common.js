@@ -3,6 +3,25 @@
 if ("ontouchstart" in document.documentElement === false) document.documentElement.classList.add("no-touch");
 
 /**
+ * @param {QuoteData} data
+ */
+function createPopups(data) {
+    const fragment = document.createDocumentFragment();
+    const root     = fragment.appendChild(document.createElement("div"))
+    root.id = "popup-container"
+
+    for (const userName in data.users) {
+        const hidden = root.appendChild(document.createElement("div"))
+        hidden.id = "popup-container-" + userName
+        hidden.className = "collapse"
+        hidden.tabIndex = 1
+        hidden.appendChild(createPopup(userName, data.roles, data.users[userName]))
+    }
+
+    document.body.appendChild(fragment)
+}
+
+/**
  *
  * @param {UserName} userkey
  * @param {Object.<RoleName, Role>} roles
