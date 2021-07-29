@@ -8,7 +8,7 @@ fetch("data.json")
         const root = document.createDocumentFragment()
 
         data.quotes.forEach((quote, index) => {
-            const quoteNumber = index + 1;
+            const quoteNumber = index + 1
             root.appendChild((!quote || !quote.user)
                 ? createNoQuote(quoteNumber)
                 : createQuote(data, quoteNumber, quote)
@@ -22,7 +22,7 @@ fetch("data.json")
             counts[i].addEventListener("click", () => removeAllHovers())
         }
 
-        const id = window.location.hash;
+        const id = window.location.hash
         removeAllHovers()
         if (id && id.length) {
             const element = document.getElementById(id.substr(1))
@@ -45,7 +45,7 @@ window.addEventListener("hashchange", () => removeAllHovers())
 function removeAllHovers() {
     const elements = document.getElementsByClassName("hover")
     for (let i = 0; i < elements.length; i++) {
-        elements[i].classList.remove("hover");
+        elements[i].classList.remove("hover")
     }
 }
 
@@ -72,7 +72,7 @@ function createNoQuote(number) {
     metaText.className = "meta-text"
     metaText.innerText = "Quote does not exist."
 
-    return quoteDiv;
+    return quoteDiv
 }
 
 /**
@@ -84,7 +84,7 @@ function createNoQuote(number) {
 function createQuote(data, number, quote) {
     const user = quote.user
     const text = quote.text
-    const userdata = data.users.hasOwnProperty(user) ? data.users[user] : null;
+    const userdata = data.users.hasOwnProperty(user) ? data.users[user] : null
 
     const quoteDiv = document.createElement("div")
     quoteDiv.className = "quote"
@@ -116,11 +116,7 @@ function createQuote(data, number, quote) {
     if (userdata) {
         const userRoles = userdata.roles
         if (userRoles && userRoles.length > 0) {
-            userRoles.forEach(roleName => {
-                if (data.roles[roleName]?.css) {
-                    userSpan.classList.add(data.roles[roleName].css)
-                }
-            });
+            userRoles.filter(roleName => data.roles[roleName]?.css).forEach(roleName => { userSpan.classList.add(data.roles[roleName].css) })
         }
         if (userdata.hasOwnProperty("tag")) {
             const tagSpan = nameDiv.appendChild(document.createElement("span"))

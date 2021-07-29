@@ -1,12 +1,12 @@
 // Add the .no-touch css class to the root document when ontouchstart doesn't exist
 // Used to disable the spoiler hide effects that won't trigger otherwise
-if ("ontouchstart" in document.documentElement === false) document.documentElement.classList.add("no-touch");
+if ("ontouchstart" in document.documentElement === false) document.documentElement.classList.add("no-touch")
 
 /**
  * @param {QuoteData} data
  */
 function createPopups(data) {
-    const fragment = document.createDocumentFragment();
+    const fragment = document.createDocumentFragment()
     const root     = fragment.appendChild(document.createElement("div"))
     root.id = "popup-container"
 
@@ -44,7 +44,7 @@ function createPopup(userkey, roles, userdata) {
     avatar.alt = "avatar for " + userkey
 
     // An optional tag, attached to the name of the user (such as for bots)
-    let tagSpan = null;
+    let tagSpan = null
     if (userdata?.tag) {
         tagSpan = document.createElement("span")
         tagSpan.className = "tag"
@@ -92,12 +92,12 @@ function createPopup(userkey, roles, userdata) {
     // The roles of the user
     const roleHeader = popupBody.appendChild(document.createElement("div"))
     roleHeader.className = "popup_body_header"
-    const userRoles = userdata?.roles;
+    const userRoles = userdata?.roles
 
     if (userRoles && userRoles.length > 0) {
         const rolesProperties = Object.getOwnPropertyNames(roles)
         userRoles.sort(function(a, b) {
-            return rolesProperties.indexOf(a) - rolesProperties.indexOf(b);
+            return rolesProperties.indexOf(a) - rolesProperties.indexOf(b)
         })
 
         roleHeader.innerText = userRoles.length === 1 ? "Role" : "Roles"
@@ -127,17 +127,17 @@ function createPopup(userkey, roles, userdata) {
  * @return {HTMLStyleElement}
  */
 function parseRoles(roles) {
-    const dynStyle = document.createElement("style");
+    const dynStyle = document.createElement("style")
     dynStyle.innerText = ""
 
     for (const roleName in roles) {
         if (!roles.hasOwnProperty(roleName)) continue;
 
-        const role = roles[roleName];
+        const role = roles[roleName]
         if (!role.hasOwnProperty("color")) continue;
 
-        const cssKey = "role_custom_" + roleName;
-        let css = "." + cssKey + " {\n";
+        const cssKey = "role_custom_" + roleName
+        let css = "." + cssKey + " {\n"
             css += "color: " + role.color + ";\n"
             css += "}\n"
 

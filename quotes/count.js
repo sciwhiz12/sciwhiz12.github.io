@@ -4,8 +4,8 @@ fetch("data.json")
         document.body.appendChild(parseRoles(data.roles))
         createPopups(data)
 
-        const counts = calculateCounts(data.quotes);
-        const table = document.getElementById("counts");
+        const counts = calculateCounts(data.quotes)
+        const table = document.getElementById("counts")
         const root  = document.createDocumentFragment()
 
         for (const entry of counts) {
@@ -26,7 +26,7 @@ fetch("data.json")
  * @param {number} count
  */
 function addRow(data, parent, user, count) {
-    const userdata = data.users[user];
+    const userdata = data.users[user]
 
     const row = parent.appendChild(document.createElement("tr"))
 
@@ -40,9 +40,7 @@ function addRow(data, parent, user, count) {
     if (userdata) {
         const userRoles = userdata.roles
         if (userRoles && userRoles.length > 0) {
-            userRoles.forEach(roleName => {
-                if (data.roles[roleName]?.css) userSpan.classList.add(data.roles[roleName].css)
-            });
+            userRoles.filter(roleName => data.roles[roleName]?.css).forEach(roleName => { userSpan.classList.add(data.roles[roleName].css) })
         }
         if (userdata.hasOwnProperty("tag")) {
             const tagSpan = username.appendChild(document.createElement("span"))
@@ -66,12 +64,12 @@ function addRow(data, parent, user, count) {
  * @return {Map<UserName, number>}
  */
 function calculateCounts(quotes) {
-    const quoteCount = new Map();
+    const quoteCount = new Map()
     quotes.forEach(element => {
         if (element) {
-            const number = quoteCount.has(element.user) ? quoteCount.get(element.user) : 0;
+            const number = quoteCount.has(element.user) ? quoteCount.get(element.user) : 0
             quoteCount.set(element.user, number + 1)
         }
-    });
+    })
     return new Map([...quoteCount.entries()].sort((a, b) => b[1] - a[1]))
 }
