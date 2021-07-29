@@ -124,6 +124,7 @@ function createQuote(data, number, quote) {
             tagSpan.innerHTML = userdata.tag
         }
 
+        // Forward focus events to popup container for user
         nameDiv.onfocus = () => document.getElementById("popup-container-" + user)?.focus({preventScroll:true})
     } else {
         userSpan.className = "non_user"

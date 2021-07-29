@@ -48,6 +48,7 @@ function addRow(data, parent, user, count) {
             tagSpan.innerHTML = userdata.tag
         }
 
+        // Forward focus events to popup container for user
         username.onfocus = () => document.getElementById("popup-container-" + user)?.focus({preventScroll:true})
     } else {
         userSpan.className = "non_user"
