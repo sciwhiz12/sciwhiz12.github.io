@@ -125,6 +125,7 @@ function createQuote(data, number, quote) {
         }
 
         // Forward focus events to popup container for user
+        avatar.onfocus = () => document.getElementById("popup-container-" + user)?.focus({preventScroll:true})
         nameDiv.onfocus = () => document.getElementById("popup-container-" + user)?.focus({preventScroll:true})
     } else {
         userSpan.className = "non_user"
