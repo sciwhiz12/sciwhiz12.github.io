@@ -33,7 +33,7 @@
             "id": "328214370964340746",
             "username": "diesieben07",
             "discriminator": "0714",
-            "avatar": "https://cdn.discordapp.com/avatars/328214370964340746/78da5f24f5c0d3759d9d15596558c086.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/328214370964340746/6ee3ab4dcff95f02ba792b326fdd2086.webp",
             "roles": ["triage"]
         },
         "Lex": {
@@ -99,7 +99,7 @@
             "id": "607058472709652501",
             "username": "sciwhiz12",
             "discriminator": "1286",
-            "nickname": "sciwhiz12@lemongradle # \uD83C\uDF4B",
+            "nickname": "sciwhiz12@whomst've %",
             "avatar": "https://cdn.discordapp.com/avatars/607058472709652501/82c6980d70f548a75bce0ff8eb7d0caa.webp",
             "roles": ["superhelper", "docs_triage", "retrogradle"]
         },
@@ -139,7 +139,6 @@
             "id": "145199140048076800",
             "username": "FinnT730",
             "discriminator": "3281",
-            "nickname": "FinnT730 [Æęœ]",
             "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/0a178b5f0e93ef5c850f63223e8ce59a.webp"
         },
         "Sydney": {
@@ -181,8 +180,8 @@
             "id": "718189714200330321",
             "username": "ravenbuilder934",
             "discriminator": "2021",
-            "nickname": "Raven's Lab",
-            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/d92b907a2806b3b16f8c3533278018ea.webp"
+            "nickname": "coke and toilet paper",
+            "avatar": "https://cdn.discordapp.com/avatars/718189714200330321/dcb951d0a901af8e977189f89ddfa356.webp"
         },
         "pupnewfster": {
             "id": "107837977081720832",
@@ -351,7 +350,7 @@
             "id": "225219846663700480",
             "username": "PlatinPython",
             "discriminator": "0815",
-            "avatar": "https://cdn.discordapp.com/avatars/225219846663700480/83eeeff65c606ef158b33de5f8f8b831.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/225219846663700480/014326d447cb34cf0e5e518fbafe74cc.webp"
         },
         "Technici4n": {
             "id": "298082405745426433",
@@ -371,7 +370,7 @@
             "id": "235958923205541888",
             "username": "senox13",
             "discriminator": "8134",
-            "nickname": "senox13 [Ping if you want]",
+            "nickname": "senox13 [she/her][pings welcome]",
             "avatar": "https://cdn.discordapp.com/avatars/235958923205541888/4cb90469c62a440f37070c892299e3fc.webp",
             "roles": ["superhelper"]
         },
@@ -413,6 +412,37 @@
             "username": "GiantLuigi4",
             "discriminator": "6616",
             "avatar": "https://cdn.discordapp.com/avatars/380845972441530368/3bfc80fafdce1c47ad2160745a2c8a36.webp"
+        },
+        "Su5eD": {
+            "id": "231057799596081152",
+            "username": "Su5eD",
+            "discriminator": "1165",
+            "avatar": "https://cdn.discordapp.com/avatars/231057799596081152/d3a25af6d04dd7c2b4d6b42db0e75eb1.webp"
+        },
+        "EERussianguy": {
+            "id": "166215075772760064",
+            "username": "EERussianguy",
+            "discriminator": "7691",
+            "avatar": "https://cdn.discordapp.com/avatars/166215075772760064/a02cd42fee915bd506419f205e412064.webp"
+        },
+        "legiblesleet827": {
+            "id": "848808992314884107",
+            "username": "legiblesleet827",
+            "discriminator": "7965",
+            "avatar": "https://cdn.discordapp.com/avatars/848808992314884107/08f15fbf186bf35b8eede325bb84f487.webp"
+        },
+        "zml": {
+            "id": "97139815404810240",
+            "username": "zml",
+            "discriminator": "2468",
+            "avatar": "https://cdn.discordapp.com/avatars/97139815404810240/a36f77482de81859148361c11483565d.webp"
+        },
+        "jriwanek": {
+            "id": "137690194718490624",
+            "username": "cyb3rkat",
+            "nickname": "Lady Catgirl Deadpool",
+            "discriminator": "8629",
+            "avatar": "https://cdn.discordapp.com/avatars/137690194718490624/c6c1f3812b60bcca76a74784e92186f8.webp"
         }
     },
     "roles": {
@@ -2621,7 +2651,7 @@
         },
         {
             "user": "Silk",
-            "text": "[where does time go?] It flies away on the fluttery wings of a butterfly of time while a melody plays in the background "
+            "text": "[where does time go?] It flies away on the fluttery wings of a butterfly of time while a melody plays in the background"
         },
         {
             "user": "FinnT730",
@@ -2953,7 +2983,7 @@
         },
         {
             "user": "AterAnimAvis",
-            "text": "It’s only the first CUM, its not boring ",
+            "text": "It’s only the first CUM, its not boring",
             "nsfw": true
         },
         {
@@ -3352,6 +3382,241 @@
         {
             "user": "Amethyst",
             "text": "like 20% of your quotes are gooky sooky yooky"
+        },
+        {
+            "user": "Su5eD",
+            "text": "Curle's on top"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "!quote -a 'Curle's on top - Su5eD'"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "aka <strong style=\"font-size: 115%\">SizableShirmp</strong>",
+            "text": "quotes are so bad"
+        },
+        {
+            "user": "illy",
+            "text": "I hate this language and I have no idea why I love it"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "I'm [...] a [...] old [...] tall [...] lady"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "I need [...] to beat shirmp"
+        },
+        {
+            "user": "FinnT730",
+            "text": "these eggs [...] are [...] horny people sometimes....",
+            "nsfw": true
+        },
+        {
+            "user": "Lex",
+            "text": "Genetically lucky people are evil"
+        },
+        {
+            "user": "AshersLab",
+            "text": "i'm assuming you have no legs"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Run"
+        },
+        {
+            "user": "dpeter99",
+            "text": "Ohh a but better"
+        },
+        {
+            "user": "diesieben07",
+            "text": "this is not the time for '<img class=\"emote\" src=\"https://discord.com/assets/6201503f3aa918470a2190b36d1e196f.svg\" alt=\":joy:\"/>'"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "mines better it has gore"
+        },
+        {
+            "user": "EERussianguy",
+            "text": "sorry as an end user it's required that I can't read"
+        },
+        {
+            "user": "AshersLab",
+            "text": "f*** off, it's long",
+            "nsfw": true
+        },
+        {
+            "user": "legiblesleet827",
+            "side_text": "quoting himself",
+            "text": "I guess this channel will have messages on how to setup 1.17 for the next few days lmao"
+        },
+        {
+            "user": "Saksham4106",
+            "text": "that's a cursed horny fox"
+        },
+        {
+            "user": "illy",
+            "text": "Buzz buzz <img class=\"emote\" src=\"https://discord.com/assets/81a553e7c02c5dd144e40888c4b2faad.svg\" alt=\":kissing_heart:\"/>"
+        },
+        {
+            "user": "fry",
+            "text": "Borking Wot"
+        },
+        {
+            "user": "Lex",
+            "text": "Clean code == win code."
+        },
+        {
+            "user": "zml",
+            "text": "society has moved beyond a need for the third dimension"
+        },
+        {
+            "user": "zml",
+            "text": "did giga get a new bedroom or something?"
+        },
+        {
+            "user": "Lex",
+            "text": "Jenkins being stupid. More specifically, Gradle being stupid"
+        },
+        {
+            "user": "legiblesleet827",
+            "side_text": "quoting himself",
+            "text": "the clothes don't make the man lmao"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "I can do it if Curle wants me to"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "oh yeah one sec I'll just wipe my ass with some coke",
+            "nsfw": true
+        },
+        {
+            "user": "Silk",
+            "text": "If you have huge kids, then that's a problem"
+        },
+        {
+            "user": "gigaherz",
+            "text": "I'm supposed to know my shit too"
+        },
+        {
+            "user": "FinnT730",
+            "side_text": "when asked whether his picture was his toe",
+            "text": "Thump"
+        },
+        {
+            "user": "FinnT730",
+            "text": "It ain't a spider... It was Asher's face instead"
+        },
+        {
+            "user": "AshersLab",
+            "text": "but let's not look like a bunch of assholes xD"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "yes I am stealing a child named jackson"
+        },
+        {
+            "user": "Silk",
+            "text": "Are there sex toys?",
+            "nsfw": true
+        },
+        {
+            "user": "jriwanek",
+            "text": "#He'sNotTheMessiahHe'sAVeryNaughtyBoy"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "OwO"
+        },
+        {
+            "user": "AshersLab",
+            "text": "your face sucks",
+            "nsfw": true
+        },
+        {
+            "user": "jriwanek",
+            "text": "Beats a penis flytrap",
+            "nsfw": true
+        },
+        {
+            "user": "AshersLab",
+            "text": "go harvest some babies"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "hey if we keep ashers laughing long enough he'll die and we'll be rid of him"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "to <strong style=\"font-size: 115%\">Raven</strong>",
+            "text": "you'll never be atop me"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i'm the quote dominatrix of this server"
+        },
+        {
+            "user": "jriwanek",
+            "text": "Look, I'm watching smurff porn, OKAY?",
+            "nsfw": true
+        },
+        {
+            "user": "OakBricks",
+            "text": "how rip off tits",
+            "nsfw": true
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "random take your coherency out of here"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "do i <i>fuck</i> the IRS? no not yet",
+            "nsfw": true
+        },
+        {
+            "user": "AshersLab",
+            "text": "RIP CurlieWurlie 2021, [...] Slapped to death"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "what does thos have to do wirh ni thpigh"
+        },
+        {
+            "user": "Maci",
+            "text": "....you want me to our condoms on my arrows?",
+            "nsfw": true
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "aka <strong style=\"font-size: 115%\">SizableShirmp</strong>",
+            "text": "something something twerking"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "aka <strong style=\"font-size: 115%\">SizableShirmp</strong>",
+            "text": "or maybe it requires the cock nibbler image",
+            "nsfw": true
+        },
+        {
+            "user": "Amethyst",
+            "text": "Shrimp I'll cut a bitch"
+        },
+        {
+            "user": "Maci",
+            "text": "If you want the spinning foxes in your emoji/sticker box, contact your local Fox Rotator"
+        },
+        {
+            "user": "Amethyst",
+            "text": "you want suck, i can give you suck"
+        },
+        {
+            "user": "AshersLab",
+            "text": "Illy ANAL",
+            "nsfw": true
         }
     ]
 }
