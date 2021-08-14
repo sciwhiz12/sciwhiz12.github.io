@@ -19,7 +19,7 @@
             "username": "fry",
             "discriminator": "1522",
             "avatar": "https://cdn.discordapp.com/avatars/104559614472765440/f13d4999012e583e1353aac80c2e7c17.webp",
-            "roles": ["triage", "collaborator", "problem"]
+            "roles": ["collaborator", "problem"]
         },
         "illy": {
             "id": "113392954206347264",
@@ -138,8 +138,9 @@
         "FinnT730": {
             "id": "145199140048076800",
             "username": "FinnT730",
+            "nickname": "FInnT730 [Fonn]",
             "discriminator": "3281",
-            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/0a178b5f0e93ef5c850f63223e8ce59a.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/922933aa58d8c6a4def4d6298db8213d.webp"
         },
         "Sydney": {
             "id": "163490961253466112",
@@ -168,7 +169,7 @@
             "id": "311833206423027712",
             "username": "ByteLaw",
             "discriminator": "6969",
-            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_5e605db73de1805f1f22ca00f68758f8.gif"
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_075d00216c808e239a0a939ec06cc9ff.gif"
         },
         "Rosolnatka": {
             "id": "471661725096345602",
@@ -221,7 +222,7 @@
             "id": "202247953321033729",
             "username": "RobotGryphon",
             "discriminator": "0001",
-            "nickname": "Nano",
+            "nickname": "Nano \uD83D\uDD07",
             "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/604e8720ee9364870fa763312fcf758f.webp",
             "roles": ["nitro"]
         },
@@ -248,7 +249,6 @@
             "id": "132855438835318784",
             "username": "dpeter99",
             "discriminator": "0001",
-            "nickname": "dpeter99 kernel bug finder [<img class=\"emote\" src=\"https://discord.com/assets/6201ff6add4821014e02cfc1bc82fc95.svg\" alt=\":bell:\"/>]",
             "avatar": "https://cdn.discordapp.com/avatars/132855438835318784/698015e294cb77eb3219e8932b0a66a9.webp",
             "roles": ["patreon"]
         },
@@ -298,7 +298,7 @@
             "username": "SizableShrimp",
             "discriminator": "0755",
             "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/adfff23286d1004a87196e368d94afc4.webp",
-            "roles": ["triage", "retrogradle"]
+            "roles": ["retrogradle","not_triage"]
         },
         "AterAnimAvis": {
             "id": "581411867575189504",
@@ -317,7 +317,7 @@
             "id": "472454599324860416",
             "username": "Quartz",
             "discriminator": "0046",
-            "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/61b67c7c938dabe958e01854de1eaf5c.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/fba7df23f3b81146d90f6b38fc6d2bde.webp"
         },
         "AwesomeSyd239": {
             "id": "200822679018668032",
@@ -337,7 +337,7 @@
             "id": "805312666830372894",
             "username": "krit",
             "discriminator": "8288",
-            "avatar": "https://cdn.discordapp.com/avatars/805312666830372894/4df3824a4c2861397a659885907efb1c.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/805312666830372894/fec2161a94d9e5084bb89c38a35d0a14.webp"
         },
         "Budschie": {
             "id": "684441347238789121",
@@ -363,7 +363,7 @@
             "username": "Eti",
             "discriminator": "1760",
             "nickname": "Eti (Ping+DM OK)",
-            "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/360da61a9a56f965a48e6a3ce8d7cc17.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/14b4c534254f045d23c36124e5449e61.webp",
             "roles": ["usd25", "patreon"]
         },
         "senox13": {
@@ -378,7 +378,7 @@
             "id": "295948838827589632",
             "username": "Maci",
             "discriminator": "2345",
-            "nickname": "Fox Rotator Maci",
+            "nickname": "Maci, Rotator of Foxes",
             "avatar": "https://cdn.discordapp.com/avatars/295948838827589632/4bf7421dc0a6b553dd461881bf89a0c0.webp"
         },
         "Unbekannt": {
@@ -398,8 +398,9 @@
         "OakBricks": {
             "id": "453612740377051156",
             "username": "OakBricks",
+            "nickname": "thonkman [he/him] [no ping pls]",
             "discriminator": "9905",
-            "avatar": "https://cdn.discordapp.com/avatars/453612740377051156/0c41bb12935026565f428326078b9c50.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/453612740377051156/0e9b255036bb0784ebab177209fc89ed.webp"
         },
         "Mysticdrew": {
             "id": "147851226439090176",
@@ -541,6 +542,10 @@
         "fun": {
             "color": "#61b487",
             "name": "FUN"
+        },
+        "not_triage": {
+            "color": "#B9BBBE",
+            "name": "Not Triage"
         }
     },
     "quotes": [
