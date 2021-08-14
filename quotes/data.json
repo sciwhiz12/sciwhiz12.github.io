@@ -443,6 +443,32 @@
             "nickname": "Lady Catgirl Deadpool",
             "discriminator": "8629",
             "avatar": "https://cdn.discordapp.com/avatars/137690194718490624/c6c1f3812b60bcca76a74784e92186f8.webp"
+        },
+        "LagoCraft": {
+            "id": "460759588300521472",
+            "username": "LagoCraft",
+            "nickname": "LagoCraft.zip.zip (NonSlabLab)",
+            "discriminator": "2862",
+            "avatar": "https://cdn.discordapp.com/avatars/460759588300521472/1125bab725152ebe599b2f7f0ab8d00e.webp"
+        },
+        "stepsword": {
+            "id": "341220903058931712",
+            "username": "stepsword",
+            "discriminator": "6061",
+            "avatar": "https://cdn.discordapp.com/avatars/341220903058931712/fb4ce38c8347a3f99380366bbc1b088b.webp"
+        },
+        "DolphinTech": {
+            "id": "289405838286651402",
+            "username": "DolphinTech",
+            "discriminator": "5547",
+            "avatar": "https://cdn.discordapp.com/avatars/289405838286651402/6bfb8d5756f6575dd357c1be97e1693e.webp"
+        },
+        "ProxyNeko": {
+            "id": "141990014346199040",
+            "username": "ProxyNeko",
+            "nickname": "Ver Cattus",
+            "discriminator": "3779",
+            "avatar": "https://cdn.discordapp.com/avatars/141990014346199040/1f99c9249d0ba82666445a722daa272f.webp"
         }
     },
     "roles": {
@@ -3617,6 +3643,207 @@
             "user": "AshersLab",
             "text": "Illy ANAL",
             "nsfw": true
+        },
+        {
+            "user": "LagoCraft",
+            "text": "i am at 0"
+        },
+        {
+            "user": "RobotGryphon",
+            "text": "Hey I'm not wise, you gotta delete that quote now"
+        },
+        {
+            "user": "stepsword",
+            "text": "ModelPart.Cube's constructor is like code salad"
+        },
+        {
+            "user": "dpeter99",
+            "text": "You are high cause you are not underground"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "Peter has tits?"
+        },
+        {
+            "user": "OakBricks",
+            "text": "spaghetti boiled in blood"
+        },
+        {
+            "user": "dpeter99",
+            "text": "CURLE YOU PIECE"
+        },
+        {
+            "user": "Silk",
+            "text": "What's wrong with my thing?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I have the fucking hammer"
+        },
+        {
+            "user": "OakBricks",
+            "text": "no it's the <strong>condom burse</strong>"
+        },
+        {
+            "user": "FinnT730",
+            "text": "I was told to suck <mention>@CurlieWurlie</mention>"
+        },
+        {
+            "user": "OakBricks",
+            "text": "cocaine poptart lol"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "I'm not watching that. I, uh, don't have my earbuds in! Yeah! throws earbuds across room"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "what's wrong with ball sucking at wendy's"
+        },
+        {
+            "user": "AshersLab",
+            "text": "you guys weren't high on quotes yet"
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "17 is the dream"
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "Phew crisis averted [...] No one will focus on making my phrase a quote now"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I did a hurty"
+        },
+        {
+            "user": "OakBricks",
+            "text": " ~ i— i— i have commited s— s— serval war crime snepai UwU ~"
+        },
+        {
+            "user": "Maci",
+            "text": "Snort the police. Run away from the Dealer. Buy from the coke."
+        },
+        {
+            "user": "Maci",
+            "text": "so...balls are slow"
+        },
+        {
+            "user": "OakBricks",
+            "side_text": "aka <strong style=\"font-size: 115%\">snek</strong>",
+            "text": "did you know: hitler breathed oxygen"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "Join us Sci, we're reaching peak fluid climax"
+        },
+        {
+            "user": "DolphinTech",
+            "text": "the frustum causes frustration"
+        },
+        {
+            "user": "gigaherz",
+            "text": "yeah I didn't realize this was so far beyond XY, that it had turned into an XYZ situation"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "We realized IMAX wasn't immersive enough, so now you have a fat guy spraying you with sweat whenever a guy in new york passes the main character on the street"
+        },
+        {
+            "user": "illy",
+            "text": "make your own mapper called blackjack and hookers"
+        },
+        {
+            "user": "zml",
+            "text": "curle does know her memes"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Come and fly over, and we will see if we fuck or not"
+        },
+        {
+            "user": "Amethyst",
+            "text": "In your .mimecraft folder..."
+        },
+        {
+            "user": "CJDaBomb",
+            "side_text": "trying to call <strong style=\"font-size: 115%\">Ashers</strong> an idiot",
+            "text": "Idot"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "asshat"
+        },
+        {
+            "user": "ProxyNeko",
+            "side_text": "about <strong style=\"font-size: 115%\">Ashers</strong>",
+            "text": "[...]you seem logical and correct[...]"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Curlsed</strong>",
+            "text": "dik throbb [...] my favorite"
+        },
+        {
+            "user": "AshersLab",
+            "text": "skyjizz"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i was wondering how much money that dude gets paid per dick"
+        },
+        {
+            "user": "ProxyNeko",
+            "text": "Thought this said \"sugar cookie tits\", got excited there"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I've acquired an aaafaaaaa"
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "Who wouldn't want to be Canadian"
+        },
+        {
+            "user": "LagoCraft",
+            "side_text": "aka <strong style=\"font-size: 115%\">Bohdan</strong>",
+            "text": "Do you think you will go faster in water slide if you use lube as Water ? <img class=\"emote\" src=\"https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg\" alt=\":thinking:\"/>"
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "Higher than everyone"
+        },
+        {
+            "user": "PlatinPython",
+            "text": "CUM is the thing Curle did"
+        },
+        {
+            "user": "AshersLab",
+            "text": "who the hell wears pants in bed"
+        },
+        {
+            "user": "Amethyst",
+            "text": "it's my slapping zone"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "balls don't sag"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "dragonglass for the dragonlass, famed giver of dragonsass"
+        },
+        {
+            "user": "illy",
+            "text": "im knees deep in vulkan right now I don't have the mind space for your jokes"
+        },
+        {
+            "user": "AshersLab",
+            "text": "dooners are thick"
+        },
+        {
+            "user": "diesieben07",
+            "text": "can't find a squirrel in a canoe, I am sorry"
         }
     ]
 }
