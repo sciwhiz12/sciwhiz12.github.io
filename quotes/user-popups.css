@@ -17,10 +17,10 @@
 }
 
 .collapse:focus>.popup {
-    transition: 0.2s;
+    transition: 0.4s;
     opacity: 1;
     pointer-events: unset;
-    left: 8vw;
+    top: 50%;
 }
 
 .popup {
@@ -36,8 +36,8 @@
     font-family: Whitney, 'Helvetica Neue', Helvetica, Arial, sans-serif;
     line-height: 1.375rem;
     font-size: 1rem;
-    left: 6vw;
-    top: 50%;
+    left: calc(50% - 125px);
+    top: 55%;
     transform: translate(0, -50%);
     width: 250px;
     padding-top: 20px;

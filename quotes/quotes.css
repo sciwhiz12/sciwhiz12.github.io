@@ -131,13 +131,6 @@ p {
     left: 50%
 }
 
-.popup {
-    position: fixed;
-    top: 50%;
-    left: 52%;
-    transform: translate(-50%, -50%);
-}
-
 .meta-text {
     font-style: oblique;
     color: #ddd;

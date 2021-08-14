@@ -1,27 +1,28 @@
 fetch("data.json")
     .then(req => req.json())
-    .then(data => {
-        const container = document.getElementById("quotes")
-        var roles = parseRoles(data.roles)
+    .then(/** @param {QuoteData} data */ data => {
+        document.body.appendChild(parseRoles(data.roles))
+        createPopups(data)
 
-        var quotes = data.quotes
-        for (let i = 0; i < quotes.length; i++) {
-            const quote = quotes[i];
-            if (!quote || !quote.user) {
-                container.appendChild(createNoQuote(i + 1))
-            } else {
-                container.appendChild(createQuote(data, roles, i + 1, quote))
-            }
-        }
+        const container = document.getElementById("quotes")
+        const root = document.createDocumentFragment()
+
+        data.quotes.forEach((quote, index) => {
+            const quoteNumber = index + 1
+            root.appendChild((!quote || !quote.user)
+                ? createNoQuote(quoteNumber)
+                : createQuote(data, quoteNumber, quote)
+            )
+        })
+
+        container.appendChild(root)
 
         const counts = document.getElementsByClassName("count")
         for (let i = 0; i < counts.length; i++) {
-            counts[i].addEventListener("click", ev => {
-                removeAllHovers()
-            })
+            counts[i].addEventListener("click", () => removeAllHovers())
         }
 
-        var id = window.location.hash
+        const id = window.location.hash
         removeAllHovers()
         if (id && id.length) {
             const element = document.getElementById(id.substr(1))
@@ -39,19 +40,23 @@ fetch("data.json")
         throw err
     })
 
-window.addEventListener("hashchange", ev => { removeAllHovers() })
+window.addEventListener("hashchange", () => removeAllHovers())
 
 function removeAllHovers() {
     const elements = document.getElementsByClassName("hover")
     for (let i = 0; i < elements.length; i++) {
-        elements[i].classList.remove("hover");
+        elements[i].classList.remove("hover")
     }
 }
 
+/**
+ * @param {number} number
+ * @return {HTMLDivElement}
+ */
 function createNoQuote(number) {
     const quoteDiv = document.createElement("div")
     quoteDiv.className = "quote"
-    quoteDiv.id = number
+    quoteDiv.id = String(number)
 
     const numberElement = quoteDiv.appendChild(document.createElement("a"))
     numberElement.className = "count"
@@ -67,23 +72,25 @@ function createNoQuote(number) {
     metaText.className = "meta-text"
     metaText.innerText = "Quote does not exist."
 
-    return quoteDiv;
+    return quoteDiv
 }
 
-function createQuote(data, roles, number, quote) {
+/**
+ * @param {QuoteData} data
+ * @param {number} number
+ * @param {Quote} quote
+ * @return {HTMLDivElement}
+ */
+function createQuote(data, number, quote) {
     const user = quote.user
     const text = quote.text
-    var userdata = null
-    if (data.users.hasOwnProperty(user)) {
-        userdata = data.users[user]
-    }
+    const userdata = data.users.hasOwnProperty(user) ? data.users[user] : null
 
     const quoteDiv = document.createElement("div")
     quoteDiv.className = "quote"
-    if (quote.hasOwnProperty("nsfw") && quote.nsfw) {
-        quoteDiv.classList.add("nsfw")
-    }
-    quoteDiv.id = number
+    if (quote.hasOwnProperty("nsfw") && quote.nsfw) quoteDiv.classList.add("nsfw")
+
+    quoteDiv.id = String(number)
 
     const numberElement = quoteDiv.appendChild(document.createElement("a"))
     numberElement.className = "count"
@@ -109,11 +116,7 @@ function createQuote(data, roles, number, quote) {
     if (userdata) {
         const userRoles = userdata.roles
         if (userRoles && userRoles.length > 0) {
-            userRoles.forEach(roleName => {
-                if (roles[roleName]?.css) {
-                    userSpan.classList.add(roles[roleName].css)
-                }
-            });
+            userRoles.filter(roleName => data.roles[roleName]?.css).forEach(roleName => { userSpan.classList.add(data.roles[roleName].css) })
         }
         if (userdata.hasOwnProperty("tag")) {
             const tagSpan = nameDiv.appendChild(document.createElement("span"))
@@ -121,7 +124,9 @@ function createQuote(data, roles, number, quote) {
             tagSpan.innerHTML = userdata.tag
         }
 
-        content.appendChild(createPopup(user, roles, userdata))
+        // Forward focus events to popup container for user
+        avatar.onfocus = () => document.getElementById("popup-container-" + user)?.focus({preventScroll:true})
+        nameDiv.onfocus = () => document.getElementById("popup-container-" + user)?.focus({preventScroll:true})
     } else {
         userSpan.className = "non_user"
     }
