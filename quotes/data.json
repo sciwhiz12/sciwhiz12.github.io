@@ -19,7 +19,7 @@
             "username": "fry",
             "discriminator": "1522",
             "avatar": "https://cdn.discordapp.com/avatars/104559614472765440/f13d4999012e583e1353aac80c2e7c17.webp",
-            "roles": ["triage", "collaborator", "problem"]
+            "roles": ["collaborator", "problem"]
         },
         "illy": {
             "id": "113392954206347264",
@@ -138,8 +138,9 @@
         "FinnT730": {
             "id": "145199140048076800",
             "username": "FinnT730",
+            "nickname": "FInnT730 [Fonn]",
             "discriminator": "3281",
-            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/0a178b5f0e93ef5c850f63223e8ce59a.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/145199140048076800/922933aa58d8c6a4def4d6298db8213d.webp"
         },
         "Sydney": {
             "id": "163490961253466112",
@@ -168,7 +169,7 @@
             "id": "311833206423027712",
             "username": "ByteLaw",
             "discriminator": "6969",
-            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_5e605db73de1805f1f22ca00f68758f8.gif"
+            "avatar": "https://cdn.discordapp.com/avatars/311833206423027712/a_075d00216c808e239a0a939ec06cc9ff.gif"
         },
         "Rosolnatka": {
             "id": "471661725096345602",
@@ -221,7 +222,7 @@
             "id": "202247953321033729",
             "username": "RobotGryphon",
             "discriminator": "0001",
-            "nickname": "Nano",
+            "nickname": "Nano \uD83D\uDD07",
             "avatar": "https://cdn.discordapp.com/avatars/202247953321033729/604e8720ee9364870fa763312fcf758f.webp",
             "roles": ["nitro"]
         },
@@ -248,7 +249,6 @@
             "id": "132855438835318784",
             "username": "dpeter99",
             "discriminator": "0001",
-            "nickname": "dpeter99 kernel bug finder [<img class=\"emote\" src=\"https://discord.com/assets/6201ff6add4821014e02cfc1bc82fc95.svg\" alt=\":bell:\"/>]",
             "avatar": "https://cdn.discordapp.com/avatars/132855438835318784/698015e294cb77eb3219e8932b0a66a9.webp",
             "roles": ["patreon"]
         },
@@ -298,7 +298,7 @@
             "username": "SizableShrimp",
             "discriminator": "0755",
             "avatar": "https://cdn.discordapp.com/avatars/277525077669445632/adfff23286d1004a87196e368d94afc4.webp",
-            "roles": ["triage", "retrogradle"]
+            "roles": ["retrogradle","not_triage"]
         },
         "AterAnimAvis": {
             "id": "581411867575189504",
@@ -317,7 +317,7 @@
             "id": "472454599324860416",
             "username": "Quartz",
             "discriminator": "0046",
-            "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/61b67c7c938dabe958e01854de1eaf5c.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/472454599324860416/fba7df23f3b81146d90f6b38fc6d2bde.webp"
         },
         "AwesomeSyd239": {
             "id": "200822679018668032",
@@ -337,7 +337,7 @@
             "id": "805312666830372894",
             "username": "krit",
             "discriminator": "8288",
-            "avatar": "https://cdn.discordapp.com/avatars/805312666830372894/4df3824a4c2861397a659885907efb1c.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/805312666830372894/fec2161a94d9e5084bb89c38a35d0a14.webp"
         },
         "Budschie": {
             "id": "684441347238789121",
@@ -363,7 +363,7 @@
             "username": "Eti",
             "discriminator": "1760",
             "nickname": "Eti (Ping+DM OK)",
-            "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/360da61a9a56f965a48e6a3ce8d7cc17.webp",
+            "avatar": "https://cdn.discordapp.com/avatars/114163433980559366/14b4c534254f045d23c36124e5449e61.webp",
             "roles": ["usd25", "patreon"]
         },
         "senox13": {
@@ -378,7 +378,7 @@
             "id": "295948838827589632",
             "username": "Maci",
             "discriminator": "2345",
-            "nickname": "Fox Rotator Maci",
+            "nickname": "Maci, Rotator of Foxes",
             "avatar": "https://cdn.discordapp.com/avatars/295948838827589632/4bf7421dc0a6b553dd461881bf89a0c0.webp"
         },
         "Unbekannt": {
@@ -398,8 +398,9 @@
         "OakBricks": {
             "id": "453612740377051156",
             "username": "OakBricks",
+            "nickname": "thonkman [he/him] [no ping pls]",
             "discriminator": "9905",
-            "avatar": "https://cdn.discordapp.com/avatars/453612740377051156/0c41bb12935026565f428326078b9c50.webp"
+            "avatar": "https://cdn.discordapp.com/avatars/453612740377051156/0e9b255036bb0784ebab177209fc89ed.webp"
         },
         "Mysticdrew": {
             "id": "147851226439090176",
@@ -443,6 +444,32 @@
             "nickname": "Lady Catgirl Deadpool",
             "discriminator": "8629",
             "avatar": "https://cdn.discordapp.com/avatars/137690194718490624/c6c1f3812b60bcca76a74784e92186f8.webp"
+        },
+        "LagoCraft": {
+            "id": "460759588300521472",
+            "username": "LagoCraft",
+            "nickname": "LagoCraft.zip.zip (NonSlabLab)",
+            "discriminator": "2862",
+            "avatar": "https://cdn.discordapp.com/avatars/460759588300521472/1125bab725152ebe599b2f7f0ab8d00e.webp"
+        },
+        "stepsword": {
+            "id": "341220903058931712",
+            "username": "stepsword",
+            "discriminator": "6061",
+            "avatar": "https://cdn.discordapp.com/avatars/341220903058931712/fb4ce38c8347a3f99380366bbc1b088b.webp"
+        },
+        "DolphinTech": {
+            "id": "289405838286651402",
+            "username": "DolphinTech",
+            "discriminator": "5547",
+            "avatar": "https://cdn.discordapp.com/avatars/289405838286651402/6bfb8d5756f6575dd357c1be97e1693e.webp"
+        },
+        "ProxyNeko": {
+            "id": "141990014346199040",
+            "username": "ProxyNeko",
+            "nickname": "Ver Cattus",
+            "discriminator": "3779",
+            "avatar": "https://cdn.discordapp.com/avatars/141990014346199040/1f99c9249d0ba82666445a722daa272f.webp"
         }
     },
     "roles": {
@@ -515,6 +542,10 @@
         "fun": {
             "color": "#61b487",
             "name": "FUN"
+        },
+        "not_triage": {
+            "color": "#B9BBBE",
+            "name": "Not Triage"
         }
     },
     "quotes": [
@@ -3617,6 +3648,219 @@
             "user": "AshersLab",
             "text": "Illy ANAL",
             "nsfw": true
+        },
+        {
+            "user": "LagoCraft",
+            "text": "i am at 0"
+        },
+        {
+            "user": "RobotGryphon",
+            "text": "Hey I'm not wise, you gotta delete that quote now"
+        },
+        {
+            "user": "stepsword",
+            "text": "ModelPart.Cube's constructor is like code salad"
+        },
+        {
+            "user": "dpeter99",
+            "text": "You are high cause you are not underground"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "Peter has tits?",
+            "nsfw": true
+        },
+        {
+            "user": "OakBricks",
+            "text": "spaghetti boiled in blood"
+        },
+        {
+            "user": "dpeter99",
+            "text": "CURLE YOU PIECE"
+        },
+        {
+            "user": "Silk",
+            "text": "What's wrong with my thing?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I have the fucking hammer"
+        },
+        {
+            "user": "OakBricks",
+            "text": "no it's the <strong>condom burse</strong>",
+            "nsfw": true
+        },
+        {
+            "user": "FinnT730",
+            "text": "I was told to suck <mention>@CurlieWurlie</mention>"
+        },
+        {
+            "user": "OakBricks",
+            "text": "cocaine poptart lol"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "I'm not watching that. I, uh, don't have my earbuds in! Yeah! throws earbuds across room"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "what's wrong with ball sucking at wendy's",
+            "nsfw": true
+        },
+        {
+            "user": "AshersLab",
+            "text": "you guys weren't high on quotes yet"
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "17 is the dream"
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "Phew crisis averted [...] No one will focus on making my phrase a quote now"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I did a hurty"
+        },
+        {
+            "user": "OakBricks",
+            "text": " ~ i— i— i have commited s— s— serval war crime snepai UwU ~"
+        },
+        {
+            "user": "Maci",
+            "text": "Snort the police. Run away from the Dealer. Buy from the coke."
+        },
+        {
+            "user": "Maci",
+            "text": "so...balls are slow"
+        },
+        {
+            "user": "OakBricks",
+            "side_text": "aka <strong style=\"font-size: 115%\">snek</strong>",
+            "text": "did you know: hitler breathed oxygen"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "Join us Sci, we're reaching peak fluid climax",
+            "nsfw": true
+        },
+        {
+            "user": "DolphinTech",
+            "text": "the frustum causes frustration"
+        },
+        {
+            "user": "gigaherz",
+            "text": "yeah I didn't realize this was so far beyond XY, that it had turned into an XYZ situation"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "We realized IMAX wasn't immersive enough, so now you have a fat guy spraying you with sweat whenever a guy in new york passes the main character on the street"
+        },
+        {
+            "user": "illy",
+            "text": "make your own mapper called blackjack and hookers"
+        },
+        {
+            "user": "zml",
+            "text": "curle does know her memes"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Come and fly over, and we will see if we fuck or not",
+            "nsfw": true
+        },
+        {
+            "user": "Amethyst",
+            "text": "In your .mimecraft folder..."
+        },
+        {
+            "user": "CJDaBomb",
+            "side_text": "trying to call <strong style=\"font-size: 115%\">Ashers</strong> an idiot",
+            "text": "Idot"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "asshat"
+        },
+        {
+            "user": "ProxyNeko",
+            "side_text": "about <strong style=\"font-size: 115%\">Ashers</strong>",
+            "text": "[...]you seem logical and correct[...]"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Curlsed</strong>",
+            "text": "dik throbb [...] my favorite",
+            "nsfw": true
+        },
+        {
+            "user": "AshersLab",
+            "text": "skyjizz",
+            "nsfw": true
+        },
+        {
+            "user": "Amethyst",
+            "text": "i was wondering how much money that dude gets paid per dick",
+            "nsfw": true
+        },
+        {
+            "user": "ProxyNeko",
+            "text": "Thought this said \"sugar cookie tits\", got excited there",
+            "nsfw": true
+        },
+        {
+            "user": "Amethyst",
+            "text": "I've acquired an aaafaaaaa"
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "Who wouldn't want to be Canadian"
+        },
+        {
+            "user": "LagoCraft",
+            "side_text": "aka <strong style=\"font-size: 115%\">Bohdan</strong>",
+            "text": "Do you think you will go faster in water slide if you use lube as Water ? <img class=\"emote\" src=\"https://discord.com/assets/263a7f4eeb6f69e46d969fa479188592.svg\" alt=\":thinking:\"/>",
+            "nsfw": true
+        },
+        {
+            "user": "CJDaBomb",
+            "text": "Higher than everyone"
+        },
+        {
+            "user": "PlatinPython",
+            "text": "CUM is the thing Curle did",
+            "nsfw": true
+        },
+        {
+            "user": "AshersLab",
+            "text": "who the hell wears pants in bed"
+        },
+        {
+            "user": "Amethyst",
+            "text": "it's my slapping zone"
+        },
+        {
+            "user": "ravenbuilder934",
+            "text": "balls don't sag",
+            "nsfw": true
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "dragonglass for the dragonlass, famed giver of dragonsass"
+        },
+        {
+            "user": "illy",
+            "text": "im knees deep in vulkan right now I don't have the mind space for your jokes"
+        },
+        {
+            "user": "AshersLab",
+            "text": "dooners are thick"
+        },
+        {
+            "user": "diesieben07",
+            "text": "can't find a squirrel in a canoe, I am sorry"
         }
     ]
 }
