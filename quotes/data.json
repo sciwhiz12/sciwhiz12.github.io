@@ -483,6 +483,64 @@
             "username": "Monica",
             "discriminator": "0005",
             "avatar": "https://cdn.discordapp.com/avatars/81062087257755648/21cfc53aee5b2675a8a474fd28944c60.webp"
+        },
+        "TimePath": {
+            "id": "313241190302482433",
+            "username": "TimePath",
+            "discriminator": "5689",
+            "avatar": "https://cdn.discordapp.com/avatars/313241190302482433/957c1d53c893b60f8515b5b1014810b3.webp"
+        },
+        "Shadows": {
+            "id": "171447165128802316",
+            "username": "Shadows",
+            "discriminator": "1118",
+            "avatar": "https://cdn.discordapp.com/avatars/171447165128802316/8cce929dfbf21655c4f40c1619b959bd.webp"
+        },
+        "UB": {
+            "id": "105806194563665920",
+            "username": "ApplyFireToBurn",
+            "nickname": "UndefinedBHVR",
+            "discriminator": "0137",
+            "avatar": "https://cdn.discordapp.com/avatars/105806194563665920/18060669ecae8ae2939173d158028274.webp"
+        },
+        "uSkizzik": {
+            "id": "814738778509279262",
+            "username": "uSkizzik",
+            "nickname": "Yggdrasil.pingable(true)",
+            "discriminator": "3576",
+            "avatar": "https://cdn.discordapp.com/avatars/814738778509279262/f54efde1039ac4945bc3d76896d7e766.webp"
+        },
+        "GreenGrassIsGreen": {
+            "id": "745082609293328387",
+            "username": "GreenGrassIsGreen",
+            "discriminator": "7516",
+            "__TODO": "Non Assets Link for Avatar",
+            "avatar": "https://discord.com/assets/c09a43a372ba81e3018c3151d4ed4773.png"
+        },
+        "modding_2": {
+            "id": "862302529756463154",
+            "username": "modding_2",
+            "discriminator": "2777",
+            "avatar": "https://cdn.discordapp.com/avatars/862302529756463154/27cac534d36d5d133566a501be4ca2e9.webp"
+        },
+        "Systemless": {
+            "id": "196683878935560192",
+            "username": "Systemless",
+            "discriminator": "0001",
+            "avatar": "https://cdn.discordapp.com/avatars/196683878935560192/e2f42c3812e15db176e014684a63392c.webp"
+        },
+        "sibomots": {
+            "id": "284021862328041472",
+            "username": "sibomots",
+            "discriminator": "7978",
+            "avatar": "https://cdn.discordapp.com/avatars/284021862328041472/da053ec37e89044ebedb7d2bcff3ac40.webp"
+        },
+        "MissingTexture": {
+            "id": "348349452559319040",
+            "username": "tmvkrpxl0",
+            "nickname": "MissingTexture(ping=true)",
+            "discriminator": "6942",
+            "avatar": "https://cdn.discordapp.com/avatars/348349452559319040/4408426574531c9b6b9a80237771f04a.webp"
         }
     },
     "roles": {
@@ -3975,6 +4033,788 @@
             "user": "Silk",
             "side_text": "to <strong style=\"font-size: 115%\">Curle</strong>",
             "text": "I would gladly fuck"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "curle I would like to preserve my balls"
+        },
+        {
+            "user": "illy",
+            "text": "I'm a developer, not most people"
+        },
+        {
+            "user": "diesieben07",
+            "text": "Privacy is not supported on this forum in any way."
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "aka <strong style=\"font-size: 115%\">shirmp</strong>",
+            "text": "forge auto completing kangaroo?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "4333333kjilvbnh0-=g"
+        },
+        {
+            "user": "Sydney",
+            "text": "Let's start a banana cult"
+        },
+        {
+            "user": "FinnT730",
+            "text": "no one bloody quote that"
+        },
+        {
+            "user": "FinnT730",
+            "text": "well you see Illy.... if you are a Finn.... you have a worse memory then a goldfish on steroids"
+        },
+        {
+            "user": "Amethyst",
+            "text": "hmm, it looks like my time machine may be faulty"
+        },
+        {
+            "user": "Amethyst",
+            "text": "<mention>@TimePath</mention> is a fucking legend, let it be known."
+        },
+        {
+            "user": "TimePath",
+            "text": "If you decide not to delete, you get time travel for free"
+        },
+        {
+            "user": "Shadows",
+            "text": "there's no coremods! It's just horrible copypasta"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Look ma, i'm on <del>TV</del> some amateur's computerised reconstruction of a physical environment which happens to contain a digital representation of my online pseudonym!"
+        },
+        {
+            "user": "Amethyst",
+            "text": "however i'm willing to implement time travel if you'd like"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Oh I have several tanks of various gases"
+        },
+        {
+            "user": "Maci",
+            "side_text": "aka <strong style=\"font-size: 115%\">Rotator of Foxes</strong>",
+            "text": "I'm becoming my mom"
+        },
+        {
+            "user": "AshersLab",
+            "text": "Curle can haunt me all she wants"
+        },
+        {
+            "user": "FinnT730",
+            "text": "just throw a airplane at her during class"
+        },
+        {
+            "user": "Amethyst",
+            "text": "There's no word in the English language to describe my simultaneous gratitude and infuriation here"
+        },
+        {
+            "user": "dpeter99",
+            "text": "Changing minds while the host is running is not a supported operation"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "You crotch IRL"
+        },
+        {
+            "user": "UB",
+            "text": "Curlie is like when your mother tells you 'its in your drawer', and you say 'no it isn't', then she looks and it is in your drawer"
+        },
+        {
+            "user": "Paint_Ninja",
+            "text": "I wonder what gigatits or cURL would have to say about making your own jvm compiled language... <img class=\"emote\" src=\"https://twemoji.maxcdn.com/svg/1f914.svg\" alt=\":thinking:\"/>"
+        },
+        {
+            "user": "AshersLab",
+            "text": "yeah we've typoed it to BDSM many times"
+        },
+        {
+            "user": "Silk",
+            "text": "Dude, sex is as needed as money"
+        },
+        {
+            "user": "UB",
+            "text": "I'd let Curlie bend me into a preztel"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Every ride is fun when I'm involved"
+        },
+        {
+            "user": "FinnT730",
+            "text": "just put the plate in the mouth, and run around like a chicken"
+        },
+        {
+            "user": "uSkizzik",
+            "text": "help me step-diesieben, I'm stuck"
+        },
+        {
+            "user": "illy",
+            "text": "THERE IS NO CAlM OnlY ROLe"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "aka <strong style=\"font-size: 115%\">SlapableShirmp</strong>",
+            "text": "do you need to go to slappers anonymous ashers?"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "T'was the night before gonkmas, all was calm. Until I came in and GONKED SHIT UP"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "pros: meow [...] cons: hair"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "You're a nice CSS Devtool Tails <img class=\"emote\" src=\"https://twemoji.maxcdn.com/svg/1f914.svg\" alt=\":thinking:\"/>"
+        },
+        {
+            "user": "illy",
+            "text": "permanent <img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/837318900726759501.webp\" alt=\":lexthink:\"/><img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/837318900726759501.webp\" alt=\":lexthink:\"/><img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/837318900726759501.webp\" alt=\":lexthink:\"/><img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/837318900726759501.webp\" alt=\":lexthink:\"/><img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/837318900726759501.webp\" alt=\":lexthink:\"/>"
+        },
+        {
+            "user": "dpeter99",
+            "text": "just do the file system and stop the existential pondering"
+        },
+        {
+            "user": "zml",
+            "text": "goat simulator at scale"
+        },
+        {
+            "user": "zml",
+            "side_text": "again",
+            "text": "sometimes u've just gotta simulate a universe full of goats"
+        },
+        {
+            "user": "AshersLab",
+            "text": "web based fake ass ide site crap things"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Mrs Spookums aka the wurlie person</strong>",
+            "text": "if you say Wayland you're gonna get kicked Way the fuck out of this land"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Cock. Cock. Cock. Cock. Cock. Empty. Empty. Empty. Empty."
+        },
+        {
+            "user": "Amethyst",
+            "text": "this just in: universe expands"
+        },
+        {
+            "user": "uSkizzik",
+            "text": "wife is temporary, fox is forever"
+        },
+        {
+            "user": "dpeter99",
+            "text": "If the parent is killed, all the children should be killed as well"
+        },
+        {
+            "user": "Amethyst",
+            "text": "if you can't take a dick once in your life you have no business being here"
+        },
+        {
+            "user": "Amethyst",
+            "text": "If it's a children's game it shouldn't have me in it <img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/837125030479134730.webp\" alt=\":stabolb:\"/>"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Don't stick your toes in the cat?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "He'll take it like a champ :)"
+        },
+        {
+            "user": "GreenGrassIsGreen",
+            "text": "keep going babe I'm nearly there."
+        },
+        {
+            "user": "AshersLab",
+            "text": "OwO"
+        },
+        {
+            "user": "Amethyst",
+            "text": "help me step-finn, i slipped"
+        },
+        {
+            "user": "illy",
+            "text": "... my yeys burn"
+        },
+        {
+            "user": "Amethyst",
+            "text": "the mental image of two stereotypical pirates talking about mining is now in my head and i don't know why"
+        },
+        {
+            "user": "Citrine",
+            "text": "in that regard she's much like a lion <img class=\"emote\" src=\"https://twemoji.maxcdn.com/svg/1f914.svg\" alt=\":thinking:\"/>"
+        },
+        {
+            "user": "Paint_Ninja",
+            "text": "Sex Might Help"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Ethrytrhtheyries"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Illy, i have something more special planned for you ;)"
+        },
+        {
+            "user": "Quartz",
+            "text": "mom is contemplating communism"
+        },
+        {
+            "user": "Maci",
+            "text": "I dont make porn"
+        },
+        {
+            "user": "FinnT730",
+            "text": "hey, you have 3 Ass's"
+        },
+        {
+            "user": "Amethyst",
+            "text": "boutta nut all over your wiring if you're not careful"
+        },
+        {
+            "user": "Citrine",
+            "text": "curle is dickgirl confirmed /s"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "I'm more concerned about the backend"
+        },
+        {
+            "user": "FinnT730",
+            "text": "windows just cummed itself, but it should not BSOD for it"
+        },
+        {
+            "user": "PlatinPython",
+            "text": "... it lets me swipe fuck and whatever else I desire"
+        },
+        {
+            "user": "PlatinPython",
+            "text": "I do multiple fingers"
+        },
+        {
+            "user": "illy",
+            "text": "so yeah replicating sexual repoduction in code is slightly difficult"
+        },
+        {
+            "user": "illy",
+            "text": "Not saying I can't get these fuckers to bone, it's just motivating them to do it"
+        },
+        {
+            "user": "uSkizzik",
+            "side_text": "aka <strong style=\"font-size: 115%\">Sikzkick</strong>",
+            "text": "shitty gets violated"
+        },
+        {
+            "user": "Amethyst",
+            "text": "There's fucking balls everywhere"
+        },
+        {
+            "user": "Lex",
+            "text": "Don't make fun of my FART, it's quick, small, barely know its happened, but it's effects are powerful!"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "with a machine gun",
+            "text": "no context, only XM214 Microgun"
+        },
+        {
+            "user": "Silk",
+            "text": "Literally best dong ever"
+        },
+        {
+            "user": "dpeter99",
+            "text": "With the weird ass MC mod that had like tentacles going to a pig"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Let them die"
+        },
+        {
+            "user": "Citrine",
+            "side_text": "son of said idiot",
+            "text": "curle is official an idiot"
+        },
+        {
+            "user": "Amethyst",
+            "text": "It's a quote problem"
+        },
+        {
+            "user": "Amethyst",
+            "text": "but slashers is pretty fun"
+        },
+        {
+            "user": "AshersLab",
+            "side_text": "aka <strong style=\"font-size: 115%\">A<img class=\"emote\" src=\"https://twemoji.maxcdn.com/svg/1f52a.svg\" alt=\":knife:\"/>H</strong>",
+            "text": "<i>kinky</i>"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "the cursed",
+            "text": "guess i'm uncursed"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Curle could you porn Mcreator to..."
+        },
+        {
+            "user": "Amethyst",
+            "text": "well, welsh favors the well endowed"
+        },
+        {
+            "user": "UB",
+            "text": "I'm going to commit atrocities."
+        },
+        {
+            "user": "UB",
+            "text": "Don't choke on it Finn"
+        },
+        {
+            "user": "Amethyst",
+            "text": "A distraction from your true purpose, which is to serve me."
+        },
+        {
+            "user": "UB",
+            "text": "Dommy mommy Curle is cursed."
+        },
+        {
+            "user": "Amethyst",
+            "text": "pubic final class HiddenModelPart"
+        },
+        {
+            "user": "PlatinPython",
+            "side_text": "aka <strong style=\"font-size: 115%\">Platina</strong>",
+            "text": "Paint, quit being horny"
+        },
+        {
+            "user": "UB",
+            "text": "I'm jealous that I'm not included as a pet"
+        },
+        {
+            "user": "UB",
+            "text": "Curle is just doing Curle things curlently"
+        },
+        {
+            "user": "AnonymousHacker1279",
+            "text": "curle just assassinated paint"
+        },
+        {
+            "user": "Maci",
+            "text": "Handicapped symbols are programmed to become hammer and sickle"
+        },
+        {
+            "user": "Maci",
+            "text": "Every toilet for the impeded is actually a meeting room for the communist party"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I can confirm that I can also feel my entire body now, which is cool"
+        },
+        {
+            "user": "SizableShrimp",
+            "side_text": "talking about an Advent of Code annoncement ping",
+            "text": "it's the most wonderful ping of the year"
+        },
+        {
+            "user": "FinnT730",
+            "text": "If I can thrust them"
+        },
+        {
+            "user": "illy",
+            "text": "I'll be back to report how I taste"
+        },
+        {
+            "user": "Amethyst",
+            "text": "I operate on Neptune time"
+        },
+        {
+            "user": "illy",
+            "text": "Woo taste me again at my layover"
+        },
+        {
+            "user": "illy",
+            "__TODO":  "10/10 using html instead",
+            "text": "Illy tastes good ¹⁰/¹⁰ would recommend"
+        },
+        {
+            "user": "modding_2",
+            "text": "The heart of your tutorial is the generator."
+        },
+        {
+            "user": "Amethyst",
+            "text": "You know, i think Lex might have been right"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Water you doing ashers"
+        },
+        {
+            "user": "AnonymousHacker1279",
+            "side_text": "talking about <strong style=\"font-size: 115%\">Ashers</strong> loading a shotgun",
+            "text": "appropriate reaction when seeing a leaf"
+        },
+        {
+            "user": "Amethyst",
+            "text": "It's an eternal buildup with no climax"
+        },
+        {
+            "user": "UB",
+            "text": "It's been a dream of mine since I was a boy to get lost in a dark forest thank you ma'am you will not regret giving me this opportunity"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Staring at this error, i have now transcended language itself"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Ater, for one, welcomes our new robutt overlords"
+        },
+        {
+            "user": "dpeter99",
+            "text": "yes i have feelings?"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "2021",
+            "text": "I got corn inside me"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i daresay it'll suck 4 balls"
+        },
+        {
+            "user": "Amethyst",
+            "text": "tl;dr i found a hole and chaos ensued"
+        },
+        {
+            "user": "FinnT730",
+            "text": "Fuck trains are having issues today"
+        },
+        {
+            "user": "Amethyst",
+            "text": "welcome to 'bending your mind out your ass' Tuesday. i'm your host, Curle"
+        },
+        {
+            "user": "AshersLab",
+            "text": "f*** in black magic"
+        },
+        {
+            "user": "Amethyst",
+            "text": "how the fuck do i fuck"
+        },
+        {
+            "user": "Silk",
+            "text": "I approve unprotected sex"
+        },
+        {
+            "user": "Systemless",
+            "text": "<mention>Paint_Ninja</mention>d"
+        },
+        {
+            "user": "gigaherz",
+            "text": "nothing wrong with having NSFW thoughts involving Tom Scott"
+        },
+        {
+            "user": "Amethyst",
+            "text": "finn doesn't get the honor of fapping with the team."
+        },
+        {
+            "user": "UB",
+            "text": "Citrine quit simping for your teacher."
+        },
+        {
+            "user": "illy",
+            "text": "the good ole underpants gnomes"
+        },
+        {
+            "user": "UB",
+            "text": "Women are not real Silk"
+        },
+        {
+            "user": "Ashers",
+            "side_text": "to <strong style=\"font-size: 115%\">IchHabeHunger54</strong> f***ing up adding the previous quote, <strong style=\"font-size: 115%\">FinnT730</strong> replicated that but worse with this one",
+            "text": "“Women” that’s it"
+        },
+        {
+            "user": "gigaherz",
+            "side_text": "aka <strong style=\"font-size: 115%\">Mimirherz</strong>",
+            "text": "hey I may be only a head, but I'm people too"
+        },
+        {
+            "user": "Amethyst",
+            "text": "more like Cocker amirite"
+        },
+        {
+            "user": "illy",
+            "text": "sexy but booo!"
+        },
+        {
+            "user": "Amethyst",
+            "text": "anyone .... in this server is by default a sussy baka"
+        },
+        {
+            "user": "Amethyst",
+            "text": "C is just UNIX Java anyway."
+        },
+        {
+            "user": "Citrine",
+            "text": "who's my daddy"
+        },
+        {
+            "user": "AshersLab",
+            "side_text": "aka <strong style=\"font-size: 115%\">Hel</strong>",
+            "text": "<mention>uSkizzik</mention> i've taken your warnginity"
+        },
+        {
+            "user": "Amethyst",
+            "text": "Fellas, there's enough Curle for everyone. No need to fight"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "<img class=\"emote\" src=\"https://cdn.discordapp.com/emojis/867570087119814676.webp\" alt=\":hmmm:\"/> I should .... lewd"
+        },
+        {
+            "user": "Silk",
+            "text": "Sit while shitting or shit while sitting"
+        },
+        {
+            "user": "Amethyst",
+            "text": "There's a lewd baka among us"
+        },
+        {
+            "user": "Paint_Ninja",
+            "text": "ask it nyicewy uwu"
+        },
+        {
+            "user": "Silk",
+            "text": "Well yes Fuck is always good"
+        },
+        {
+            "user": "Amethyst",
+            "text": "There is no hammering a team member"
+        },
+        {
+            "user": "AshersLab",
+            "text": "tell me, how much midget porn is there"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "aka <strong style=\"font-size: 115%\">Frigga</strong>",
+            "text": "It's amusing because Frigga is spoken like \"frigger\", which is slang for something very lewd :P"
+        },
+        {
+            "user": "sibomots",
+            "side_text": "aka <strong style=\"font-size: 115%\">Bifrost</strong>",
+            "text": "It's a curle world. We just live in it"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "Mod idea, make a wazoo [...]"
+        },
+        {
+            "user": "Citrine",
+            "text": "are you having problems with an unruly member of your server? seek no further! dial C for Curle!"
+        },
+        {
+            "user": "Amethyst",
+            "text": "yeah. you know, when they're stiff"
+        },
+        {
+            "user": "AshersLab",
+            "text": "Uncursumtised… hehehehehe"
+        },
+        {
+            "user": "FinnT730",
+            "text": "this is all I have, and I need to cram it in"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "I'd give it if I could find it"
+        },
+        {
+            "user": "Amethyst",
+            "text": "it literally doesn't touch the damn sides at maximum squeeze"
+        },
+        {
+            "user": "Silk",
+            "text": "Why is it always about a dick measurement context?"
+        },
+        {
+            "user": "Silk",
+            "text": "Don't think I did not not see you"
+        },
+        {
+            "user": "Silk",
+            "text": "Quote ass"
+        },
+        {
+            "user": "Amethyst",
+            "text": "but he's got the qualifications for me to suck it up"
+        },
+        {
+            "user": "Silk",
+            "text": "!slap ass"
+        },
+        {
+            "user": "Silk",
+            "side_text": "aka <strong style=\"font-size: 115%\">Helheim</strong> aka aka <strong style=\"font-size: 115%\">Assheim</strong>",
+            "text": "I guess I'm Assheim now"
+        } ,
+        {
+            "user": "Amethyst",
+            "text": "Where are the balls, woman?!"
+        },
+        {
+            "user": "Silk",
+            "text": "Penis"
+        },
+        {
+            "user": "Silk",
+            "text": "No, sciwhiz do me [...] Do me first"
+        },
+        {
+            "user": "Silk",
+            "text": "Only dick"
+        },
+        {
+            "user": "MissingTexture",
+            "text": "Welcum to Ater's sex dungeon"
+        },
+        {
+            "user": "Quartz",
+            "text": "mhhh the moon looks utmost fuckeable today"
+        },
+        {
+            "user": "Silk",
+            "text": "Developing 1.12.2 was easier"
+        },
+        {
+            "user": "Silk",
+            "side_text": "aka <strong style=\"font-size: 115%\">Silky</strong>",
+            "text": "My sexy dispenser! May I ask for your assistance?"
+        },
+        {
+            "user": "cpw",
+            "side_text": "from a stream",
+            "text": "NO t!!!!!"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "I've been the shadowy puppet master of the whole modding community"
+        },
+        {
+            "user": "Simon [Lanse505]",
+            "text": "don't quote me on that"
+        },
+        {
+            "user": "Silk",
+            "text": "Did you get the boobies?"
+        },
+        {
+            "user": "TimePath",
+            "text": "Looked [ZenScript] up; yes, and it's effectively watered down JavaScript with a sprinkling of sugar on top"
+        },
+        {
+            "user": "TimePath",
+            "text": "solution: transcend humanity"
+        },
+        {
+            "user": "Amethyst",
+            "side_text": "in response to Finn saying a car just exploded on the street",
+            "text": "<i>Posts a gif of dancing nurses<i>"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "Or should I just go suck it and use dicks"
+        },
+        {
+            "user": "uSkizzik",
+            "text": "Plot twist, tt has a slave in his basement answering the commands"
+        },
+        {
+            "user": "Amethyst",
+            "text": "shrimp lays eggs?"
+        },
+        {
+            "user": "AnonymousHacker1279",
+            "text": "NOOOOOOOO, MY NUTS!"
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "one sex"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "<img class=\"emote\" src=\"https://twemoji.maxcdn.com/svg/2728.svg\" alt=\":sparkles:\"/> <i>simply dies</i><img class=\"emote\" src=\"https://twemoji.maxcdn.com/svg/2728.svg\" alt=\":sparkles:\"/>"
+        },
+        {
+            "user": "Su5eD",
+            "text": "Just make sure to finish by the time I wake up"
+        },
+        {
+            "user": "Amethyst",
+            "text": "i'm gonna use that shit up like it's a roll of toilet paper after Taco Bell"
+        },
+        {
+            "user": "Silk",
+            "text": "Sha if you're a coollrbijd"
+        },
+        {
+            "user": "AshersLab",
+            "text": "it's really weird technically being at work with no shirt on"
+        },
+        {
+            "user": "AnonymousHacker1279",
+            "text": "silk is doing the sex with his keyboard"
+        },
+        {
+            "user": "MissingTexture",
+            "text": "We are discussing shape of shrimp's ass and who is the real Silk"
+        },
+        {
+            "user": "sciwhiz12",
+            "side_text": "to <strong style=\"font-size: 115%\">Curle</strong>",
+            "text": "since you're currently '<code>yo</code> in chief' in my mind"
+        },
+        {
+            "user": "sciwhiz12",
+            "text": "I wonder if I can back that up with evidence"
+        },
+        {
+            "user": "SizableShrimp",
+            "text": "if I deleted all my mess as Ed I would be spiders"
+        },
+        {
+            "user": "AshersLab",
+            "side_text": "aka <strong style=\"font-size: 115%\">Hel</strong>",
+            "text": "gonna mute shirmp"
+        },
+        {
+            "user": "Silk",
+            "text": "How does C# shit?"
+        },
+        {
+            "user": "Amethyst",
+            "text": "That's why they call me quick finger jenny."
+        },
+        {
+            "user": "AterAnimAvis",
+            "text": "I don't mind a quick finger"
+        },
+        {
+            "user": "Amethyst",
+            "text": "use the bottom. it's more fun"
         }
     ]
 }
