@@ -128,3 +128,8 @@ a, a:visited {
     color: var(--link-color);
     text-decoration: none;
 }
+
+/* Add some top/bottom margin between pargraphs and surrounding elements */
+p {
+    margin-block: 1.2em;
+}
