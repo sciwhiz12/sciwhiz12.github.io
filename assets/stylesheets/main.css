@@ -30,9 +30,17 @@
     padding: 0;
 }
 
-/* Force the height of the page to be full, so we can place the footer at the very bottom */
-html, body {
-    height: 100%;
+/*
+ * Force the minimum height of the page to be full, so we can place the footer at the very bottom 
+ *
+ * We use "min-height: 100vh" instead of "height: 100%" on both <html> and <body> as that doesn't
+ * force the body height to be fixed to the initial viewport size instead of the height 
+ * following the actual height of the content.
+ *
+ * See https://greggod.medium.com/css-do-not-put-height-100-on-the-body-html-e36bda3551b3
+ */
+body {
+    min-height: 100vh;
 }
 
 body {
